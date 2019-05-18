@@ -16,7 +16,7 @@ authors = ["Tiago Ventura"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["7"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper, Under review"
@@ -50,7 +50,7 @@ slides = ""
 tags = ["Brazil", "LASSO", "Mayoral Politics", "RDD"]
 
 # Links (optional).
-url_pdf = "files/Ventura-political_boosting.pdf"
+url_pdf = "https://www.dropbox.com/s/is02gaivwrb52rt/Ventura-political_boosting.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
