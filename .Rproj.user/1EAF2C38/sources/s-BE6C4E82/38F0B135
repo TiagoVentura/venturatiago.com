@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1558143738436.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "38F0B135",
-    "lastKnownWriteTime" : 1558127757,
-    "last_content_update" : 1558144260047,
+    "lastKnownWriteTime" : 1558151527,
+    "last_content_update" : 1558151527012,
     "path" : "C:/Users/Tiago Ventura/Dropbox/web_new/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "11,44",
-        "scrollLine" : "8"
+        "cursorPosition" : "28,9",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,

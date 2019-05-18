@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tiago Ventura</title>
-    <link>/tags/</link>
+    <link>/blod/tags/</link>
     <description>Recent content in Tags on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blod/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brazil</title>
-      <link>/tags/brazil/</link>
+      <link>/blod/tags/brazil/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/brazil/</guid>
+      <guid>/blod/tags/brazil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LASSO</title>
-      <link>/tags/lasso/</link>
+      <link>/blod/tags/lasso/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/lasso/</guid>
+      <guid>/blod/tags/lasso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mayoral Politics</title>
-      <link>/tags/mayoral-politics/</link>
+      <link>/blod/tags/mayoral-politics/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/mayoral-politics/</guid>
+      <guid>/blod/tags/mayoral-politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDD</title>
-      <link>/tags/rdd/</link>
+      <link>/blod/tags/rdd/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/rdd/</guid>
+      <guid>/blod/tags/rdd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>/blod/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/blod/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>/blod/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/blod/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>/blod/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/blod/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>/blod/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/blod/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>/blod/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/blod/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>/blod/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/blod/tags/regression/</guid>
       <description></description>
     </item>
     

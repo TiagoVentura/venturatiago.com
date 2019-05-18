@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LASSO on Tiago Ventura</title>
-    <link>/tags/lasso/</link>
+    <link>/blod/tags/lasso/</link>
     <description>Recent content in LASSO on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/lasso/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blod/tags/lasso/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics</title>
-      <link>/publication/boosting/</link>
+      <link>/blod/publication/boosting/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/boosting/</guid>
+      <guid>/blod/publication/boosting/</guid>
       <description></description>
     </item>
     

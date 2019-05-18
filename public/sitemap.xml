@@ -3,250 +3,250 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>/blod/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>/blod/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>/blod/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>/blod/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/blod/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/blod/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/apsa_violence/</loc>
+    <loc>/blod/talk/apsa_violence/</loc>
     <lastmod>2019-05-17T19:49:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/apsa_pwr/</loc>
+    <loc>/blod/talk/apsa_pwr/</loc>
     <lastmod>2019-05-17T19:46:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/7/</loc>
+    <loc>/blod/publication_types/7/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/blod/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/brazil/</loc>
+    <loc>/blod/tags/brazil/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/boosting/</loc>
+    <loc>/blod/publication/boosting/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lasso/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mayoral-politics/</loc>
+    <loc>/blod/tags/lasso/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/blod/tags/mayoral-politics/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rdd/</loc>
+    <loc>/blod/publication_types/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/blod/publication/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blod/tags/rdd/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blod/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/tiago-ventura/</loc>
+    <loc>/blod/authors/tiago-ventura/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/blod/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>/blod/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/blod/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>/blod/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>/blod/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
+    <loc>/blod/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/blod/publication_types/2/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/responsiveness/</loc>
+    <loc>/blod/publication/responsiveness/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/thamy-pogrebinschi/</loc>
+    <loc>/blod/authors/thamy-pogrebinschi/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/natalia-maciel/</loc>
+    <loc>/blod/authors/natalia-maciel/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/pt_electoral_bases/</loc>
+    <loc>/blod/publication/pt_electoral_bases/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/my-paper-name/</loc>
+    <loc>/blod/publication/my-paper-name/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/blod/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>/blod/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>/blod/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/blod/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/blod/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>/blod/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>/blod/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/blod/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/blod/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>/blod/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>/blod/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>/blod/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/blod/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blod/courses/</loc>
   </url>
   
 </urlset>

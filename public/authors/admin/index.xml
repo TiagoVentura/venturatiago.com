@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiago Ventura</title>
-    <link>/authors/admin/</link>
+    <link>/blod/authors/admin/</link>
     <description>Recent content on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blod/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>/blod/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>/blod/post/jupyter/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>/blod/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/blod/post/getting-started/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/blod/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>/blod/authors/admin/</guid>
       <description>Hi, welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a PhD and Master degree in Political Science from the State University of Rio de Janeiro, and a BA in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and violence in Brazil. I am also deeply interested in computational social science, and the use of cutting-edge research strategies to improve our understanding about social science puzzles.</description>
     </item>
     
