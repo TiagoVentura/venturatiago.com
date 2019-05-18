@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tiago Ventura</title>
-    <link>/blod/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/blod/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tiago Ventura</title>
-      <link>/blod/authors/tiago-ventura/</link>
+      <link>/authors/tiago-ventura/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/blod/authors/tiago-ventura/</guid>
+      <guid>/authors/tiago-ventura/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/blod/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blod/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>Hi, welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a PhD and Master degree in Political Science from the State University of Rio de Janeiro, and a BA in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and violence in Brazil. I am also deeply interested in computational social science, and the use of cutting-edge research strategies to improve our understanding about social science puzzles.</description>
     </item>
     
     <item>
       <title>Thamy Pogrebinschi</title>
-      <link>/blod/authors/thamy-pogrebinschi/</link>
+      <link>/authors/thamy-pogrebinschi/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blod/authors/thamy-pogrebinschi/</guid>
+      <guid>/authors/thamy-pogrebinschi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Maciel</title>
-      <link>/blod/authors/natalia-maciel/</link>
+      <link>/authors/natalia-maciel/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blod/authors/natalia-maciel/</guid>
+      <guid>/authors/natalia-maciel/</guid>
       <description></description>
     </item>
     
