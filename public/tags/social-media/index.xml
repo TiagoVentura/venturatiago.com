@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Tiago Ventura</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Tiago Ventura</description>
+    <title>Social Media on Tiago Ventura</title>
+    <link>/tags/social-media/</link>
+    <description>Recent content in Social Media on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Fri, 24 May 2019 13:51:56 -0400</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
       <guid>/publication/news_by_popular_demand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics</title>
-      <link>/publication/boosting/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/boosting/</guid>
       <description></description>
     </item>
     
