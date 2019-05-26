@@ -1,5 +1,5 @@
 +++
-title = "News_by_popular_demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing"
+title = "News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing"
 date = 2019-05-24T13:51:56-04:00
 draft = false
 

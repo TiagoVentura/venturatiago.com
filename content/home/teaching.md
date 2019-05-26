@@ -24,4 +24,5 @@ weight = 100
 
 - [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)
 
-- {{% staticref "files/gsa_tidyverse_workshop.html" %}}Introduction to tidyverse {{% /staticref %}}(Students-led Workshops at UMD)
+- [Introduction to tidyverse](https://www.dropbox.com/s/8ahhdxr9vpt0dxc/gsa_tidyverse_workshop.html?dl=0) (Students-led Workshops at UMD)
+
