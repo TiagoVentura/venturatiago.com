@@ -281,7 +281,17 @@
   </url>
   
   <url>
+    <loc>/files/gsa_tidyverse_workshop/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/files/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
