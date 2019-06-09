@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD Student in Political Science
     institution: University of Maryland, College Park
-  - course: Phd and MA in Political Science
+  - course: PhD and MA in Political Science
     institution: State University of Rio de Janeiro, Brazil
     year: 2018
   - course: Ba in Law
@@ -40,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I hold a PhD and Master degree in Political Science from the State University of Rio de Janeiro, and a BA in Law at Federal University of Para, Brazil. My research agenda is broadly speaking focused on politics of wealth inequality and violence in Brazil. I am also deeply interested in computational social science, and the use of cutting-edge research strategies to improve our understanding about social science puzzles. 
+Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use machine learning models for causal inference. 
 
-This summer I was invited to attend the Summer Institute in Computational Social Science in Princeton and the Summer Institute of the EITM in Emory. If you are around, and want grab a coffee, ideally a strong Brazilian expresso, just let me know! 
+This summer I was invited to attend the [Summer Institute in Computational Social Science in Princeton](https://compsocialscience.github.io/summer-institute/2019/) and the [Summer Institute of the EITM](http://eitm.emory.edu/) in Emory. If you are around, and want grab a coffee, ideally a strong Brazilian expresso, just let me know! 
