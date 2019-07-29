@@ -40,6 +40,5 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use machine learning models for causal inference. 
+Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference. 
 
-This summer I was invited to attend the [Summer Institute in Computational Social Science in Princeton](https://compsocialscience.github.io/summer-institute/2019/) and the [Summer Institute of the EITM](http://eitm.emory.edu/) in Emory. If you are around, and want grab a coffee, ideally a strong Brazilian expresso, just let me know! 
