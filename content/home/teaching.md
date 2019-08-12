@@ -14,15 +14,18 @@ subtitle = ""
 weight = 100
 
 +++
-## Teaching Assistant: Undergraduate Seminars
-
-- GVPT289: Politics in the Developing World
-- [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
 
 
-## Workshops
+## Workshops/R tutorials
 
 - [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)
 
 - {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} (Students-led Workshops at UMD)
+
+
+## Undergraduate Seminars
+
+- GVPT289: Politics in the Developing World
+- [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
+
 
