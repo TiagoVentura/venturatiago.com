@@ -40,16 +40,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>Welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use machine learning models for causal inference.
-This summer I was invited to attend the Summer Institute in Computational Social Science in Princeton and the Summer Institute of the EITM in Emory.</description>
-    </item>
-    
-    <item>
       <title>Thamy Pogrebinschi</title>
       <link>/authors/thamy-pogrebinschi/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
@@ -65,6 +55,15 @@ This summer I was invited to attend the Summer Institute in Computational Social
       
       <guid>/authors/natalia-maciel/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>Welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference.</description>
     </item>
     
   </channel>
