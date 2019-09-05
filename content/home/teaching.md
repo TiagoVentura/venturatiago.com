@@ -18,9 +18,12 @@ weight = 100
 
 ## Workshops/R tutorials
 
+
 - [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)
 
 - {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} (Students-led Workshops at UMD)
+
+- {{% staticref "files/crash_course_gvpt" %}} R Crash Course {{% /staticref %}} (GVPT 489: Tweeting Political Crisis)
 
 
 ## Undergraduate Seminars
