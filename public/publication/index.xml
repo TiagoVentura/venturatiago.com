@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Tiago Ventura</title>
-    <link>/publication/</link>
+    <link>http://tiagoventura.rbind.io/publication/</link>
     <description>Recent content in Publications on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Fri, 24 May 2019 13:51:56 -0400</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tiagoventura.rbind.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing</title>
-      <link>/publication/news_by_popular_demand/</link>
+      <link>http://tiagoventura.rbind.io/publication/news_by_popular_demand/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/publication/news_by_popular_demand/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/news_by_popular_demand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics</title>
-      <link>/publication/boosting/</link>
+      <link>http://tiagoventura.rbind.io/publication/boosting/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/boosting/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/boosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More Participation, Greater Responsiveness? National Public Policy Conferences and the Quality of Democracy in Brazil</title>
-      <link>/publication/responsiveness/</link>
+      <link>http://tiagoventura.rbind.io/publication/responsiveness/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/responsiveness/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/responsiveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Workers&#39; Party in the Chamber of Deputies: the evolution of the socioeconomic and territorial bases (1994–2014)</title>
-      <link>/publication/pt_electoral_bases/</link>
+      <link>http://tiagoventura.rbind.io/publication/pt_electoral_bases/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pt_electoral_bases/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/pt_electoral_bases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Democracy and participation. Democratic innovations and participatory routee in Brazil</title>
-      <link>/publication/my-paper-name/</link>
+      <link>http://tiagoventura.rbind.io/publication/my-paper-name/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/my-paper-name/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/my-paper-name/</guid>
       <description></description>
     </item>
     

@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tiago Ventura</title>
-    <link>/tags/</link>
+    <link>http://tiagoventura.rbind.io/tags/</link>
     <description>Recent content in Tags on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Fri, 24 May 2019 13:51:56 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tiagoventura.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gatekeeping</title>
-      <link>/tags/gatekeeping/</link>
+      <link>http://tiagoventura.rbind.io/tags/gatekeeping/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/tags/gatekeeping/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/gatekeeping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News Sharing</title>
-      <link>/tags/news-sharing/</link>
+      <link>http://tiagoventura.rbind.io/tags/news-sharing/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/tags/news-sharing/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/news-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media</title>
-      <link>/tags/social-media/</link>
+      <link>http://tiagoventura.rbind.io/tags/social-media/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/tags/social-media/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/social-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brazil</title>
-      <link>/tags/brazil/</link>
+      <link>http://tiagoventura.rbind.io/tags/brazil/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/brazil/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/brazil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LASSO</title>
-      <link>/tags/lasso/</link>
+      <link>http://tiagoventura.rbind.io/tags/lasso/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/lasso/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/lasso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mayoral Politics</title>
-      <link>/tags/mayoral-politics/</link>
+      <link>http://tiagoventura.rbind.io/tags/mayoral-politics/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/mayoral-politics/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/mayoral-politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDD</title>
-      <link>/tags/rdd/</link>
+      <link>http://tiagoventura.rbind.io/tags/rdd/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/tags/rdd/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/rdd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>http://tiagoventura.rbind.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>http://tiagoventura.rbind.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>http://tiagoventura.rbind.io/tags/demo/</guid>
       <description></description>
     </item>
     

@@ -2,59 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiago Ventura</title>
-    <link>/</link>
+    <link>http://tiagoventura.rbind.io/</link>
     <description>Recent content on Tiago Ventura</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://tiagoventura.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>http://tiagoventura.rbind.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>http://tiagoventura.rbind.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>http://tiagoventura.rbind.io/publication/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>http://tiagoventura.rbind.io/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>http://tiagoventura.rbind.io/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>http://tiagoventura.rbind.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>http://tiagoventura.rbind.io/project/</guid>
       <description></description>
     </item>
     
@@ -69,10 +59,10 @@
     
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>http://tiagoventura.rbind.io/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>http://tiagoventura.rbind.io/courses/</guid>
       <description>
 
 &lt;p&gt;I have served as teaching assistant on two undergraduate courses at University of Maryland, College Park. The weblinks below points to my GitHub page where I save the material I used in each course.&lt;/p&gt;
@@ -87,17 +77,17 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/TiagoVentura/UMD_workshop_Rpackages&#34; target=&#34;_blank&#34;&gt;How to build a R package?&lt;/a&gt; (Students-led Workshops at UMD)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/files/gsa_tidyverse_workshop.html&#34;&gt;Introduction to tidyverse&lt;/a&gt;(Students-led Workshops at UMD)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tiagoventura.rbind.io/files/gsa_tidyverse_workshop.html&#34;&gt;Introduction to tidyverse&lt;/a&gt;(Students-led Workshops at UMD)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Files</title>
-      <link>/files/</link>
+      <link>http://tiagoventura.rbind.io/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/files/</guid>
+      <guid>http://tiagoventura.rbind.io/files/</guid>
       <description></description>
     </item>
     

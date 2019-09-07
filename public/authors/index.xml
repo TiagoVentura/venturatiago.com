@@ -2,68 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tiago Ventura</title>
-    <link>/authors/</link>
+    <link>http://tiagoventura.rbind.io/authors/</link>
     <description>Recent content in Authors on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Fri, 24 May 2019 13:51:56 -0400</lastBuildDate>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ernesto Calvo</title>
-      <link>/authors/ernesto-calvo/</link>
+      <link>http://tiagoventura.rbind.io/authors/ernesto-calvo/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/authors/ernesto-calvo/</guid>
+      <guid>http://tiagoventura.rbind.io/authors/ernesto-calvo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Aruguete</title>
-      <link>/authors/natalia-aruguete/</link>
+      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/authors/natalia-aruguete/</guid>
+      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiago Ventura</title>
-      <link>/authors/tiago-ventura/</link>
+      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/authors/tiago-ventura/</guid>
+      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thamy Pogrebinschi</title>
-      <link>/authors/thamy-pogrebinschi/</link>
+      <link>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/thamy-pogrebinschi/</guid>
+      <guid>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Maciel</title>
-      <link>/authors/natalia-maciel/</link>
+      <link>http://tiagoventura.rbind.io/authors/natalia-maciel/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/natalia-maciel/</guid>
+      <guid>http://tiagoventura.rbind.io/authors/natalia-maciel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>http://tiagoventura.rbind.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>Welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference.</description>
+      <guid>http://tiagoventura.rbind.io/authors/admin/</guid>
+      <description>Welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park.
+I study the consequences of crime exposure and inequality on political behaviour, in particular in the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference.</description>
     </item>
     
   </channel>
