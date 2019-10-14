@@ -3,295 +3,219 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>http://tiagoventura.rbind.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>http://tiagoventura.rbind.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>http://tiagoventura.rbind.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>http://tiagoventura.rbind.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>http://tiagoventura.rbind.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://tiagoventura.rbind.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/ernesto-calvo/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gatekeeping/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/natalia-aruguete/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/news-sharing/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/news_by_popular_demand/</loc>
+    <loc>http://tiagoventura.rbind.io/publication_types/1/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+    <loc>http://tiagoventura.rbind.io/authors/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/social-media/</loc>
+    <loc>http://tiagoventura.rbind.io/authors/ernesto-calvo/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/gatekeeping/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/tiago-ventura/</loc>
+    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/apsa_violence/</loc>
+    <loc>http://tiagoventura.rbind.io/publication/news_by_popular_demand/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/news-sharing/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/social-media/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/apsa_violence/</loc>
     <lastmod>2019-05-17T19:49:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/apsa_pwr/</loc>
+    <loc>http://tiagoventura.rbind.io/talk/apsa_pwr/</loc>
     <lastmod>2019-05-17T19:46:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/brazil/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/boosting/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/brazil/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lasso/</loc>
+    <loc>http://tiagoventura.rbind.io/publication/boosting/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/mayoral-politics/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/lasso/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/rdd/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/mayoral-politics/</loc>
     <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>http://tiagoventura.rbind.io/tags/rdd/</loc>
+    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>http://tiagoventura.rbind.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+    <loc>http://tiagoventura.rbind.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/responsiveness/</loc>
+    <loc>http://tiagoventura.rbind.io/publication_types/2/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/thamy-pogrebinschi/</loc>
+    <loc>http://tiagoventura.rbind.io/publication/responsiveness/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/natalia-maciel/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/pt_electoral_bases/</loc>
+    <loc>http://tiagoventura.rbind.io/authors/natalia-maciel/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/my-paper-name/</loc>
+    <loc>http://tiagoventura.rbind.io/publication/pt_electoral_bases/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication/my-paper-name/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>http://tiagoventura.rbind.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/files/crash_course_gvpt/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>http://tiagoventura.rbind.io/files/gsa_tidyverse_workshop/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>http://tiagoventura.rbind.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://tiagoventura.rbind.io/courses/</loc>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/files/gsa_tidyverse_workshop/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/files/</loc>
-    <priority>0</priority>
+    <loc>http://tiagoventura.rbind.io/files/</loc>
   </url>
   
 </urlset>

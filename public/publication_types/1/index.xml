@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Tiago Ventura</title>
-    <link>/publication_types/1/</link>
+    <link>http://tiagoventura.rbind.io/publication_types/1/</link>
     <description>Recent content in 1 on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Fri, 24 May 2019 13:51:56 -0400</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tiagoventura.rbind.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing</title>
-      <link>/publication/news_by_popular_demand/</link>
+      <link>http://tiagoventura.rbind.io/publication/news_by_popular_demand/</link>
       <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
       
-      <guid>/publication/news_by_popular_demand/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/news_by_popular_demand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics</title>
-      <link>/publication/boosting/</link>
+      <link>http://tiagoventura.rbind.io/publication/boosting/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/boosting/</guid>
+      <guid>http://tiagoventura.rbind.io/publication/boosting/</guid>
       <description></description>
     </item>
     

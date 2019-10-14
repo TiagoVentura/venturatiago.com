@@ -24,7 +24,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'venturat@umd.edu'
+  link: mailto:venturat@umd.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_tiagoventura
@@ -40,5 +40,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. I study the consequences of crime exposure and inequality on political behaviour, in particular the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference. 
+Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. 
+
+I study the consequences of crime exposure and inequality on political behaviour, in particular in the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference. 
 
