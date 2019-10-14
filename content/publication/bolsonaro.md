@@ -1,6 +1,6 @@
 +++
-title = "News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing"
-date = 2019-05-24T13:51:56-04:00
+title = "Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro Election"
+date = 2019-10-14T15:35:10-04:00
 draft = false
 
 
@@ -24,7 +24,7 @@ publication = "Working Paper, Under review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US."
+abstract = "The increasing importance of news sharing as a digital business model raises new questions about content creation in polarized environments. In this article, we propose a model where news organizations, concerned with maximizing market shares, select editorial lines that cater to politically polarized consumers. Our model shows that positive reputation assessments by readers will be associated with media moderation while low reputation outlets will benefit from publicizing more extreme positions. The model provides a road map to researchersinterested in the relationship between two major theories in political communication, news sharing and editorial gatekeeping. We test the proposed theory with Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -48,10 +48,10 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Social Media", "News Sharing", "Gatekeeping"]
+tags = ["Social Media", "News Sharing", "Gatekeeping", "Brazil"]
 
 # Links (optional).
-url_pdf = "files/News_by_popular_demand_II.pdf"
+url_pdf = "files/Sharing_News_in__Bolsonaro.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
