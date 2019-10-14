@@ -24,7 +24,7 @@ role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'venturat@umd.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_tiagoventura
