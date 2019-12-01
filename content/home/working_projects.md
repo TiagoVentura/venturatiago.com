@@ -74,8 +74,9 @@ This Research Project started during the 2019, [Summer Institute in Computationa
 </details>
 
 
-**The Electoral Killing Cycle**<br/>
+<details>
+<summary> **The Electoral Killing Cycle**<br/>
 Mariana Carvalho and Tiago Ventura<br/>
-*Draft prepared for the Annual Meeting of APSA, 2019 *</summary>
-
+*Draft prepared for the Annual Meeting of MPSA, 2019 *</summary>
+</details>
 
