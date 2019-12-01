@@ -53,6 +53,6 @@ Bem-vindo ao meu site!
 
 Sou aluno de doutorado em Ciência Política na Universidade de Maryland, College Park, Estados Unidos. Minha pesquisa foca em economica política comparada e comportamento político. Minha tese propõe um modelo teórico para compreender efeito de desigualdade econômica e victimização em preferencias por políticas de segurança na América Latina. 
 
-No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no Instituto de Estudos Sociais e Políticos na Universidade do Estado do Rio Janeiro (IESP-UERJ). Minha agenda de pesquisa no Brasil focou-se principalmente em formas de medir efetividade de experiências participativas e inovações democráticas, instituições e partidos politicos, sobretudo o Partido dos Trabalhadores. Desenvolvi meus estudos no Brasil sob coordenação de [Thamy Pogrebinschi](https://thamypogrebinschi.org/) e [Fabiano Santos](http://www.iesp.uerj.br/es/docentes/fabiano-guilherme-mendes-santos/). 
+No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no IESP-UERJ. Minha agenda de pesquisa focou-se principalmente em formas de medir efetividade de experiências participativas e partidos politicos, sobretudo o Partido dos Trabalhadores. Tive o privilégio de trabalhar sob coordenação de [Thamy Pogrebinschi](https://thamypogrebinschi.org/) e [Fabiano Santos](http://www.iesp.uerj.br/es/docentes/fabiano-guilherme-mendes-santos/) no Brasil. 
  
 
