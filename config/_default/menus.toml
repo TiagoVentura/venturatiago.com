@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "My Research"
-  url = "#myresearch"
+  name = "Featured Research"
+  url = "#featured"
   weight = 20
 
 [[main]]

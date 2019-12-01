@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include political economy of violence, redistribution and wealth inequality and and crime in Latin America. 
+bio: My research interests include political economy of violence and crime in Latin America. 
 education:
   courses:
   - course: PhD Student in Political Science
@@ -40,7 +40,19 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website!  I am a Ph.D. Student in Political Science at the University of Maryland, College Park. 
+<hr>
 
-I study the consequences of crime exposure and inequality on political behaviour, in particular in the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference. 
+Welcome to my website! 
+
+I am a Ph.D. Student in Political Science at the University of Maryland, College Park. 
+In my dissertation, I propose a insurance model to understand preferences for security endogenously defined by experiences of crime victimization and heterogeneity on wealth. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am currently working in a series of paper about content activation, news sharing, and political behavior on social media. I am broadly interested in the application of computational methods to the social sciences, with emphasis on social media data, NLP and machine learning.
+
+<hr>
+
+Bem-vindo ao meu site!
+
+Sou aluno de doutorado em Ciência Política na Universidade de Maryland, College Park, Estados Unidos. Minha pesquisa foca em economica política comparada e comportamento político. Minha tese propõe um modelo teórico para compreender efeito de desigualdade econômica e victimização em preferencias por políticas de segurança na América Latina. 
+
+No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no Instituto de Estudos Sociais e Políticos na Universidade do Estado do Rio Janeiro (IESP-UERJ). Minha agenda de pesquisa no Brasil focou-se principalmente em formas de medir efetividade de experiências participativas e inovações democráticas, instituições e partidos politicos, sobretudo o Partido dos Trabalhadores. Desenvolvi meus estudos no Brasil sob coordenação de [Thamy Pogrebinschi](https://thamypogrebinschi.org/) e [Fabiano Santos](http://www.iesp.uerj.br/es/docentes/fabiano-guilherme-mendes-santos/). 
+ 
 

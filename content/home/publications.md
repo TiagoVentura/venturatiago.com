@@ -1,6 +1,6 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent blog posts from `content/publication_wp/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "And papers under review"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

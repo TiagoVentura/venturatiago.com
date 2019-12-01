@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Mon, 14 Oct 2019 15:35:10 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ernesto Calvo</title>
       <link>/authors/ernesto-calvo/</link>
-      <pubDate>Mon, 14 Oct 2019 15:35:10 -0400</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/ernesto-calvo/</guid>
       <description></description>
@@ -24,16 +24,25 @@
     <item>
       <title>Natalia Aruguete</title>
       <link>/authors/natalia-aruguete/</link>
-      <pubDate>Mon, 14 Oct 2019 15:35:10 -0400</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/natalia-aruguete/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Silvio Waisbord</title>
+      <link>/authors/silvio-waisbord/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/silvio-waisbord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tiago Ventura</title>
       <link>/authors/tiago-ventura/</link>
-      <pubDate>Mon, 14 Oct 2019 15:35:10 -0400</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/tiago-ventura/</guid>
       <description></description>
@@ -63,8 +72,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>Welcome to my website! I am a Ph.D. Student in Political Science at the University of Maryland, College Park.
-I study the consequences of crime exposure and inequality on political behaviour, in particular in the support for punitive agendas in Latin America. My political methodology research focuses on issues with social media and big data, and the use of machine learning models for causal inference.</description>
+      <description>Welcome to my website!
+I am a Ph.D. Student in Political Science at the University of Maryland, College Park. In my dissertation, I propose a insurance model to understand preferences for security endogenously defined by experiences of crime victimization and heterogeneity on wealth. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am currently working in a series of paper about content activation, news sharing, and political behavior on social media.</description>
     </item>
     
   </channel>

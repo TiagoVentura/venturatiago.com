@@ -16,7 +16,8 @@ authors = ["Tiago Ventura"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["1"]
+publication_type = ["7"]
+
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper, Under review"
@@ -75,6 +76,9 @@ math = true
 [image]
   # Caption (optional)
   caption = ""
+  
+  # featured
+  featured = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

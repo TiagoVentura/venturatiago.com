@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Tiago Ventura</title>
-    <link>/blod/publication_types/7/</link>
+    <link>/publication_types/7/</link>
     <description>Recent content in 7 on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blod/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics</title>
-      <link>/blod/publication/boosting/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics.</title>
+      <link>/publication/boosting/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blod/publication/boosting/</guid>
-      <description></description>
+      <guid>/publication/boosting/</guid>
+      <description>In this paper, I show that parties in Brazil boost their national performance earning more votes on House elections in districts where their members control the local office.  I discuss how higher access to pork controlled by House members and information gains from local incumbency explain the effects. Using a Bayesian LASSO algorithm to address data sparsity in RD designs, I further show the existence of pro-large party bias.</description>
     </item>
     
   </channel>
