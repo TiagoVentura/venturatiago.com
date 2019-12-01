@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 80  # Order that this section will appear.
 
 title = "Work in Progress"
-subtitle = "Pre-Prints Available for All Projects on Request"
+subtitle = "Pre-Prints Available on Request"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,49 +49,33 @@ subtitle = "Pre-Prints Available for All Projects on Request"
 
 
 <details>
-  <summary>**The political complexity of attack and defense**<br/>
-Talbot M. Andrews, Leonie Huddy, Reuben Kline, H. Hannah Nam, and Katherine Sawyer<br/>
-*Forthcoming Commentary in Behavioral and Brain Sciences*</summary>
+  <summary>**Voting for Violence: The Election of Law and Order Politicians in Brazil**<br/>
+Tiago Ventura <br/>
+*Dissertation Chapter, In preparation*</summary>
 
-De Dreu and Gross’s distinction between attack and defense is complicated in real-world conflicts because competing leaders construe their position as one of defense, and power imbalances place status quo challengers in a defensive position. Their account of defense as vigilant avoidance is incomplete because it avoids a reference to anger which transforms anxious avoidance into collective and unified action. 
-
-</details>
-
-
-<details>
-  <summary>**Making useful political decisions for others: Experiments on Strategic Social Preferences**<br/>
-Talbot M. Andrews, Andrew W. Delton, & Reuben Kline<br/>
-*Under Review*</summary>
-
-Politics often involves making decisions on behalf of others. Will citizens make these decisions for others in ways that are useful? Classic models that assume citizens are narrowly self-interested suggest they will not. More recent models incorporating social preferences—the willingness of people to pay personal costs to benefit others—suggests people will help others, including through political activity. We extend these models using two experimental games which ask not just whether people will pay a cost on behalf of others, but whether they will do so in a way that is strategically useful. Our game simulates making decisions to prevent others from experiencing disaster. We find that players are not only generous but are strategically so: Players tended to choose in the way that furthers positive outcomes for others. Our experiments suggest social preferences can lead to useful political decisions on behalf of others.
-
-</details>
-
-
-**When Trust Matters: The Case of Gun Control**<br/>
-Tracy Goodwin, John Barry Ryan, and Talbot Andrews<br/>
-*Under Review*
-
-<details>
-  <summary>**Cost Conflation and the Mitigation of Collective Risk**<br/>
-Talbot M. Andrews & John Barry Ryan<br/>
-</summary>
-
-How do we best mobilize people to pay the costs of disaster prevention? Though
-intuitively it makes sense to emphasize the damages associated with failed prevention, we find that this activates a novel heuristic, “cost conflation,” where people assume expensive problems require extensive solutions. Using both an incentivized experiment and formal modeling techniques, we find subjects engage in cost conflation. As a result, people fail to prevent smaller disasters and pay too much to prevent large disasters when cheap solutions exist. Further, overemphasizing disaster damages could undermine successful prevention because, under cost conflation, people may view these disasters as too big to solve.
+When do politicians running on a punitive agenda against crime benefit at the polls? Informed by the classic literature on economic models for welfare preferences, I consider a model that predicts voters have redistributive and insurance incentives to vote for tough-on-crime policies. Redistribution plays a role because the costs from a rise in punitive policies fall mostly on low-income groups; therefore, the affluent gain higher benefits of protection, and pay lower costs when supporting promises of from law and order candidates. On the insurance side, I argue that the chance of being a crime victim shapes the amount of public insurance the voter is willing to buy in the electoral market. The model predicts that the redistributive and insurance effects are correlated due lower probability of a rich voter being victim of externalities from iron-fist policies. When crime rises,  I predict wealthy voters tend to express stronger preferences for tough-on-crime policies . The model is empirically tested using data from Brazil where violence has become a central concern and politicians from law enforcement agencies have appeared quite frequently on the ballot. The results provide a general theory to understand preferences for punishment when voting in the midst of violence.
 
 </details>
 
 
 <details>
-  <summary>**Who do you trust? Inefficiency Incentives in Climate Change Mitigation**<br/>
-Talbot M. Andrews, Andrew W. Delton, and Reuben Kline<br/>
-</summary>
-
-Climate change is an extremely polarized issue in the United States, with leaders across the political spectrum sending very different messages about whether and how we should implement mitigation policies. Do citizens have the tools necessary to distinguish between helpful and unhelpful information about mitigation policies? Leaders have different incentives which constrain their support for or opposition to mitigation spending. Here we test whether citizens are sensitive to different institutions which may give leaders an incentive to misrepresent the cost of providing public goods like mitigation or disaster prevention. We use an incentivized experiment to do so, specifically using a modified collective risk social dilemma. In this public goods game, players must contribute enough money to prepare for an ongoing disaster. Leaders know the exact cost of damage prevention, and send signals to the other players about the cost. We show that people are sensitive to institutional differences: when leaders have a stake in inefficiency, citizens trust the leader less and contribute less to the public good. In the midst of bleak research on mitigation policy support, we provide optimistic evidence of people’s ability to differentiate between helpful and unhelpful information about mitigation policies
-
+  <summary>**Have no Faith in Constitutions? The Content of Rebel Constitutions in Civil War**<br/>
+Katherine Sawyer, William Reed, and Tiago Ventura<br/>
+*Draft prepared for the Annual Meeting of APSA, 2019 *</summary>
+This paper summarizes results from the analysis of 103 rebel group constitutions. The analysis shows that rebel constitutions tend to differ systematically across five general dimensions. Estimating these constitutional topics using our sample of rebel constitutions makes an important contribution to the emerging literature on rebel political institutions. Rebel constitutions can be used for several purposes, and the data suggest that the topics in the constitutions are correlated with meta data about the strategic political environment in which the rebels reside. 
 </details>
 
-**Rebel Recruitment in Civil Conflict**<br/>
-Katherine Sawyer and Talbot Andrews<br/>
+
+<details>
+<summary>**The Effect of Streaming Chat on Perceptions of Debates** <br/>
+Victoria Asbury, Keng-Chi Chang, Katherine McCabe, 
+Kevin Munger, Tiago Ventura. <br/>
+This Research Project started during the 2019, [Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/) at Princeton. We received generous funding from Russel Sage Foundation to conduct the experiments on this project. </summary>
+</details>
+
+
+**The Electoral Killing Cycle**<br/>
+Mariana Carvalho and Tiago Ventura<br/>
+*Draft prepared for the Annual Meeting of APSA, 2019 *</summary>
+
 

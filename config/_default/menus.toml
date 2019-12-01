@@ -17,6 +17,10 @@
   name = "Publications"
   url = "#publications"
   weight = 20
+[[main]]
+  name = "Work in Progress"
+  url = "#working_projects"
+  weight = 30
 
 [[main]]
   name = "Teaching"
