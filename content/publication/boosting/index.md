@@ -7,7 +7,7 @@ doi: ""
 featured: true
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "center"
   preview_only: true
 publication: "Working paper, Under Review"
 publication_short: Working Paper, Under Review
