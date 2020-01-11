@@ -47,10 +47,13 @@ Welcome to my website!
 I am a Ph.D. Student in Political Science at the University of Maryland, College Park. 
 In my dissertation, I propose a insurance model to understand preferences for security in Latin America. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am currently working in a series of paper about content activation and news sharing on social media. Methodologicaly,  I am broadly interested in the application of computational methods to the social sciences, with emphasis on social media data, NLP and machine learning.
 
+Check it out the materials of my recent workshop I offered this winter in Brazil on [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (In Portugues, Workshop at The Federal University of Para, Brazil)
+
 <hr>
 
 Bem-vindo ao meu site!
 
 Sou aluno de doutorado em Ciência Política na Universidade de Maryland, College Park, Estados Unidos. Minha pesquisa foca em economica política comparada e comportamento político. Minha tese propõe um modelo teórico para compreender efeito de desigualdade econômica e victimização em preferencias por políticas de segurança na América Latina. No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no IESP-UERJ. Minha agenda de pesquisa focou-se principalmente em formas de medir efetividade de experiências participativas e partidos politicos, sobretudo o Partido dos Trabalhadores. Tive o privilégio de trabalhar sob coordenação de [Thamy Pogrebinschi](https://thamypogrebinschi.org/) e [Fabiano Santos](http://www.iesp.uerj.br/es/docentes/fabiano-guilherme-mendes-santos/) no Brasil. 
  
+Confira neste link os materiais do workshop [Acessando dados da web em R](https://tiagoventura.github.io/workshop_ufpa/) que ofertei na minha alma-mater, Universidade Federal do Para. 
 

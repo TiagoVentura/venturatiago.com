@@ -18,6 +18,7 @@ weight = 100
 
 ## Workshops/R tutorials
 
+- [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (In Portugues, Workshop at The Federal University of Para, Brazil)
 
 - [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshops at UMD)
 
