@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Work in Progress"
-subtitle = "Pre-Prints Available on Request"
+subtitle = "Pre-Prints Available upon Request"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

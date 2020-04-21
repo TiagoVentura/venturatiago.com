@@ -10,7 +10,7 @@
 
 <meta name="author" content="Tiago Ventura" />
 
-<meta name="date" content="2019-09-05" />
+<meta name="date" content="2020-04-21" />
 
 <title>Crash Course in R</title>
 
@@ -813,19 +813,19 @@ img {
 <div id="header">
 <h1 class="title">Crash Course in R</h1>
 <h4 class="author"><em>Tiago Ventura</em></h4>
-<h4 class="date"><em>2019-09-05</em></h4>
+<h4 class="date"><em>2020-04-21</em></h4>
 </div>
 
 <div id="content">
 <div id="our-work-today" class="section level1">
 <h1>Our work today</h1>
-<p>This code was prepared for a intro to R for the undegraduate seminar <em>Tweeting Politica Crisis</em> offerec by <a href="http://gvptsites.umd.edu/calvo/">Ernesto Calvo</a> at the University of Maryland, College Park.</p>
-<p>Today, I will cover some basic steps on learning R. The idea here is more to teach the students how to understand basic programming in R, how to navigate in the environment, and how and where to ask for help and learn more in the future.</p>
+<p>This code was prepared for a intro to R for the undegraduate seminar <em>Tweeting Politica Crisis</em> offered by <a href="http://gvptsites.umd.edu/calvo/">Ernesto Calvo</a> at the University of Maryland, College Park.</p>
+<p>I cover some basic steps on learning R in this tutorial. The idea here is more to teach the students how to understand basic programming in R, how to navigate in the environment, and how and where to ask for help and learn more in the future.</p>
 <p>This presentation was built using Rmarkdown, but I strongly suggest students to work directly in the R code attached to this presentation. All the materials can be download <a href="https://www.dropbox.com/s/mvm9esx55h6lzwq/crash_course_gvpt.zip?dl=0">here</a>.</p>
 <p>This code has been adapted from previous materials by <a href="http://ericdunford.com/">Eric Dunford</a>, <a href="https://nataliabueno.github.io/">Natalia Bueno</a>, and <a href="https://github.com/rochelleterman">Rochelle Terman</a></p>
 </div>
-<div id="how-am-i-and-how-did-i-learn-r" class="section level1">
-<h1>How am I and how did I learn R?</h1>
+<div id="who-am-i-and-how-did-i-learn-r" class="section level1">
+<h1>Who am I and how did I learn R?</h1>
 <p>My name is Tiago Ventura. I am a Ph.D. student in Government and Politics at the University of Maryland, College Park. I have been working in R for the last 5 years since I started Master degree in Brazil. You can find my website <a href="https://tiagoventura.rbind.io">here</a> and fell free to send me emails if you need help with R. You can also find me at Chiconteague 4118.</p>
 <p>I learned R through a fell different sources. Those are some of them:</p>
 <ul>
@@ -902,7 +902,9 @@ img {
 <a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">install.packages</span>(<span class="st">&quot;tidyverse&quot;</span>)</a></code></pre></div>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" data-line-number="1"><span class="co"># Activate the package</span></a>
 <a class="sourceLine" id="cb2-2" data-line-number="2"><span class="kw">library</span>(<span class="st">&quot;ggplot2&quot;</span>)</a></code></pre></div>
-<p>``` # Asking for help</p>
+</div>
+<div id="asking-for-help" class="section level1">
+<h1>Asking for help</h1>
 <ul>
 <li><code>?</code> + object opens a help page for that specific object</li>
 <li><code>??</code> + object searches help pages containing the name of the object</li>
@@ -1441,13 +1443,13 @@ Volvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2</code></pre>
 <a class="sourceLine" id="cb95-9" data-line-number="9"><span class="co"># (1) Use the what we know about boolean operators from last week. </span></a>
 <a class="sourceLine" id="cb95-10" data-line-number="10">data[data<span class="op">$</span>home_team<span class="op">==</span><span class="st">&quot;Brazil&quot;</span>,]</a></code></pre></div>
 <pre><code>          date home_team away_team home_score away_score    tournament
-424 1916-07-08    Brazil     Chile          1          1 Copa AmÃ©rica
-427 1916-07-12    Brazil   Uruguay          1          2 Copa AmÃ©rica
-460 1917-10-12    Brazil     Chile          5          0 Copa AmÃ©rica
-486 1919-05-11    Brazil     Chile          6          0 Copa AmÃ©rica
-491 1919-05-18    Brazil Argentina          3          1 Copa AmÃ©rica
-495 1919-05-26    Brazil   Uruguay          2          2 Copa AmÃ©rica
-496 1919-05-29    Brazil   Uruguay          1          0 Copa AmÃ©rica
+424 1916-07-08    Brazil     Chile          1          1 Copa AmÃÂ©rica
+427 1916-07-12    Brazil   Uruguay          1          2 Copa AmÃÂ©rica
+460 1917-10-12    Brazil     Chile          5          0 Copa AmÃÂ©rica
+486 1919-05-11    Brazil     Chile          6          0 Copa AmÃÂ©rica
+491 1919-05-18    Brazil Argentina          3          1 Copa AmÃÂ©rica
+495 1919-05-26    Brazil   Uruguay          2          2 Copa AmÃÂ©rica
+496 1919-05-29    Brazil   Uruguay          1          0 Copa AmÃÂ©rica
 498 1919-06-01    Brazil Argentina          3          3      Friendly
               city   country neutral
 424   Buenos Aires Argentina    TRUE
@@ -1462,9 +1464,9 @@ Volvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2</code></pre>
 <div class="sourceCode" id="cb97"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb97-1" data-line-number="1"><span class="co"># More complex?</span></a>
 <a class="sourceLine" id="cb97-2" data-line-number="2">data[data<span class="op">$</span>home_team<span class="op">==</span><span class="st">&quot;Brazil&quot;</span> <span class="op">&amp;</span><span class="st"> </span>data<span class="op">$</span>away_team<span class="op">==</span><span class="st">&quot;Argentina&quot;</span>,]</a></code></pre></div>
 <pre><code>           date home_team away_team home_score away_score    tournament
-491  1919-05-18    Brazil Argentina          3          1 Copa AmÃ©rica
+491  1919-05-18    Brazil Argentina          3          1 Copa AmÃÂ©rica
 498  1919-06-01    Brazil Argentina          3          3      Friendly
-655  1922-10-15    Brazil Argentina          2          0 Copa AmÃ©rica
+655  1922-10-15    Brazil Argentina          2          0 Copa AmÃÂ©rica
 660  1922-10-22    Brazil Argentina          2          1     Copa Roca
 2136 1939-01-15    Brazil Argentina          1          5     Copa Roca
 2139 1939-01-22    Brazil Argentina          3          2     Copa Roca
@@ -1474,11 +1476,11 @@ Volvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2</code></pre>
 491  Rio de Janeiro  Brazil   FALSE
 498  Rio de Janeiro  Brazil   FALSE
 655  Rio de Janeiro  Brazil   FALSE
-660      SÃ£o Paulo  Brazil   FALSE
+660      SÃÂ£o Paulo  Brazil   FALSE
 2136 Rio de Janeiro  Brazil   FALSE
 2139 Rio de Janeiro  Brazil   FALSE
-2222     SÃ£o Paulo  Brazil   FALSE
-2225     SÃ£o Paulo  Brazil   FALSE
+2222     SÃÂ£o Paulo  Brazil   FALSE
+2225     SÃÂ£o Paulo  Brazil   FALSE
  [ reached 'max' / getOption(&quot;max.print&quot;) -- omitted 37 rows ]</code></pre>
 <div class="sourceCode" id="cb99"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb99-1" data-line-number="1"><span class="co"># Subset and only give me the first column</span></a>
 <a class="sourceLine" id="cb99-2" data-line-number="2">data[data<span class="op">$</span>home_team<span class="op">==</span><span class="st">&quot;Brazil&quot;</span> <span class="op">&amp;</span><span class="st"> </span>data<span class="op">$</span>away_team<span class="op">==</span><span class="st">&quot;Argentina&quot;</span>, <span class="kw">c</span>(<span class="st">&quot;home_score&quot;</span>, <span class="st">&quot;away_score&quot;</span>)]</a></code></pre></div>
@@ -1637,7 +1639,7 @@ Volvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2</code></pre>
 [52] &quot;Honduras&quot;            &quot;Guyana&quot;              &quot;Uganda&quot;             
 [55] &quot;Belarus&quot;             &quot;El Salvador&quot;         &quot;Barbados&quot;           
 [58] &quot;Ireland&quot;             &quot;Trinidad and Tobago&quot; &quot;Greece&quot;             
-[61] &quot;CuraÃ§ao&quot;            &quot;Dominica&quot;            &quot;Guadeloupe&quot;         
+[61] &quot;CuraÃÂ§ao&quot;            &quot;Dominica&quot;            &quot;Guadeloupe&quot;         
 [64] &quot;Israel&quot;              &quot;Suriname&quot;            &quot;French Guyana&quot;      
 [67] &quot;Cuba&quot;                &quot;Colombia&quot;            &quot;Ecuador&quot;            
 [70] &quot;St. Kitts and Nevis&quot; &quot;Panama&quot;              &quot;Slovakia&quot;           
@@ -1872,7 +1874,7 @@ mu.36           Mexico       128
       	<button type="button" class="close">×</button>
         <ul>
         <li><a href="#our-work-today">Our work today</a></li>
-        <li><a href="#how-am-i-and-how-did-i-learn-r">How am I and how did I learn R?</a></li>
+        <li><a href="#who-am-i-and-how-did-i-learn-r">Who am I and how did I learn R?</a></li>
         <li><a href="#whats-r">What’s R?</a><ul>
         <li><a href="#golden-rules-of-r">Golden Rules of R</a></li>
         </ul></li>
@@ -1886,6 +1888,7 @@ mu.36           Mexico       128
         <li><a href="#bottom-right-pane-files-plots-packages-and-help">Bottom right pane (files, plots, packages, and help)</a></li>
         </ul></li>
         <li><a href="#installing-a-package-in-r">Installing a package in R</a></li>
+        <li><a href="#asking-for-help">Asking for help</a></li>
         <li><a href="#r-basics">R Basics</a><ul>
         <li><a href="#assigning-an-object">Assigning an Object</a></li>
         <li><a href="#class-of-the-objects">Class of the objects</a></li>
