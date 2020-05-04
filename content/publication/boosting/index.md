@@ -4,7 +4,7 @@ authors:
 - Tiago Ventura
 date: "2019-10-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: "center"

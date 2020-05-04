@@ -67,14 +67,6 @@ This paper summarizes results from the analysis of 103 rebel group constitutions
 
 
 <details>
-<summary>**The Effect of Streaming Chat on Perceptions of Debates** <br/>
-Victoria Asbury, Keng-Chi Chang, Katherine McCabe, 
-Kevin Munger, Tiago Ventura. <br/>
-This Research Project started during the 2019, [Summer Institute in Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/) at Princeton. We received generous funding from Russel Sage Foundation to conduct the experiments on this project. </summary>
-</details>
-
-
-<details>
 <summary> **The Electoral Killing Cycle**<br/>
 Mariana Carvalho and Tiago Ventura<br/>
 *Draft prepared for the Annual Meeting of MPSA, 2019 *</summary>

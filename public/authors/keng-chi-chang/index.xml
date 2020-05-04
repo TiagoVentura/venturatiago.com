@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keng-Chi Chang on Tiago Ventura</title>
+    <link>/authors/keng-chi-chang/</link>
+    <description>Recent content in Keng-Chi Chang on Tiago Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/keng-chi-chang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Effect of Streaming Chat on Perceptions of Debates.</title>
+      <link>/publication/streaming_chat/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/streaming_chat/</guid>
+      <description>We investigate how streaming chatboxes may shape perceptions of political events. We conducted a field experiment during the September 2019 Democratic Primary Debate where subjects were assigned to view the debate with or without streaming chatboxes. Subjects were encouraged to view the debate on the ABC homepage (with no chatbox), on FiveThirtyEight.com (expert chat) or on Facebook (social chat). Our experimental findings indicate that Democratic subjects assigned to the Facebook chat condition reported lower affect towards Democrats and a worse viewing experience.</description>
+    </item>
+    
+  </channel>
+</rss>
