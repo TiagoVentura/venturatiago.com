@@ -133,6 +133,8 @@ sharing = true
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+
+
 # Configuration of project pages.
 [projects]
   # Views for associated content.
