@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Will I get COVID-19? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil</title>
+      <link>/publication/will_i_get_covid/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/will_i_get_covid/</guid>
+      <description>We report results of a COVID-19 social media framing experiment with positive and negative partisan messages from high-level politicians. Descriptive results show that pro-government and opposition partisans report very different expectations of health and job risks. Job and health policy have become wedge issues that elicit partisan responses. Experimental treatment shows that responses are sensitive to negative frames (i.e. blame avoidance) and positive frames (i.e. cross-the-aisle)</description>
+    </item>
     
     <item>
       <title>The Effect of Streaming Chat on Perceptions of Debates.</title>

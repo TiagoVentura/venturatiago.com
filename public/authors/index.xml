@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ernesto Calvo</title>
+      <link>/authors/ernesto-calvo/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ernesto-calvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Ventura</title>
+      <link>/authors/tiago-ventura/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tiago-ventura/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Katherine McCabe</title>
@@ -40,29 +58,11 @@
     </item>
     
     <item>
-      <title>Tiago Ventura</title>
-      <link>/authors/tiago-ventura/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/tiago-ventura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Victoria Asbury</title>
       <link>/authors/victoria-asbury/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/victoria-asbury/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ernesto Calvo</title>
-      <link>/authors/ernesto-calvo/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ernesto-calvo/</guid>
       <description></description>
     </item>
     
