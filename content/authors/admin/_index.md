@@ -44,7 +44,7 @@ user_groups:
 
 Welcome to my website! 
 
-I am a Ph.D. Candidate in Government and Politics  at the University of Maryland, College Park. In my dissertation, I propose a insurance model to understand preferences for security in Latin America. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am currently working on a series of paper about content activation and news sharing on social media. Methodologically,  I am broadly interested in the application of computational methods to the social sciences, with emphasis on social media data, NLP and machine learning.
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park. In my dissertation, I propose an insurance model to understand preferences for security in Latin America. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am a Researcher at the Interdisciplinary Laboratory for Computational Social Science at the University of Maryland. In this position, I am currently working on a series of papers about content activation, news sharing, trust, and framing effects on social media. Methodologically,  I am broadly interested in the application of computational methods to the social sciences, with an emphasis on social media data, NLP, and machine learning.
 
 Check out the materials of the workshop I offered this winter in Brazil on [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (Material are all in Portuguese)
 

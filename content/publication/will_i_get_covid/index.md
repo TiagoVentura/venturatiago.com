@@ -54,7 +54,7 @@ tags = ["Social Media", "News Sharing", "Gatekeeping", "Brazil"]
 # Links (optional).
 
 url_pdf = "files/Calvo_Ventura_Covid_Social_Media.pdf"
-url_project = "files/PAP_Covid_Social_Media.pdf"
+url_project = "https://osf.io/gjcvn/"
 url_code = ""
 url_dataset = ""
 url_slides = ""
