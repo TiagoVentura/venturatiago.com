@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Tiago Ventura</title>
@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 15:35:10 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Going Local to Win the Nation: Political Boosting in Mayoral Politics.</title>
-      <link>/publication/boosting/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro Election</title>
+      <link>/publication/bolsonaro/</link>
+      <pubDate>Fri, 14 Aug 2020 15:35:10 -0400</pubDate>
       
-      <guid>/publication/boosting/</guid>
-      <description>In this paper, I show that parties in Brazil boost their national performance earning more votes on House elections in districts where their members control the local office.  I discuss how higher access to pork controlled by House members and information gains from local incumbency explain the effects. Using a Bayesian LASSO algorithm to address data sparsity in RD designs, I further show the existence of pro-large party bias.</description>
+      <guid>/publication/bolsonaro/</guid>
+      <description></description>
     </item>
     
   </channel>

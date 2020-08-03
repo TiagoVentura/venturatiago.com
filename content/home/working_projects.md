@@ -47,28 +47,14 @@ subtitle = "Pre-Prints Available upon Request"
  css_class = ""
 +++
 
+**Voting for Violence: The Election of Law and Order Politicians in Brazil**<br/>
+Tiago Ventura, *Dissertation Chapter, In preparation*
 
-<details>
-  <summary>**Voting for Violence: The Election of Law and Order Politicians in Brazil**<br/>
-Tiago Ventura <br/>
-*Dissertation Chapter, In preparation*</summary>
-
-When do politicians running on a punitive agenda against crime benefit at the polls? Informed by the classic literature on economic models for welfare preferences, I consider a model that predicts voters have redistributive and insurance incentives to vote for tough-on-crime policies. Redistribution plays a role because the costs from a rise in punitive policies fall mostly on low-income groups; therefore, the affluent gain higher benefits of protection, and pay lower costs when supporting promises of from law and order candidates. On the insurance side, I argue that the chance of being a crime victim shapes the amount of public insurance the voter is willing to buy in the electoral market. The model predicts that the redistributive and insurance effects are correlated due lower probability of a rich voter being victim of externalities from iron-fist policies. When crime rises,  I predict wealthy voters tend to express stronger preferences for tough-on-crime policies . The model is empirically tested using data from Brazil where violence has become a central concern and politicians from law enforcement agencies have appeared quite frequently on the ballot. The results provide a general theory to understand preferences for punishment when voting in the midst of violence.
-
-</details>
+**Have no Faith in Constitutions? The Content of Rebel Constitutions in Civil War**<br/>
+Katherine Sawyer, William Reed, and Tiago Ventura <br/>
+*Draft prepared for the Annual Meeting of APSA, 2019 *
 
 
-<details>
-  <summary>**Have no Faith in Constitutions? The Content of Rebel Constitutions in Civil War**<br/>
-Katherine Sawyer, William Reed, and Tiago Ventura<br/>
-*Draft prepared for the Annual Meeting of APSA, 2019 *</summary>
-This paper summarizes results from the analysis of 103 rebel group constitutions. The analysis shows that rebel constitutions tend to differ systematically across five general dimensions. Estimating these constitutional topics using our sample of rebel constitutions makes an important contribution to the emerging literature on rebel political institutions. Rebel constitutions can be used for several purposes, and the data suggest that the topics in the constitutions are correlated with meta data about the strategic political environment in which the rebels reside. 
-</details>
-
-
-<details>
-<summary> **The Electoral Killing Cycle**<br/>
+**The Electoral Killing Cycle**<br/>
 Mariana Carvalho and Tiago Ventura<br/>
-*Draft prepared for the Annual Meeting of MPSA, 2019 *</summary>
-</details>
-
+*Draft prepared for the Annual Meeting of MPSA, 2019*
