@@ -1,6 +1,6 @@
 +++
 title = "Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro Election"
-date = 2020-08-14T15:35:10-04:00
+date = 2020-07-14T15:35:10-04:00
 draft = false
 
 
