@@ -8,7 +8,7 @@ authors:
 - Tiago Ventura
 date: "2020-05-05T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: "center"

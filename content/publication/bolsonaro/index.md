@@ -1,6 +1,6 @@
 +++
 title = "Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro Election"
-date = 2019-10-14T15:35:10-04:00
+date = 2020-08-14T15:35:10-04:00
 draft = false
 
 
@@ -20,15 +20,17 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under review"
+publication = "Working Paper, Under review. *Invited to Revise & Resubmit*  "
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The increasing importance of news sharing as a digital business model raises new questions about content creation in polarized environments. In this article, we propose a model where news organizations, concerned with maximizing market shares, select editorial lines that cater to politically polarized consumers. Our model shows that positive reputation assessments by readers will be associated with media moderation while low reputation outlets will benefit from publicizing more extreme positions. The model provides a road map to researchersinterested in the relationship between two major theories in political communication, news sharing and editorial gatekeeping. We test the proposed theory with Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil."
+abstract = "The increasing importance of news sharing, and its effect on the routines, practices, and values described by the hierarchy of influences model, raises new questions about content creation in polarized social media environments. How does news sharing change the gatekeeping preferences of news organizations? Will polarized users polarize news organizations further? We model users' news sharing behavior using observational data from Twitter and then use the parameters from our model to explain its effect on editorial gatekeeping. We test our model using Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = true
+featured= true
+
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,7 +53,7 @@ slides = ""
 tags = ["Social Media", "News Sharing", "Gatekeeping", "Brazil"]
 
 # Links (optional).
-url_pdf = "files/Sharing_News_in__Bolsonaro.pdf"
+url_pdf = "files/Sharing_News_in__Bolsonaro_2020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

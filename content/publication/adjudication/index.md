@@ -7,7 +7,7 @@ authors:
 - Natalia Aruguete
 date: "2019-12-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: "center"
