@@ -5,7 +5,7 @@ draft = false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Victoria Asbury", "","Tiago Ventura"]
+authors = ["Victoria Asbury", "Keng Chi-Change","Katherine McCabe", "Kevin Munger", "Tiago Ventura"]
 
 # Publication type.
 # Legend:
