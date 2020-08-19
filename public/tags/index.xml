@@ -2,67 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tiago Ventura</title>
-    <link>http://tiagoventura.rbind.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Tue, 14 Jul 2020 15:35:10 -0400</lastBuildDate>
     
-	<atom:link href="http://tiagoventura.rbind.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brazil</title>
-      <link>http://tiagoventura.rbind.io/tags/brazil/</link>
+      <link>/tags/brazil/</link>
       <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/brazil/</guid>
+      <guid>/tags/brazil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gatekeeping</title>
-      <link>http://tiagoventura.rbind.io/tags/gatekeeping/</link>
+      <link>/tags/gatekeeping/</link>
       <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/gatekeeping/</guid>
+      <guid>/tags/gatekeeping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News Sharing</title>
-      <link>http://tiagoventura.rbind.io/tags/news-sharing/</link>
+      <link>/tags/news-sharing/</link>
       <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/news-sharing/</guid>
+      <guid>/tags/news-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media</title>
-      <link>http://tiagoventura.rbind.io/tags/social-media/</link>
+      <link>/tags/social-media/</link>
       <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/social-media/</guid>
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments</title>
+      <link>/tags/experiments/</link>
+      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/tags/experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Chats</title>
+      <link>/tags/streaming-chats/</link>
+      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/tags/streaming-chats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://tiagoventura.rbind.io/tags/deep-learning/</link>
+      <link>/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/deep-learning/</guid>
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>http://tiagoventura.rbind.io/tags/demo/</link>
+      <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/tags/demo/</guid>
+      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     

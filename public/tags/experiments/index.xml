@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiments on Tiago Ventura</title>
+    <link>/tags/experiments/</link>
+    <description>Recent content in Experiments on Tiago Ventura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
+    <lastBuildDate>Thu, 14 May 2020 15:35:10 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/experiments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Effect of Streaming Chat on Perceptions of Debates.</title>
+      <link>/publication/streaming_chat/</link>
+      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/publication/streaming_chat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
