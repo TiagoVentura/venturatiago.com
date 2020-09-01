@@ -1,5 +1,5 @@
 +++
-title = "The Effect of Streaming Chat on Perceptions of Debates."
+title = "The Effect of Streaming Chat on Perceptions of Debates"
 date = 2020-05-14T15:35:10-04:00
 draft = false
 
