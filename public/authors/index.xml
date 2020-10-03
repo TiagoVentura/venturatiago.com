@@ -2,112 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tiago Ventura</title>
-    <link>http://tiagoventura.rbind.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 15:35:10 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 15:35:10 -0400</lastBuildDate>
     
-	<atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ernesto Calvo</title>
-      <link>http://tiagoventura.rbind.io/authors/ernesto-calvo/</link>
-      <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
+      <title>Fabiano Santos</title>
+      <link>/authors/fabiano-santos/</link>
+      <pubDate>Sat, 03 Oct 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/ernesto-calvo/</guid>
+      <guid>/authors/fabiano-santos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Natalia Aruguete</title>
-      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
-      <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
+      <title>Talita Tanscheit</title>
+      <link>/authors/talita-tanscheit/</link>
+      <pubDate>Sat, 03 Oct 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
+      <guid>/authors/talita-tanscheit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiago Ventura</title>
-      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
+      <link>/authors/tiago-ventura/</link>
+      <pubDate>Sat, 03 Oct 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/authors/tiago-ventura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernesto Calvo</title>
+      <link>/authors/ernesto-calvo/</link>
       <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
+      <guid>/authors/ernesto-calvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Aruguete</title>
+      <link>/authors/natalia-aruguete/</link>
+      <pubDate>Tue, 14 Jul 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/authors/natalia-aruguete/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katherine McCabe</title>
-      <link>http://tiagoventura.rbind.io/authors/katherine-mccabe/</link>
+      <link>/authors/katherine-mccabe/</link>
       <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/katherine-mccabe/</guid>
+      <guid>/authors/katherine-mccabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keng Chi-Change</title>
-      <link>http://tiagoventura.rbind.io/authors/keng-chi-change/</link>
+      <link>/authors/keng-chi-change/</link>
       <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/keng-chi-change/</guid>
+      <guid>/authors/keng-chi-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kevin Munger</title>
-      <link>http://tiagoventura.rbind.io/authors/kevin-munger/</link>
+      <link>/authors/kevin-munger/</link>
       <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/kevin-munger/</guid>
+      <guid>/authors/kevin-munger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Victoria Asbury</title>
-      <link>http://tiagoventura.rbind.io/authors/victoria-asbury/</link>
+      <link>/authors/victoria-asbury/</link>
       <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/victoria-asbury/</guid>
+      <guid>/authors/victoria-asbury/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvio Waisbord</title>
-      <link>http://tiagoventura.rbind.io/authors/silvio-waisbord/</link>
+      <link>/authors/silvio-waisbord/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/silvio-waisbord/</guid>
+      <guid>/authors/silvio-waisbord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thamy Pogrebinschi</title>
-      <link>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</link>
+      <link>/authors/thamy-pogrebinschi/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</guid>
+      <guid>/authors/thamy-pogrebinschi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natalia Maciel</title>
-      <link>http://tiagoventura.rbind.io/authors/natalia-maciel/</link>
+      <link>/authors/natalia-maciel/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/natalia-maciel/</guid>
+      <guid>/authors/natalia-maciel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://tiagoventura.rbind.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>Welcome to my website!
 I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park. In my dissertation, I propose an insurance model to understand preferences for security in Latin America. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am a Researcher at the Interdisciplinary Laboratory for Computational Social Science at the University of Maryland.</description>
     </item>
