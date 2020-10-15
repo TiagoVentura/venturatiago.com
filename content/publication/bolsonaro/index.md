@@ -1,6 +1,6 @@
 +++
 title = "Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro Election"
-date = 2020-07-14T15:35:10-04:00
+date = 2020-10-14T15:35:10-04:00
 draft = false
 
 
@@ -17,11 +17,11 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under review. *Invited to Revise & Resubmit*  "
-publication_short = ""
+publication = "Accepted at *Digital Journalism* "
+publication_short = "Accepted at *Digital Journalism*"
 
 # Abstract and optional shortened version.
 abstract = "The increasing importance of news sharing, and its effect on the routines, practices, and values described by the hierarchy of influences model, raises new questions about content creation in polarized social media environments. How does news sharing change the gatekeeping preferences of news organizations? Will polarized users polarize news organizations further? We model users' news sharing behavior using observational data from Twitter and then use the parameters from our model to explain its effect on editorial gatekeeping. We test our model using Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil."
