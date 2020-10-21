@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_wps on Tiago Ventura</title>
-    <link>http://tiagoventura.rbind.io/publication_wp/</link>
-    <description>Recent content in Publication_wps on Tiago Ventura</description>
+    <title>Working Papers (Under Review) on Tiago Ventura</title>
+    <link>/publication_wp/</link>
+    <description>Recent content in Working Papers (Under Review) on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Thu, 14 May 2020 15:35:10 -0400</lastBuildDate>
     
-	<atom:link href="http://tiagoventura.rbind.io/publication_wp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_wp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil.</title>
-      <link>http://tiagoventura.rbind.io/publication_wp/will_i_get_covid/</link>
+      <title>The Effect of Streaming Chat on Perceptions of Debates</title>
+      <link>/publication_wp/streaming_chat/</link>
       <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/publication_wp/will_i_get_covid/</guid>
+      <guid>/publication_wp/streaming_chat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil.</title>
+      <link>/publication_wp/will_i_get_covid/</link>
+      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
+      
+      <guid>/publication_wp/will_i_get_covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winning! Adjudication and Dialogue in Social Media</title>
+      <link>/publication_wp/adjudication/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_wp/adjudication/</guid>
+      <description>This article introduces the concept of adjudication to define the act of granting or denying ownership of an outcome to individuals or groups in social media. We extend existing models of political dialogue to explain differences between winners and losers when elections are adjudicated.</description>
+    </item>
+    
+    <item>
+      <title>News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing</title>
+      <link>/publication_wp/news_by_popular_demand/</link>
+      <pubDate>Fri, 24 May 2019 13:51:56 -0400</pubDate>
+      
+      <guid>/publication_wp/news_by_popular_demand/</guid>
       <description></description>
     </item>
     

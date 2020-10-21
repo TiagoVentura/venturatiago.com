@@ -18,6 +18,12 @@
   url = "#publications"
   weight = 20
 [[main]]
+  name = "Papers Under Review"
+  url = "#publication_wp"
+  weight = 30
+
+
+[[main]]
   name = "Work in Progress"
   url = "#working_projects"
   weight = 30

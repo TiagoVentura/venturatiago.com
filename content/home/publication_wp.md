@@ -4,16 +4,16 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 
-title = "Publications_wp"
-subtitle = "And papers under review"
+title = "Under Review"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication_"
+  page_type = "publication_wp"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5

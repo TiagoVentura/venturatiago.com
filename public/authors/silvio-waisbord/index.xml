@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silvio Waisbord on Tiago Ventura</title>
-    <link>http://tiagoventura.rbind.io/authors/silvio-waisbord/</link>
+    <link>/authors/silvio-waisbord/</link>
     <description>Recent content in Silvio Waisbord on Tiago Ventura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
     <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://tiagoventura.rbind.io/authors/silvio-waisbord/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/silvio-waisbord/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Winning! Adjudication and Dialogue in Social Media</title>
-      <link>http://tiagoventura.rbind.io/publication/adjudication/</link>
+      <link>/publication_wp/adjudication/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/publication/adjudication/</guid>
+      <guid>/publication_wp/adjudication/</guid>
       <description>This article introduces the concept of adjudication to define the act of granting or denying ownership of an outcome to individuals or groups in social media. We extend existing models of political dialogue to explain differences between winners and losers when elections are adjudicated.</description>
     </item>
     
