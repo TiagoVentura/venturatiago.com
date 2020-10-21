@@ -9,7 +9,7 @@ weight = 50  # Order that this section will appear.
 
 
 title = "Publications"
-subtitle = "And papers under review"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

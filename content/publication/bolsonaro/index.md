@@ -3,7 +3,6 @@ title = "Polarization, News Sharing, and Gatekeeping: A study of the Bolsonaro E
 date = 2020-10-14T15:35:10-04:00
 draft = false
 
-
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 
@@ -29,7 +28,7 @@ abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= false
+featured= true
 
 
 # Projects (optional).
