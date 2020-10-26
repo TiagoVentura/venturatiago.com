@@ -27,7 +27,6 @@ disqusShortname = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
-
 # Get last modified date for content from Git?
 enableGitInfo = false
 
@@ -39,7 +38,7 @@ defaultContentLanguageInSubdir = false
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
