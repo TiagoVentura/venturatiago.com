@@ -1,6 +1,6 @@
 +++
 title = "Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil"
-date = 2020-10-30T15:35:10-04:00
+date = 2020-10-26T15:35:10-04:00
 draft = false
 
 
