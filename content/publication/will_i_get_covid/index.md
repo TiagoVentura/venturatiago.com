@@ -1,6 +1,6 @@
 +++
-title = "Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil."
-date = 2020-05-14T15:35:10-04:00
+title = "Will I Get Covid? Partisanship, Social Media Frames, and Perceptions of Health Risk in Brazil"
+date = 2020-10-30T15:35:10-04:00
 draft = false
 
 
@@ -17,10 +17,10 @@ authors = ["Ernesto Calvo","Tiago Ventura"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under review"
+publication = "Accepter at Latin America Politics and Society"
 publication_short = ""
 
 # Abstract and optional shortened version.
