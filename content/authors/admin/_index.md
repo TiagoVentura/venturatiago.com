@@ -44,7 +44,13 @@ user_groups:
 
 Welcome to my website! 
 
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park. In my dissertation, I propose an insurance model to understand preferences for security in Latin America. I use a combination of formal modeling, experimental methods, and causal inference models to test the empirical implications of the model. Beyond my dissertation, I am a Researcher at the Interdisciplinary Laboratory for Computational Social Science at the University of Maryland. In this position, I am currently working on a series of papers about content activation, news sharing, trust, and framing effects on social media. Methodologically,  I am broadly interested in the application of computational methods to the social sciences, with an emphasis on social media data, NLP, and machine learning.
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park.  I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, networks analysis, and  machine learning.
+
+My three-paper dissertation focuses on political violence in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies. 
+
+In addition to my personal research, I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD, working under the supervision of Dr. Ernesto Calvo. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics. 
+
+My research has been published at _Electoral Studies, Digital Journalism, Latin American Politics and Society, and The SAGE Handbook of Research Methods in Political Science and International Relations_ 
 
 <hr>
 

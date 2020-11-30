@@ -17,7 +17,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper, Under review"
@@ -25,7 +25,8 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US."
-abstract_short = ""
+
+abstract_short = "In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -81,3 +82,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+
+### Abstract
+
+In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US.
