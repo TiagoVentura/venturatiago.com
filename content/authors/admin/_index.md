@@ -34,6 +34,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/TiagoVentura
+- icon: cv
+  icon_pack: ai
+  link: http://tiagoventura.rbind.io/files/cv.pdf
 superuser: true
 user_groups:
 - Researchers
@@ -45,7 +48,7 @@ user_groups:
 
 Welcome to my website! 
 
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park.  I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, networks analysis, and  machine learning.
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park.  I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, network analysis, and  machine learning.
 
 My three-paper dissertation focuses on political violence in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies. 
 

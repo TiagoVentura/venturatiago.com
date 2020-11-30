@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Sun, 15 Nov 2020 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carlos Scarscitini</title>
       <link>http://tiagoventura.rbind.io/authors/carlos-scarscitini/</link>
-      <pubDate>Sun, 15 Nov 2020 15:35:10 -0400</pubDate>
+      <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/carlos-scarscitini/</guid>
       <description></description>
@@ -20,9 +20,27 @@
     <item>
       <title>Ernesto Calvo</title>
       <link>http://tiagoventura.rbind.io/authors/ernesto-calvo/</link>
-      <pubDate>Sun, 15 Nov 2020 15:35:10 -0400</pubDate>
+      <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/ernesto-calvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Aruguete</title>
+      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
+      <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Ventura</title>
+      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
+      <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
       <description></description>
     </item>
     
@@ -36,29 +54,11 @@
     </item>
     
     <item>
-      <title>Natalia Aruguete</title>
-      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
-      <pubDate>Sun, 15 Nov 2020 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sandra Ley</title>
       <link>http://tiagoventura.rbind.io/authors/sandra-ley/</link>
       <pubDate>Sun, 15 Nov 2020 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/sandra-ley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiago Ventura</title>
-      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
-      <pubDate>Sun, 15 Nov 2020 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
       <description></description>
     </item>
     
@@ -150,7 +150,7 @@
       
       <guid>http://tiagoventura.rbind.io/authors/admin/</guid>
       <description>Welcome to my website!
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park. I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, networks analysis, and machine learning.</description>
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park. I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, network analysis, and machine learning.</description>
     </item>
     
   </channel>

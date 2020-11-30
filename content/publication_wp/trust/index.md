@@ -1,6 +1,6 @@
 +++
 title = "Trustful Voters, Trustworthy Politicians: A Survey Experiment on the Influence of Social Mediain Politics"
-date = 2020-11-30T15:35:10-04:00
+date = 2020-11-29T15:35:10-04:00
 draft = false
 
 
