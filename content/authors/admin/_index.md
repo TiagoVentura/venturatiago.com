@@ -42,6 +42,7 @@ user_groups:
 
 <hr>
 
+
 Welcome to my website! 
 
 I am a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (UMD) Ph.D. Candidate in Government and Politics at the University of Maryland, College Park.  I have a research agenda focused in comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational and experimental data, text analysis, networks analysis, and  machine learning.

@@ -10,7 +10,7 @@ day_night = true
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "custom_t"
-#font_size ="L"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Personal website of tiago ventura, political science, maryland"
 
