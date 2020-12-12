@@ -46,19 +46,17 @@ user_groups:
 <hr>
 
 
-Welcome to my website! 
+Welcome! 
 
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I research on comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. I wield a broad variety of empirical tools in my work, including causal inference models in observational data, experimental designs, text analysis, network analysis, and  machine learning models.
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I research on comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. Starting in January, I will be the **Young Talent fellow in Computational Social Science** at FGV Rio de Janeiro. 
 
-My three-paper dissertation focuses on political violence in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies. 
+My dissertation research focuses on criminal violence and political behavior in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies.  
 
 In addition to my personal research, I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD, working under the supervision of Dr. Ernesto Calvo. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics. 
 
-My research has been published at _Electoral Studies, Digital Journalism, Latin American Politics and Society, and The SAGE Handbook of Research Methods in Political Science and International Relations_ 
+My research has been published at _Electoral Studies, Digital Journalism, Latin American Politics and Society, and The SAGE Handbook of Research Methods in Political Science and International Relations_ . 
 
-<hr>
+<!---  Bem-vindo ao meu site!
 
-Bem-vindo ao meu site!
-
-Sou aluno de doutorado em Ciência Política na Universidade de Maryland, College Park, Estados Unidos. Minha pesquisa foca em economica política comparada e comportamento político. Minha tese propõe um modelo teórico para compreender efeito de desigualdade econômica e victimização em preferencias por políticas de segurança na América Latina. No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no IESP-UERJ. Minha agenda de pesquisa focou-se principalmente em formas de medir efetividade de experiências participativas e partidos politicos.  Confira neste link os materiais do workshop [Acessando dados da web em R](https://tiagoventura.github.io/workshop_ufpa/) que ofertei na minha alma-mater, Universidade Federal do Para. 
+Sou aluno de doutorado em Ciência Política na Universidade de Maryland, College Park, Estados Unidos. Minha pesquisa foca em economica política comparada e comportamento político. Minha tese propõe um modelo teórico para compreender efeito de desigualdade econômica e victimização em preferencias por políticas de segurança na América Latina. No Brasil, obtive os títulos de  Mestrado e Doutorado em Ciência Política no IESP-UERJ. Minha agenda de pesquisa focou-se principalmente em formas de medir efetividade de experiências participativas e partidos politicos.  Confira neste link os materiais do workshop [Acessando dados da web em R](https://tiagoventura.github.io/workshop_ufpa/) que ofertei na minha alma-mater, Universidade Federal do Para. -->
 

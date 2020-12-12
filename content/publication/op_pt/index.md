@@ -55,7 +55,6 @@ tags = ["The Workers' Party", "Paticipatory Budget", "Party Facctions", "Brazil"
 
 url_pdf = "files/STV_PT_E_OP.pdf"
 url_project = ""
-url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
