@@ -53,7 +53,7 @@ tags = ["Social Media", "News Sharing", "Gatekeeping", "Brazil"]
 
 # Links (optional).
 
-url_preprint = "files/Calvo_Ventura_Covid_Social_Media.pdf"
+url_preprint = "Calvo_Ventura_Covid_Social_Media.pdf"
 url_project = "https://osf.io/gjcvn/"
 url_code = "https://github.com/TiagoVentura/Calvo_Ventura_LAPS_2021"
 url_dataset = ""
