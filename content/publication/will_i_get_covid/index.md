@@ -20,8 +20,8 @@ authors = ["Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at Latin America Politics and Society"
-publication_short = ""
+publication = "*Latin America Politics and Society*"
+publication_short = "*Latin America Politics and Society*"
 
 # Abstract and optional shortened version.
 abstract = "In these polarized and challenging times, not even perceptions of personal risk are immune to partisanship. This paper introduces results from a new survey with an embedded social media experiment conducted during the first months of the COVID-19 pandemic in Brazil. Descriptive results show that pro-government and opposition partisans report very different expectations of health and job risks. Job and health policy have become wedge issues that elicit partisan responses. We exploit random variation in the survey recruitment to show the effects of the first President’s speech on national TV on risk perceptions and how partisanship moderates these results. We conclude with a framing experiment that models key cognitive mechanisms driving partisan differences in perceptions of health risks and job security during the COVID-19 crisis"
@@ -65,10 +65,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
-[[url_custom]]
-name = "Publisher Page"
-url = "files/PAP_Covid_Social_Media.pdf" 
- 
+
 # Digital Object Identifier (DOI)
 doi = ""
 

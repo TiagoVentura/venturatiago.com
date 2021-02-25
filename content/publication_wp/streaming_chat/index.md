@@ -20,7 +20,7 @@ authors = ["Victoria Asbury", "Keng Chi-Change","Katherine McCabe", "Kevin Munge
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under review. "
+publication = "Invited to Revise & Resubmit"
 publication_short = ""
 
 # Abstract and optional shortened version.

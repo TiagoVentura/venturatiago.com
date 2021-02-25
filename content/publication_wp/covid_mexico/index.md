@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete",  "Ernesto Calvo","Francisco Cantú", "Sandra Ley"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under Review"
+publication = "Invited to Revise & Resubmit"
 publication_short = ""
 
 # Abstract and optional shortened version.

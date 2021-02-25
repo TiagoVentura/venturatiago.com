@@ -10,8 +10,8 @@ image:
   caption: ""
   focal_point: "center"
   preview_only: true
-publication: "Accepted at *Electoral Studies*"
-publication_short: Accepted at *Electoral Studies*
+publication: "*Electoral Studies*"
+publication_short: "*Electoral Studies*"
 publication_types:
 - "2"
 title: "Do Mayors Matter? Reverse Coattails on Congresional Elections in Brazil"

@@ -19,8 +19,8 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Early View at *Digital Journalism* "
-publication_short = "Early View at *Digital Journalism*"
+publication = "*Digital Journalism* "
+publication_short = "*Digital Journalism*"
 
 # Abstract and optional shortened version.
 abstract = "The increasing importance of news sharing, and its effect on the routines, practices, and values described by the hierarchy of influences model, raises new questions about content creation in polarized social media environments. How does news sharing change the gatekeeping preferences of news organizations? Will polarized users polarize news organizations further? We model users' news sharing behavior using observational data from Twitter and then use the parameters from our model to explain its effect on editorial gatekeeping. We test our model using Twitter data collected during the election of populist leader Jair Bolsonaro in Brazil."
