@@ -20,7 +20,7 @@ authors = ["Keng Chi-Change","Katherine McCabe", "Kevin Munger", "Tiago Ventura"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Invited to Revise & Resubmit"
+publication = "Forthcoming, Journal of Quantitative Description, Digital Media"
 publication_short = ""
 
 # Abstract and optional shortened version.

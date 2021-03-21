@@ -1,6 +1,6 @@
 +++
 title = "Partisan Cues and Perceived Risks: The effect of partisan social media frames during the Covid-19 crisis in Mexico"
-date = 2020-11-15T15:35:10-04:00
+date = 2021-03-14T15:35:10-04:00
 draft = false
 
 
@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete",  "Ernesto Calvo","Francisco Cantú", "Sandra Ley"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Invited to Revise & Resubmit"
+publication = "Forthcoming, Journal of Elections, Public Opinion and Parties."
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -28,7 +28,7 @@ abstract = "We present the results of a survey experiment designed to evaluate t
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= false
+featured= true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +53,7 @@ tags = ["Social Media", "Trust", "Anger", "Latin America"]
 # Links (optional).
 
 url_pdf = "covid_mexico.pdf"
-url_project = ""
+url_project = "https://osf.io/9htsu"
 url_code = ""
 url_dataset = ""
 url_slides = ""
