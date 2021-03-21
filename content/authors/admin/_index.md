@@ -48,13 +48,13 @@ user_groups:
 
 Welcome! 
 
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I research on comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. During the Winter and Spring of 2021, I will be the **Young Talent fellow in Computational Social Science** at FGV Rio de Janeiro. 
+I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I research on comparative politics and computational social science, with a particular focus on political violence in Latin America and political communication. For Spring of 2021, I was awarded the **Young Talent Fellowship in Computational Social Science** at FGV Rio de Janeiro. 
 
 My dissertation research focuses on criminal violence and political behavior in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies.  
 
-In addition to my personal research, I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD, working under the supervision of Dr. Ernesto Calvo. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics. 
+In addition to my personal research, I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD, working under the supervision of Dr. Ernesto Calvo. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics.  My research has been published at _Electoral Studies, Digital Journalism, Latin American Politics and Society, The Journal of Quantitative Description (Digital Midia), and The SAGE Handbook of Research Methods in Political Science and International Relations_ . 
 
-My research has been published at _Electoral Studies, Digital Journalism, Latin American Politics and Society, and The SAGE Handbook of Research Methods in Political Science and International Relations_ . 
+I am also passionate about teaching and sharing my experience working on computational social science with other collegues.  I have taught several workshops at both graduate and undergraduate levels, and I am currently teaching an [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) seminar at FGV-CPDOC. Next summer, I will be organizing the first [Summer Institute in Computational Social Science in Brazil](https://sicss.io/2021/fgv-dapp-brazil/), an amazing opportunity for students interested in learning and meeting others working on CSS in Brazil. 
 
 <!---  Bem-vindo ao meu site!
 
