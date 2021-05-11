@@ -29,7 +29,7 @@ abstract = "In these polarized and challenging times, not even perceptions of pe
 abstract_short = "In these polarized and challenging times, not even perceptions of personal risk are immune to partisanship. This paper introduces results from a new survey with an embedded social media experiment conducted during the first months of the COVID-19 pandemic in Brazil. Descriptive results show that pro-government and opposition partisans report very different expectations of health and job risks. Job and health policy have become wedge issues that elicit partisan responses. We exploit random variation in the survey recruitment to show the effects of the first President’s speech on national TV on risk perceptions and how partisanship moderates these results. We conclude with a framing experiment that models key cognitive mechanisms driving partisan differences in perceptions of health risks and job security during the COVID-19 crisis"
 # Is this a selected publication? (true/false)
 selected = true
-featured= true
+featured= false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

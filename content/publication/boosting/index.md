@@ -5,7 +5,7 @@ authors:
 date: "2020-11-10T00:00:00Z"
 doi: ""
 selected: true
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: "center"

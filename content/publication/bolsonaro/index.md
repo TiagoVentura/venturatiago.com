@@ -28,7 +28,7 @@ abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= true
+featured= false
 
 
 # Projects (optional).

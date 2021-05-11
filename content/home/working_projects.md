@@ -47,13 +47,15 @@ subtitle = "Pre-Prints Available upon Request"
  css_class = ""
 +++
 
-**Voting for Violence: The Election of Law and Order Politicians in Brazil**<br/>
+**Voting for Violence: Crime and The Election of Law and Order Politicians in Brazil**<br/>
 Tiago Ventura, *Dissertation Chapter, In preparation*
+
+**Voting for Law and Order and Criminal Violence in Mexico: A Network Approach.**<br/>
+Tiago Ventura, Francisco Cantú and Sandra Ley *Dissertation Chapter, In preparation*
 
 **Have no Faith in Constitutions? The Content of Rebel Constitutions in Civil War**<br/>
 Katherine Sawyer, William Reed, and Tiago Ventura <br/>
 *Draft prepared for the Annual Meeting of APSA, 2019 *
-
 
 **The Electoral Killing Cycle**<br/>
 Mariana Carvalho and Tiago Ventura<br/>

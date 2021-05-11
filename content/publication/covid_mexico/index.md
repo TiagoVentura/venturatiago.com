@@ -28,7 +28,7 @@ abstract = "We present the results of a survey experiment designed to evaluate t
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= true
+featured= false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

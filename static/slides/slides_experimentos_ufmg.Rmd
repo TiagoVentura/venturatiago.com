@@ -1,0 +1,140 @@
+---
+title: "Introdução a Métodos Computacionais para Ciência Sociais"
+subtitle: "Considerações Aleatórias sobre Experimentos"
+author: "Tiago Ventura"
+institute: "University of Maryland, College Park"
+date: ""
+output:
+  xaringan::moon_reader:
+    css: ["default", "styles.css", "fontsrladies.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(message=FALSE, warning = FALSE, error = FALSE, cache = TRUE, 
+                      out.width = "50%")
+
+``` 
+
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+
+library(knitr)
+library(rmdformats)
+
+## Global options
+opts_chunk$set(cache=TRUE,
+               prompt=FALSE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+
+
+```
+
+
+## Custos de Experimentos
+
+A Ciência Política Brasileira não acompanhou o boom de experimentos da academia americana. Porque? Custos e Infraestrutura. 
+
+--
+
+- Novas formas de recrutamento -> mturk, lucid, facebook ads, twitter ads, entre outros. 
+
+--
+
+- Melhor capacidade técnica da formação em CP --> programar experimentos é bem fácil. 
+
+--
+
+- Mais colaboração. CP se tornando cada vez mais uma disciplina de co-autoria e menos com base em livros solo. 
+
+--
+
+
+---
+## Pré-Registro
+
+Journal of Politics (Top3 das revistas americanos) passou a exigir pre-registro para qualquer tipo de pesquisa experimental. Vai ser a tendência? 
+
+--
+- **O que é Pré-Registro ?** Escrever, antes de análisar os dados, suas hipóteses, desenho e método. 
+
+--
+
+- **Objetivo ?** Diminuir p-hacking e mais transparência.
+
+--
+
+- **O que fazer ?** Sempre, absolumente sempre, escreve um Pré-Registro. Você não perde nada ao escrever, e aumenta sua possibilidade de publicar se seus resultados foram nulos. 
+
+--
+
+---
+## Comitê de Ética. 
+
+Muito difícil publicar qualquer pesquisa experimental em jornais internacionais sem aprovação em Comitê de Ética. 
+
+Em discussões recentes (Workshop de Comportamento da ABCP), ouvi que  Comitês de Ética no Brasil demoram em torno de um ano para dar um parecer. 
+
+--
+
+### Soluções?
+
+--
+
+- Longo Prazo: Mudar perfil dos Comitês de Ética.
+
+--
+
+- Parceria com pesquisadores internacionais. 
+
+--
+
+---
+
+## Aproveite ao máximo o seu experimento.
+
+
+--
+
+- Nunca faça um survey com somente uma pergunta de pesquisa. 
+
+--
+
+- Se possível acrescente mais de um experimento no mesmo survey. 
+
+--
+
+- Seja criativo para evitar contaminação e post-treatment bias. 
+
+--
+
+---
+
+## Pense cuidadosamente nos diferentes tipos de experimento. 
+
+
+
+- Vigneta: Unidimensional. É real? Social Desirability Bias? Hawtorne Effects?
+
+
+- Experimento em Lista: Reduz Viés e Aumenta Variância. Há indícios de Social Desirability Bias? (Blair et al, 2020, APSR)
+
+- Conjoint ou Fatoriais: Me interessam efeitos heterogeneos? Há muita chance de terminar under-powered. 
+
+
+---
+
+class: inverse, center, middle
+
+# Obrigado!
+
+
