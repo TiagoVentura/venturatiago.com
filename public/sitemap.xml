@@ -18,18 +18,8 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://tiagoventura.rbind.io/teaching/</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +98,11 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/</loc>
+    <lastmod>2021-03-14T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/tags/trust/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
   </url>
@@ -133,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/authors/keng-chi-change/</loc>
+    <loc>http://tiagoventura.rbind.io/authors/keng-chi-chang/</loc>
     <lastmod>2021-01-14T15:35:10-04:00</lastmod>
   </url>
   
@@ -148,12 +143,22 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
+    <lastmod>2020-11-29T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/</loc>
+    <lastmod>2020-11-29T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/publication_wp/trust/</loc>
     <lastmod>2020-11-29T15:35:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
+    <loc>http://tiagoventura.rbind.io/talk/trust/</loc>
     <lastmod>2020-11-29T15:35:10-04:00</lastmod>
   </url>
   
@@ -218,7 +223,17 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/authors/keng-chi-change/</loc>
+    <lastmod>2020-05-14T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/publication_wp/streaming_chat/</loc>
+    <lastmod>2020-05-14T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/streaming_chat/</loc>
     <lastmod>2020-05-14T15:35:10-04:00</lastmod>
   </url>
   
@@ -238,18 +253,18 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/talk/adjudication/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/publication_wp/news_by_popular_demand/</loc>
     <lastmod>2019-05-24T13:51:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/talk/apsa_violence/</loc>
-    <lastmod>2019-05-17T19:49:02-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/apsa_pwr/</loc>
-    <lastmod>2019-05-17T19:46:59-04:00</lastmod>
+    <loc>http://tiagoventura.rbind.io/talk/news_by_popular_demand/</loc>
+    <lastmod>2019-05-24T13:51:56-04:00</lastmod>
   </url>
   
   <url>

@@ -7,18 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 15:35:10 -0400</lastBuildDate>
     
 	    <atom:link href="http://tiagoventura.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>http://tiagoventura.rbind.io/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <title>Teaching</title>
+      <link>http://tiagoventura.rbind.io/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tiagoventura.rbind.io/talk/</guid>
-      <description></description>
+      <guid>http://tiagoventura.rbind.io/teaching/</guid>
+      <description>&lt;h2 id=&#34;workshopsr-tutorials&#34;&gt;Workshops/R tutorials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://fgvintrocss.netlify.app/&#34;&gt;Introduction to Computational Social Science&lt;/a&gt;(In portugues, Semester Long Course at FGV-CPDOC)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://datavizgvpt.tiagoventura.rbind.io/&#34;&gt;Data Visualization (Tidying your model into a nice plot)&lt;/a&gt;(Students-led Workshop at UMD)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tiagoventura.github.io/workshop_ufpa/&#34;&gt;Collecting and Analyzing Social Media Data with R&lt;/a&gt; (In portuguese, Workshop at The Federal University of Para, Brazil)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/TiagoVentura/UMD_workshop_Rpackages&#34;&gt;How to build a R package?&lt;/a&gt; (Students-led Workshop at UMD)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; Introduction to Tidyverse &lt;!-- raw HTML omitted --&gt; (Students-led Workshops at UMD)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; R Crash Course &lt;!-- raw HTML omitted --&gt; (GVPT 489: Tweeting Political Crisis)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;undergraduate-seminars&#34;&gt;Undergraduate Seminars&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GVPT289: Politics in the Developing World&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L&#34;&gt;GVPT282: Religion and Politics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -31,11 +57,20 @@
     </item>
     
     <item>
-      <title>Working Papers (Under Review)</title>
+      <title>Papers Under Review</title>
       <link>http://tiagoventura.rbind.io/publication_wp/</link>
       <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/publication_wp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers Under Review</title>
+      <link>http://tiagoventura.rbind.io/talk/</link>
+      <pubDate>Sun, 29 Nov 2020 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/talk/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Work in Progress"
@@ -60,3 +60,9 @@ Katherine Sawyer, William Reed, and Tiago Ventura <br/>
 **The Electoral Killing Cycle**<br/>
 Mariana Carvalho and Tiago Ventura<br/>
 *Draft prepared for the Annual Meeting of MPSA, 2019*
+
+**Truth be told: Cognitive and affective moderators of selective sharing of fact-checks on social media** <br/>
+Natália Aruguete, Ingrid Bachmann, Ernesto Calvo, Sebastián Valenzuela, and Tiago Ventura
+
+**My partisan friends live in a bubble: Framing and perceived polarization in social media**
+Natália Aruguete, Ernesto Calvo and Tiago Ventura.

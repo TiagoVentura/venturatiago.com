@@ -15,22 +15,22 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/publication"
   weight = 20
 [[main]]
   name = "Papers Under Review"
-  url = "#publication_wp"
+  url = "/talk"
   weight = 30
 
 
 [[main]]
   name = "Work in Progress"
-  url = "#working_projects"
+  url = "/working_project"
   weight = 30
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/teaching"
   weight = 50
 
 [[main]]

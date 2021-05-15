@@ -46,7 +46,11 @@ user_groups:
 <hr>
 
 
-Welcome! 
+### Welcome!
+
+<br><br><br>
+
+
 
 I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I work in the fields of comparative politics,  and computational social science.  My research agenda in comparative politics centers on Political Behavior exploring issues of criminal violence, inequality, and  preferences for harsh-on-crime policies in Latin America.
 

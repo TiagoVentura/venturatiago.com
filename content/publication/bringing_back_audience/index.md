@@ -5,7 +5,7 @@ draft = false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Keng Chi-Change","Katherine McCabe", "Kevin Munger", "Tiago Ventura"]
+authors = ["Tiago Ventura", "Kevin Munger", "Katherine McCabe", "Keng Chi-Chang"]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,7 @@ authors = ["Keng Chi-Change","Katherine McCabe", "Kevin Munger", "Tiago Ventura"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming, Journal of Quantitative Description, Digital Media"
+publication = "Journal of Quantitative Description, Digital Media, 2021"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -52,7 +52,7 @@ slides = ""
 tags = ["Social Media", "Streaming Chats", "Experiments"]
 
 # Links (optional).
-url_pdf= "files/CCMV_Bringing_Audience.pdf"
+url_pdf= "ventura_etal_jqd.pdf"
 url_project= ""
 url_code = ""
 url_dataset = ""

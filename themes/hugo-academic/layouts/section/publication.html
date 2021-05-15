@@ -17,7 +17,7 @@
         {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}
 
-      <div class="form-row mb-4">
+<!--      <div class="form-row mb-4">
         <div class="col-auto">
           <input type="search" class="filter-search" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
           autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
@@ -46,7 +46,7 @@
             {{ end }}
           </select>
         </div>
-      </div>
+      </div> -->
 
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
