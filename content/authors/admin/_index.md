@@ -50,9 +50,9 @@ user_groups:
 
 <br>
 
-I am a Ph.D. Candidate in Government and Politics at the University of Maryland. I work in the fields of comparative politics,  and computational social science.  My research agenda in comparative politics centers on Political Behavior exploring issues of criminal violence, inequality, and  preferences for harsh-on-crime policies in Latin America.
+I am a Ph.D. Candidate in the Department of Government and Politics at the University of Maryland, College Park, and will defend my dissertation in the Fall 2021. My research agenda centers on Comparative Political Behavior exploring issues of criminal violence, inequality, and  preferences for harsh-on-crime policies in Latin America. I am also a researcher in Computational Social Science, particularly in the field of digital experimentation, political communication, and empirical applications of text-as-data models. 
 
-In addition,  I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics. For Spring of 2021, I was awarded the **Young Talent Fellowship in Computational Social Science** at FGV Rio de Janeiro. 
+During my Ph.D.,  I have been an active member of the Interdisciplinary Laboratory for Computational Social Science (iLCSS) at UMD. While at the iLCSS, I have collaborated on a variety of computational social science projects addressing important issues in political communication, social media, and politics. For Spring of 2021, I was awarded the **Young Talent Fellowship in Computational Social Science** at FGV Rio de Janeiro. 
 
 <!-- My dissertation research focuses on criminal violence and political behavior in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies.-->
 
