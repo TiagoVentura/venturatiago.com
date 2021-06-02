@@ -81,7 +81,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
-### Abstract
-
-We investigate how streaming chatboxes may shape perceptions of political events. We conducted a field experiment during the September 2019 Democratic Primary Debate where subjects were assigned to view the debate with or without streaming chatboxes. Subjects were encouraged to view the debate on the ABC homepage (with no chatbox), on FiveThirtyEight.com (expert chat) or on Facebook (social chat). Our experimental findings indicate that Democratic subjects assigned to the Facebook chat condition reported lower affect towards Democrats and a worse viewing experience.
