@@ -52,7 +52,8 @@ slides = ""
 tags = ["Social Media", "Streaming Chats", "Experiments"]
 
 # Links (optional).
-url_pdf= "ventura_etal_jqd.pdf"
+url_pdf= "https://journalqd.org/article/view/2573/1820"
+url_preprint = "ventura_etal_jqd.pdf"
 url_project= ""
 url_code = ""
 url_dataset = ""
@@ -81,8 +82,4 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
-### Abstract
-
-Recent advancements in online streaming technologies have re-centered the audience as an important part of live broadcasts, including live political events. In fall 2020, each of the U.S. presidential and vice presidential debates were streamed on a number of online platforms that provided an integrated streaming chat where the public could comment in real-time alongside the live debate video. Viewers could simultaneously tune into what the candidates were saying and see what a sample of their peers thought about the candidates. This study examines large samples of comments made in social chat feeds during the livestreamed debates on the ABC News, NBC News, and Fox News Facebook pages to quantify key features associated with the quality of political discussion on these platforms. The results reveal that consistent with quasi-anonymous, constrained nature of the dynamic chat, the comments made are generally short, include a substantial degree of toxicity and insults, and differ significantly in their content across platforms. These findings underscore the importance of further study of online streaming chat as a new source of potential influence on political attitudes and behavior.
 
