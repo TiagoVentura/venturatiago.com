@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Sun, 14 Mar 2021 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Francisco Cantu</title>
+      <link>http://tiagoventura.rbind.io/authors/francisco-cantu/</link>
+      <pubDate>Sun, 15 Aug 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/francisco-cantu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Ley</title>
+      <link>http://tiagoventura.rbind.io/authors/sandra-ley/</link>
+      <pubDate>Sun, 15 Aug 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/sandra-ley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Ventura</title>
+      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
+      <pubDate>Sun, 15 Aug 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Carlos Scarscitini</title>
       <link>http://tiagoventura.rbind.io/authors/carlos-scarscitini/</link>
@@ -41,24 +68,6 @@
       <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandra Ley</title>
-      <link>http://tiagoventura.rbind.io/authors/sandra-ley/</link>
-      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/sandra-ley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiago Ventura</title>
-      <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
-      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
       <description></description>
     </item>
     
@@ -158,7 +167,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/admin/</guid>
-      <description>Welcome! I am a Ph.D. Candidate in the Department of Government and Politics at the University of Maryland, College Park, and I will defend my dissertation in the Fall 2021. My research agenda centers on Comparative Political Behavior exploring issues of criminal violence, inequality, and preferences for harsh-on-crime policies in Latin America. I am also a researcher in Computational Social Science, particularly in the field of digital experimentation, political communication, and empirical applications of text-as-data models.</description>
+      <description>Welcome! I am a Researcher at the @Twitter Civic Integrity and Misinformation Team and Ph.D. Candidate (expected October 2021) in the Department of Government and Politics at the University of Maryland, College Park. My research lies in the fields of Comparative Political Behavior and Political Communication. My dissertation explores issues of criminal violence, inequality, and preferences for harsh-on-crime policies in Latin America, while my agenda in political communication focuses on digital field and survey experimentation, news sharing, behavioral effects of social media consumption, and empirical applications of text-as-data models.</description>
     </item>
     
   </channel>
