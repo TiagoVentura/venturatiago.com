@@ -52,6 +52,11 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/talk/</loc>
+    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/publication_types/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
   </url>
@@ -93,6 +98,21 @@
   
   <url>
     <loc>http://tiagoventura.rbind.io/publication_wp/voting_violence_mex/</loc>
+    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/voting_violence_mex/</loc>
+    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/voting_violence/</loc>
+    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/voting_violence/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
   </url>
   
@@ -179,11 +199,6 @@
   <url>
     <loc>http://tiagoventura.rbind.io/tags/streaming-chats/</loc>
     <lastmod>2021-01-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/</loc>
-    <lastmod>2020-11-29T15:35:10-04:00</lastmod>
   </url>
   
   <url>
