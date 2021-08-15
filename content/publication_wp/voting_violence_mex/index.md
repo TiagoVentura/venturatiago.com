@@ -53,7 +53,7 @@ slides = ""
 tags = ["Violence", "Punitive Preferences", "Network Models", "Victimization"]
 
 # Links (optional).
-url_pdf= "net.pdf"
+url_pdf= "files/net.pdf"
 url_project= "https://osf.io/r7vah/"
 url_code = ""
 url_dataset = ""
