@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -19,7 +19,7 @@ weight = 100
 ## Workshops/R tutorials
 
 
-- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/)(In portugues, Semester Long Course at FGV-CPDOC)
+- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) (In portuguese, Semester Long Course at FGV-CPDOC)
 
 - [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/)(Students-led Workshop at UMD)
 
@@ -35,6 +35,7 @@ weight = 100
 ## Undergraduate Seminars
 
 - GVPT289: Politics in the Developing World
+
 - [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
 
 

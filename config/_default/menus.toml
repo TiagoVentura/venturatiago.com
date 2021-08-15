@@ -18,14 +18,8 @@
   url = "/publication"
   weight = 20
 [[main]]
-  name = "Papers Under Review"
-  url = "/talk"
-  weight = 30
-
-
-[[main]]
   name = "Work in Progress"
-  url = "/working_project"
+  url = "/talk"
   weight = 30
 
 [[main]]
