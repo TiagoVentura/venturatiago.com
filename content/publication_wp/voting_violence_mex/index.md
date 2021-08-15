@@ -1,7 +1,7 @@
 +++
 title = "Voting for Law and Order in Mexico: A Network Approach to the Effects of Victimization"
 subtitle ="Dissertation Chapter"
-date = 2021-08-15T15:35:10-04:00
+date = 2021-08-14T15:35:10-04:00
 draft = false
 
 

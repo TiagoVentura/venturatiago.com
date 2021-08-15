@@ -1,6 +1,6 @@
 +++
 title = "Voting for Violence: Crime and the Election of Law-and-order Politicians in Brazil. (Job Market Paper)"
-date = 2021-08-15T16:35:10-04:00
+date = 2021-08-15T15:35:10-04:00
 draft = false
 
 
