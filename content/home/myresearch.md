@@ -20,6 +20,5 @@ In my job market paper [Voting for Violence: Crime and The Election of Law and O
 
 My most important result shows that crime shocks around the time of the elections increase substantively the vote share of law-and-order candidates. This electoral boost comes mostly from a greater alignment of conservative voters to law-and-order candidates, and within each city, greater support from wealthier neighborhoods. My endorsement experiment to replicate the macro-level findings using internally valid, individual-level data. The results converge with the macro-findings, and reveal partisan dynamics on how respondents react to messages about public security, and key behavioral dynamics related to punitive preferences and concerns about security. The text-analysis depicts how and who talks about security policies in the Congress. 
 
-My job market paper recently won the Mario Fuks Award for the Best Paper presented at the Annual Meeting of The Brazilian Political Science Association - Political Behaviour Section.  The paper is currently under review.
-
+My job market paper recently won the Mario Fuks Award for the Best Paper presented at the Annual Meeting of The Brazilian Political Science Association - Political Behaviour Section. My job market paper is currently under review.
 

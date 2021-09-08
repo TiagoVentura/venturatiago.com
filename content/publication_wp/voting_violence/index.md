@@ -52,7 +52,7 @@ slides = ""
 tags = ["Violence", "Punitive Preferences", "Network Models", "Victimization"]
 
 # Links (optional).
-url_pdf= "files/jmp.pdf"
+url_pdf= "files/ventura_voting_for_violence_jmp.pdf"
 url_project= ""
 url_code = ""
 url_dataset = ""
