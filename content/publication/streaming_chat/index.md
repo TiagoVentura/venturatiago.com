@@ -1,6 +1,6 @@
 +++
 title = "The Effect of Streaming Chat on Perceptions of Debates"
-date = 2020-05-14T15:35:10-04:00
+date = 2021-10-12T15:35:10-04:00
 draft = false
 
 
@@ -20,7 +20,7 @@ authors = ["Victoria Asbury", "Keng Chi-Change","Katherine McCabe", "Kevin Munge
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Invited to Revise & Resubmit"
+publication = "Forthcoming at the Journal of Communication"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -81,7 +81,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
-### Abstract
-
-We investigate how streaming chatboxes may shape perceptions of political events. We conducted a field experiment during the September 2019 Democratic Primary Debate where subjects were assigned to view the debate with or without streaming chatboxes. Subjects were encouraged to view the debate on the ABC homepage (with no chatbox), on FiveThirtyEight.com (expert chat) or on Facebook (social chat). Our experimental findings indicate that Democratic subjects assigned to the Facebook chat condition reported lower affect towards Democrats and a worse viewing experience.

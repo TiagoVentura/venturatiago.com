@@ -7,13 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tiago Ventura</copyright>
-    <lastBuildDate>Sun, 15 Aug 2021 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 15:35:10 -0400</lastBuildDate><atom:link href="http://tiagoventura.rbind.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Katherine McCabe</title>
+      <link>http://tiagoventura.rbind.io/authors/katherine-mccabe/</link>
+      <pubDate>Tue, 12 Oct 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/katherine-mccabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keng Chi-Change</title>
+      <link>http://tiagoventura.rbind.io/authors/keng-chi-change/</link>
+      <pubDate>Tue, 12 Oct 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/keng-chi-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Munger</title>
+      <link>http://tiagoventura.rbind.io/authors/kevin-munger/</link>
+      <pubDate>Tue, 12 Oct 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/kevin-munger/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tiago Ventura</title>
       <link>http://tiagoventura.rbind.io/authors/tiago-ventura/</link>
-      <pubDate>Sun, 15 Aug 2021 15:35:10 -0400</pubDate>
+      <pubDate>Tue, 12 Oct 2021 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/tiago-ventura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victoria Asbury</title>
+      <link>http://tiagoventura.rbind.io/authors/victoria-asbury/</link>
+      <pubDate>Tue, 12 Oct 2021 15:35:10 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/victoria-asbury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernesto Calvo</title>
+      <link>http://tiagoventura.rbind.io/authors/ernesto-calvo/</link>
+      <pubDate>Tue, 12 Oct 2021 13:51:56 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/ernesto-calvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Aruguete</title>
+      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
+      <pubDate>Tue, 12 Oct 2021 13:51:56 -0400</pubDate>
+      
+      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
       <description></description>
     </item>
     
@@ -45,15 +99,6 @@
     </item>
     
     <item>
-      <title>Ernesto Calvo</title>
-      <link>http://tiagoventura.rbind.io/authors/ernesto-calvo/</link>
-      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/ernesto-calvo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Francisco Cantú</title>
       <link>http://tiagoventura.rbind.io/authors/francisco-cant%C3%BA/</link>
       <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
@@ -63,38 +108,11 @@
     </item>
     
     <item>
-      <title>Natalia Aruguete</title>
-      <link>http://tiagoventura.rbind.io/authors/natalia-aruguete/</link>
-      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/natalia-aruguete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katherine McCabe</title>
-      <link>http://tiagoventura.rbind.io/authors/katherine-mccabe/</link>
-      <pubDate>Thu, 14 Jan 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/katherine-mccabe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Keng Chi-Chang</title>
       <link>http://tiagoventura.rbind.io/authors/keng-chi-chang/</link>
       <pubDate>Thu, 14 Jan 2021 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/keng-chi-chang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Munger</title>
-      <link>http://tiagoventura.rbind.io/authors/kevin-munger/</link>
-      <pubDate>Thu, 14 Jan 2021 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/kevin-munger/</guid>
       <description></description>
     </item>
     
@@ -113,24 +131,6 @@
       <pubDate>Sat, 03 Oct 2020 15:35:10 -0400</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/talita-tanscheit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keng Chi-Change</title>
-      <link>http://tiagoventura.rbind.io/authors/keng-chi-change/</link>
-      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/keng-chi-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victoria Asbury</title>
-      <link>http://tiagoventura.rbind.io/authors/victoria-asbury/</link>
-      <pubDate>Thu, 14 May 2020 15:35:10 -0400</pubDate>
-      
-      <guid>http://tiagoventura.rbind.io/authors/victoria-asbury/</guid>
       <description></description>
     </item>
     
@@ -167,7 +167,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://tiagoventura.rbind.io/authors/admin/</guid>
-      <description>Welcome! I am a Researcher at the @Twitter Civic Integrity and Misinformation Team and Ph.D. Candidate (expected October 2021) in the Department of Government and Politics at the University of Maryland, College Park. My research lies in the fields of Comparative Political Behavior and Political Communication. My dissertation explores issues of criminal violence, inequality, and preferences for harsh-on-crime policies in Latin America, while my agenda in political communication focuses on digital field and survey experimentation, news sharing, behavioral effects of social media consumption, and empirical applications of text-as-data models.</description>
+      <description>Welcome! I am a Researcher at the @Twitter Civic Integrity and Misinformation Team and Ph.D. Candidate (Expected Defense Fall 2021) in the Department of Government and Politics at the University of Maryland, College Park. My research lies in the fields of Comparative Political Behavior, Computational Social Science, and Political Communication. my agenda on comparative political behavior explores issues of criminal violence, inequality, law enforcement politics, and preferences for harsh-on-crime policies in Latin America.</description>
     </item>
     
   </channel>

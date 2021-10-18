@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete",  "Ernesto Calvo","Francisco Cantú", "Sandra Ley"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming, Journal of Elections, Public Opinion and Parties."
+publication = "Journal of Elections, Public Opinion and Parties."
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -15,5 +15,5 @@ weight =120
 
 +++
 
-You can download my {{% staticref "files/cv.pdf" %}} CV {{% /staticref %}} here
+You can download my [CV here](./files/cv.pdf)
 

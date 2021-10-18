@@ -1,6 +1,6 @@
 +++
 title = "News by popular demand: Ideology, Reputation, and Issue Attention in Social Media News Sharing"
-date = 2019-05-24T13:51:56-04:00
+date = 2021-10-12T13:51:56-04:00
 draft = false
 
 
@@ -20,13 +20,13 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under review"
+publication = "Forthcoming at the International Journal of Press/Politics"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US."
+abstract = " Social media news sharing has become a central subject of scholarly research in communication studies. To test current theories, it is of the utmost importance to estimate meaningful parameters of news sharing behavior from observational data. In this article, we retrieve measures of ideological congruence, issue salience, and media reputation to explain news sharing in social media. We describe how the proposed statistical model connects to different strands of the news sharing literature. We then exemplify the usefulness of the model with an analysis of the relationship between ideological congruence and issue salience. Results show that if ideology and salience correlate with each other, the preferences of ideologues (i.e. users that give higher weight to ideological congruence) will be overrepresented in observational data. This will result in heightened perceptions of polarization. We test the performance of the model using data from Brazil, Argentina, and the US. "
 
-abstract_short = "In this article we describe a method to estimate the determinants of news sharing in social media. We model news sharing as a function of three behavioral parameters that describe the (i) ideological (cognitive) congruence between the users and the news published by a media organization; the (ii) reputation of the media organization; and the (iii) user's attention to issues. The statistical model takes observational social network data as input and extracts all three  parameters of interest. Extensions of the proposed model evaluate the users demand for content as well as the level of congruence between users and their preferred media offerings. We exemplify the substantive contributions of the method with data from #Bolsonaro in Brazil, #Maldonado in Argentina, and the #TravelBan in the US."
+abstract_short = " Social media news sharing has become a central subject of scholarly research in communication studies. To test current theories, it is of the utmost importance to estimate meaningful parameters of news sharing behavior from observational data. In this article, we retrieve measures of ideological congruence, issue salience, and media reputation to explain news sharing in social media. We describe how the proposed statistical model connects to different strands of the news sharing literature. We then exemplify the usefulness of the model with an analysis of the relationship between ideological congruence and issue salience. Results show that if ideology and salience correlate with each other, the preferences of ideologues (i.e. users that give higher weight to ideological congruence) will be overrepresented in observational data. This will result in heightened perceptions of polarization. We test the performance of the model using data from Brazil, Argentina, and the US. "
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -52,7 +52,7 @@ slides = ""
 tags = ["Social Media", "News Sharing", "Gatekeeping"]
 
 # Links (optional).
-url_pdf = "files/News_by_popular_demand_II.pdf"
+url_pdf = "files/nbpd_final.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
