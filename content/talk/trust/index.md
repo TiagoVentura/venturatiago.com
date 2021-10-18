@@ -24,7 +24,7 @@ publication = "Working Paper, Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Recent increases in uncivil dialogue, political polarization, and fake news in social media raise questions about the relationship between negative online messages and the decline in political trust.  We implement a trust  game in a survey experiment with  4,800  respondents  in  Brazil  and  Mexico"
+abstract = "Recent increases in political polarization in social media raise questions about the relationship between negative online messages and the decline in political trust around the world. To evaluate this claim causally, we implement a variant of the well-known trust game in a survey experiment with 4,800 respondents in Brazil and Mexico. Our design allows to test the effect of social media on trust and trustworthiness. Survey respondents alternate as agents (politicians) and principals (voters). Players can cast votes, trust others with their votes, and cast entrusted votes. The players' rewards are contingent on their preferred ``candidate'' winning the election. We measure the extent to which voters place their trust in others and are themselves trustworthy, that is, willing to honor requests that may not benefit them. Treated respondents are exposed to messages from in-group or out-group politicians, and with positive or negative tone. Results provide robust support for a negative effect of uncivil partisan discourse on trust behavior and null results on trustworthiness. The negative effect on trust is considerably greater among randomly treated respondents who engage with social media messages. "
 
 # Is this a selected publication? (true/false)
 selected = true
