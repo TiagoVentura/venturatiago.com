@@ -27,17 +27,102 @@
   </url>
   
   <url>
+    <loc>http://tiagoventura.rbind.io/publication_types/2/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/big-data/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/ernesto-calvo/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/heterogeneity/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/joan-timoneda/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/network-models/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/pwr/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/pwr/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/</loc>
+    <lastmod>2021-10-15T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tiagoventura.rbind.io/publication_types/1/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/authors/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/experiment/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://tiagoventura.rbind.io/tags/experiments/</loc>
+    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/fact-checking/</loc>
+    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/ingrid-bachman/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
@@ -57,12 +142,27 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
+    <loc>http://tiagoventura.rbind.io/tags/misinformation/</loc>
+    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/motivated-reasoning/</loc>
+    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://tiagoventura.rbind.io/publication/</loc>
+    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/sebastian-valenzuela/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
@@ -77,22 +177,17 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/tags/</loc>
-    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tiagoventura.rbind.io/publication/streaming_chat/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
+    <loc>http://tiagoventura.rbind.io/publication_wp/truth_be_told/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/</loc>
+    <loc>http://tiagoventura.rbind.io/talk/truth_be_told/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
@@ -102,22 +197,7 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/2/</loc>
-    <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/ernesto-calvo/</loc>
-    <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tiagoventura.rbind.io/tags/gatekeeping/</loc>
-    <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
     <lastmod>2021-10-12T13:51:56-04:00</lastmod>
   </url>
   
@@ -129,21 +209,6 @@
   <url>
     <loc>http://tiagoventura.rbind.io/tags/news-sharing/</loc>
     <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/network-models/</loc>
-    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
-    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/</loc>
-    <lastmod>2021-08-15T15:35:10-04:00</lastmod>
   </url>
   
   <url>
