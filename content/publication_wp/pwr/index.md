@@ -52,7 +52,7 @@ tags = ["Network Models", "Big Data", "Heterogeneity"]
 
 # Links (optional).
 
-url_pdf = "CTV_pwr.pdf"
+url_pdf = "files/CVT_pwr.pdf"
 url_project = ""
 url_code = ""
 url_dataset = ""

@@ -52,7 +52,7 @@ tags = ["misinformation",  "fact-checking", "motivated reasoning", "experiment" 
 
 # Links (optional).
 
-url_pdf = "ABCVV_truth_be_told.pdf"
+url_pdf = "files/ABCVV_truth_be_told.pdf"
 url_project = ""
 url_code = ""
 url_dataset = ""
