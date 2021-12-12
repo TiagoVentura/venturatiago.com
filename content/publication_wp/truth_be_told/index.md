@@ -1,6 +1,6 @@
 +++
 title = "Truth be told: Cognitive moderators of selective sharing of fact-checks on social media"
-date = 2021-10-12T15:35:10-04:00
+date = 2021-12-12T15:35:10-04:00
 draft = false
 
 
@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Ingrid Bachman", "Sebastian Vale
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper, Under Review"
+publication = "R&R Information, Communication and Society"
 publication_short = ""
 
 # Abstract and optional shortened version.
