@@ -14,7 +14,7 @@ education:
     year: 2010
 email: "venturat@umd.edu"
 interests:
-- Crime and Politics
+- Political Behavior
 - Political Communication
 - Computational Social Science
 organizations:
@@ -50,12 +50,14 @@ user_groups:
 
 <br>
 
-I am a Researcher at the [@Twitter](https://twitter.com/TwitterResearch) Civic Integrity and Misinformation Team and Ph.D. Candidate (Expected Defense Fall 2021) in the Department of Government and Politics at the University of Maryland, College Park. My research lies in the fields of Comparative Political Behavior and Computational Social Science. My work on comparative political behavior explores issues of criminal violence, inequality, law enforcement politics, and preferences for harsh-on-crime policies in Latin America. Meanwhile in computational social science, my work focuses substantively on political communication, content activation, and misinformation.  I combine a variety of empirical tools in my work, including causal inference models with observational data, large-scale online survey and field experiments, natural language processing, networks analysis, and machine learning.
+I am a Researcher at the [@Twitter](https://twitter.com/TwitterResearch) Civic Integrity and Misinformation Team, and a Ph.D. Candidate in Government and Politics at the University of Maryland, College Park (degree expected 2022). 
+
+My research lies in the fields of Comparative Political Behavior and Computational Social Science. My work on comparative political behavior explores issues of criminal violence, inequality, law enforcement politics, and preferences for harsh-on-crime policies in Latin America. Meanwhile in computational social science, my work focuses substantively on political communication, content activation, and misinformation, and empirically on network models to deal with big data, and natural language processing.  I combine a variety of empirical tools in my work, including causal inference models with observational data, large-scale online survey and field experiments, natural language processing, networks analysis, and machine learning.
 
 
 <!-- My dissertation research focuses on criminal violence and political behavior in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens' willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies.-->
 
-Throughout my Ph.D., I have been a leading member of the [Interdisciplinary Laboratory for Computational Social Science (iLCSS)](https://ilcss.umd.edu/) at UMD. While at the iLCSS, I have collaborated on various projects, with several already published at top-ranked journals. My research has been published at the _Journal of Communication, International Journal of Press/Politics, Electoral Studies, Digital Journalism, Journal of Elections Public Opinion and Parties, Latin American Politics and Society, The Journal of Quantitative Description (Digital Media), and The SAGE Handbook of Research Methods in Political Science and International Relations_. My projects have been funded through grants and fellowships from the University of Maryland, Russel Sage Foundation, EGAP, the Inter-American Development Bank, and CAPES (Brazilian Government).
+My research has been published at the _Journal of Communication, International Journal of Press/Politics, Electoral Studies, Digital Journalism, Journal of Elections Public Opinion and Parties, Latin American Politics and Society, The Journal of Quantitative Description (Digital Media), and The SAGE Handbook of Research Methods in Political Science and International Relations_. Meanwhile, my projects have been funded through grants and fellowships from the University of Maryland, Russel Sage Foundation, EGAP, the Inter-American Development Bank, and CAPES (Brazilian Government).
 
 I am also passionate about teaching and sharing my experience working on computational social science with other colleagues.  I have taught several workshops at both graduate and undergraduate levels, including a full semester seminar on [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) to undergraduate students. I was also the organizer of the first [Summer Institute in Computational Social Science in Brazil](https://sicss.io/2021/fgv-dapp-brazil/) during Summer 2021. 
 
