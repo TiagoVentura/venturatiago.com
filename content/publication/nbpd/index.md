@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming at the International Journal of Press/Politics"
+publication = "International Journal of Press/Politics, 2021"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -52,9 +52,9 @@ slides = ""
 tags = ["Social Media", "News Sharing", "Gatekeeping"]
 
 # Links (optional).
-url_pdf = "files/nbpd_final.pdf"
-url_preprint = ""
-url_code = ""
+url_pdf = "https://journals.sagepub.com/doi/metrics/10.1177/19401612211057068"
+url_preprint = "files/nbpd_final.pdf"
+url_code = "https://github.com/TiagoVentura/News_by_popular_demand_IJPP"
 url_dataset = ""
 url_project = ""
 url_slides = ""
