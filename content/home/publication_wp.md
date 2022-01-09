@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 
-title = "Work in Progress"
+title = "Work under review"
 subtitle = ""
 
 [content]

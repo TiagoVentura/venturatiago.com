@@ -21,6 +21,8 @@ weight = 100
 
 - [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/)(In portugues, Semester Long Course at FGV-CPDOC)
 
+- [Data Processing and Text Analysis in R](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop)(Two-week long workshop at Flacso-Mexico, co-taught with Ernesto Calvo)
+
 - [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/)(Students-led Workshop at UMD)
 
 - [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (In portuguese, Workshop at The Federal University of Para, Brazil)
@@ -35,6 +37,7 @@ weight = 100
 ## Undergraduate Seminars
 
 - GVPT289: Politics in the Developing World
+
 - [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
 
 
