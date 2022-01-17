@@ -28,17 +28,82 @@
   
   <url>
     <loc>http://tiagoventura.rbind.io/publication_types/2/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://tiagoventura.rbind.io/authors/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/conjoints/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://tiagoventura.rbind.io/authors/ernesto-calvo/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/framing/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/naf/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/naf/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/talk/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/polarization/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/social-media/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/tags/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tiagoventura.rbind.io/</loc>
+    <lastmod>2022-01-12T15:35:10-04:00</lastmod>
   </url>
   
   <url>
@@ -67,42 +132,7 @@
   </url>
   
   <url>
-    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tiagoventura.rbind.io/authors/sebastian-valenzuela/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
-    <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
   </url>
   
@@ -173,11 +203,6 @@
   
   <url>
     <loc>http://tiagoventura.rbind.io/publication/</loc>
-    <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/social-media/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
   </url>
   
