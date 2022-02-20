@@ -16,18 +16,20 @@ weight = 100
 +++
 
 
-## Workshops/R tutorials
+## Computational Social Science
 
 
-- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/)(In portugues, Semester Long Course at FGV-CPDOC)
+- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) (in portuguese, Semester Long Course at FGV-CPDOC)
 
-- [Data Processing and Text Analysis in R](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop)(Two-week long workshop at Flacso-Mexico, co-taught with Ernesto Calvo)
+- [Summer Institute in Computational Social Science, Rio de Janeiro, 2021](https://sicss.io/2021/fgv-dapp-brazil/)
 
-- [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/)(Students-led Workshop at UMD)
+- [Data Processing and Text Analysis in R](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop) (two-week long workshop at Flacso-Mexico, co-taught with Ernesto Calvo)
 
-- [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (In portuguese, Workshop at The Federal University of Para, Brazil)
+- [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/) (students-led Workshop at UMD)
 
-- [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (Students-led Workshop at UMD)
+- [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (in portuguese, Workshop at The Federal University of Para, Brazil)
+
+- [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (students-led Workshop at UMD)
 
 - {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} (Students-led Workshops at UMD)
 
