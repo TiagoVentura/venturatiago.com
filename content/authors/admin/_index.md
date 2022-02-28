@@ -4,9 +4,10 @@ authors:
 bio: My research interests include computational social science, political behavior and violence in Latin America. 
 education:
   courses:
-  - course: PhD Candidate in Government and Politics
+  - course: Ph.D. and M.A. in Political Science, 2022
     institution: University of Maryland, College Park
-  - course: PhD and MA in Political Science
+    Year: 2022
+  - course: Ph.D. and M.A. in Political Science
     institution: State University of Rio de Janeiro, Brazil
     year: 2018
   - course: Ba in Law
