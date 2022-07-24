@@ -1,472 +1,284 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://tiagoventura.rbind.io/courses/example/example1/</loc>
+    <loc>https://www.venturatiago.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/courses/example/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/working_project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/teaching/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/working_project/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/teaching/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/2/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_types/2/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/conjoints/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/conjoints/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/ernesto-calvo/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/ernesto-calvo/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/framing/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/framing/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/natalia-aruguete/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/natalia-aruguete/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/naf/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/naf/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/naf/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/naf/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/polarization/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/polarization/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_types/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/social-media/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/social-media/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/tiago-ventura/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/tiago-ventura/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/</loc>
     <lastmod>2022-01-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/experiment/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/experiment/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/fact-checking/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/fact-checking/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/ingrid-bachman/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/ingrid-bachman/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/misinformation/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/misinformation/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/motivated-reasoning/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/motivated-reasoning/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/sebastian-valenzuela/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/sebastian-valenzuela/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/truth_be_told/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/truth_be_told/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/truth_be_told/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/truth_be_told/</loc>
     <lastmod>2021-12-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/big-data/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/big-data/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/heterogeneity/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/heterogeneity/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/joan-timoneda/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/joan-timoneda/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/network-models/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/network-models/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/pwr/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/pwr/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/pwr/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/pwr/</loc>
     <lastmod>2021-10-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_types/1/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_types/1/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/experiments/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/experiments/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/katherine-mccabe/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/katherine-mccabe/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/keng-chi-change/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/keng-chi-change/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/kevin-munger/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/kevin-munger/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/streaming-chats/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/streaming-chats/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/streaming_chat/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/streaming_chat/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/victoria-asbury/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/victoria-asbury/</loc>
     <lastmod>2021-10-12T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/gatekeeping/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/gatekeeping/</loc>
     <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/nbpd/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/nbpd/</loc>
     <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/news-sharing/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/news-sharing/</loc>
     <lastmod>2021-10-12T13:51:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/punitive-preferences/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/punitive-preferences/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/victimization/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/victimization/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/violence/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/violence/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/voting_violence/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/voting_violence/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/voting_violence/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/voting_violence/</loc>
     <lastmod>2021-08-15T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/francisco-cantu/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/francisco-cantu/</loc>
     <lastmod>2021-08-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/sandra-ley/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/sandra-ley/</loc>
     <lastmod>2021-08-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/voting_violence_mex/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/voting_violence_mex/</loc>
     <lastmod>2021-08-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/voting_violence_mex/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/voting_violence_mex/</loc>
     <lastmod>2021-08-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/anger/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/anger/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/carlos-scarscitini/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/carlos-scarscitini/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/francisco-cant%C3%BA/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/francisco-cant%C3%BA/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/latin-america/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/latin-america/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/covid_mexico/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/covid_mexico/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/trust/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/trust/</loc>
     <lastmod>2021-03-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/bringing_back_audience/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/bringing_back_audience/</loc>
     <lastmod>2021-01-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/keng-chi-chang/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/keng-chi-chang/</loc>
     <lastmod>2021-01-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/trust/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/trust/</loc>
     <lastmod>2020-11-29T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/trust/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/trust/</loc>
     <lastmod>2020-11-29T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/boosting/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/boosting/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/brazil/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/brazil/</loc>
     <lastmod>2020-10-26T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/will_i_get_covid/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/will_i_get_covid/</loc>
     <lastmod>2020-10-26T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/bolsonaro/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/bolsonaro/</loc>
     <lastmod>2020-10-14T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/fabiano-santos/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/fabiano-santos/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/party-facctions/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/party-facctions/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/paticipatory-budget/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/paticipatory-budget/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/talita-tanscheit/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/talita-tanscheit/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/the-workers-party/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/the-workers-party/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/op_pt/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/op_pt/</loc>
     <lastmod>2020-10-03T15:35:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/silvio-waisbord/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/silvio-waisbord/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication_wp/adjudication/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication_wp/adjudication/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/talk/adjudication/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/talk/adjudication/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/courses/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/slides/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/slides/example/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/responsiveness/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/responsiveness/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/thamy-pogrebinschi/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/thamy-pogrebinschi/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/natalia-maciel/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/natalia-maciel/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/pt_electoral_bases/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/pt_electoral_bases/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/publication/my-paper-name/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/publication/my-paper-name/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/deep-learning/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/tags/demo/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/project/external-project/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/project/internal-project/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/project/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.venturatiago.com/authors/admin/</loc>
+  </url><url>
+    <loc>https://www.venturatiago.com/categories/</loc>
   </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tiagoventura.rbind.io/categories/</loc>
-  </url>
-  
 </urlset>

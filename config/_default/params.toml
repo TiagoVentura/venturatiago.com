@@ -12,7 +12,7 @@ day_night = true
 font = "custom_t"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of tiago ventura, political science, maryland"
+description = "Personal website of Tiago Ventura, Computational Social Science, Politics, New York University"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "portrait"
@@ -50,8 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "venturat@umd.edu"
-address = "Tydings Hall, 5133, College Park, Maryland, US"
+email = "tav5082@nyu.edu"
+address = ""
   phone = ""
   skype = ""
   telegram = ""
