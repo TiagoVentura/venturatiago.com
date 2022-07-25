@@ -50,6 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
+author= "Tiago Ventura"
 email = "tav5082@nyu.edu"
 address = ""
   phone = ""
