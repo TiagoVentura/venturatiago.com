@@ -15,17 +15,17 @@ education:
     year: 2010
 email: "venturat@umd.edu"
 interests:
-- Political Behavior
 - Political Communication
 - Computational Social Science
+- Polirical Behavior
 organizations:
-- name: University of Maryland, College Park
+- name: Incoming Assistant Professor, McCourt School, Georgetown (2023-)
   url: ""
-role: PhD Student
+role: Postdoc, Center for Social Media and Politics, NYU (2022-2023)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:venturat@umd.edu
+  link: mailto:tav5082@nyu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_tiagoventura
@@ -37,7 +37,7 @@ social:
   link: https://github.com/TiagoVentura
 - icon: cv
   icon_pack: ai
-  link: http://tiagoventura.rbind.io/files/cv.pdf
+  link: http://venturatiago.com/files/cv.pdf
 superuser: true
 user_groups:
 - Researchers

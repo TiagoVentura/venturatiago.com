@@ -13,7 +13,7 @@ baseurl = "https://www.venturatiago.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2018 Tiago Ventura"
+copyright = "&copy; 2022 Tiago Ventura"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-140427320-1"
