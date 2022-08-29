@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper, under review"
+publication = "Forthcoming at the Journal of Communication"
 publication_short = ""
 
 # Abstract and optional shortened version.
