@@ -28,7 +28,7 @@ abstract = "We investigate how streaming chatboxes may shape perceptions of poli
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= true
+featured= false
 
 
 # Projects (optional).

@@ -28,7 +28,7 @@ abstract = "Recent advancements in online streaming technologies have re-centere
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= true
+featured= false
 
 
 # Projects (optional).
