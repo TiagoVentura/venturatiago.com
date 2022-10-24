@@ -17,7 +17,7 @@ email: "venturat@umd.edu"
 interests:
 - Political Communication
 - Computational Social Science
-- Polirical Behavior
+- Political Behavior
 organizations:
 - name: Incoming Assistant Professor, McCourt School, Georgetown (2023-)
   url: ""

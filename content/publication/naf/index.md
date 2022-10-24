@@ -52,9 +52,9 @@ tags = ["framing",  "social media", "polarization", "conjoints" ]
 
 # Links (optional).
 
-url_pdf = "files/ACV_NAF.pdf"
-url_project = ""
-url_code = ""
+url_pdf = "https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqac035/6767335?searchresult=1#377639098"
+url_preprint = "files/ACV_NAF.pdf"
+url_code = "https://github.com/TiagoVentura/Network_Activated_Frames_JoC"
 url_dataset = ""
 url_slides = ""
 url_video = ""
