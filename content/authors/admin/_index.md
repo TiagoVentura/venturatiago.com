@@ -51,7 +51,7 @@ user_groups:
 
 <br>
 
-I am currently a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at NYU. In Fall 2023, I will join the [McCourt School of Public Policy](https://mccourt.georgetown.edu/) at Georgetown University as an Assistant Professor in Computational Social Science. I worked previously as a Researcher at  [@Twitter](https://twitter.com/TwitterResearch).
+I am currently a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at NYU, and a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/). In Fall 2023, I will join the [McCourt School of Public Policy](https://mccourt.georgetown.edu/) at Georgetown University as an Assistant Professor in Computational Social Science. I worked previously as a Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
 I am a computational social scientist exploring substantive issues on political communication and political behavior. My substantive work in political communication focuses on content activation, news sharing, misinformation, and polarization on social media. I explore these issues primarily in Latin American countries. Methodologically, I am interested in online field and survey experiments, network models to deal with big data, and applications of natural language processing to social science problems. My comparative political behavior work explores issues of criminal violence and inequality in Latin America. 
 
