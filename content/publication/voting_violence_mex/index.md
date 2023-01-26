@@ -1,5 +1,5 @@
 +++
-title = "Voting for Law and Order in Mexico: A Network Approach to the Effects of Victimization"
+title = "Voting for Law and Order: Evidence from a Survey Experiment in Mexico"
 date = 2023-01-22T15:35:10-04:00
 draft = false
 
