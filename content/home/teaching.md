@@ -16,7 +16,7 @@ weight = 100
 +++
 
 
-## Workshops/R tutorials
+## Computational Social Science
 
 
 - [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) (In portuguese, Semester Long Course at FGV-CPDOC)
