@@ -5,7 +5,7 @@ authors:
 - Ernesto Calvo
 - Silvio Waisbord
 - Natalia Aruguete
-date: "2023-01-10T00:00:00Z"
+date: "2023-01-03T00:00:00Z"
 doi: ""
 featured: true
 selected: true
@@ -19,5 +19,8 @@ publication_types:
 - "2"
 summary: This article analyzes social media engagement when elections are adjudicated to one of the contending parties. We extend existing models of political dialogue to explain differences in social media engagement (i.e. time-to-retweet) when users support the winner or losers of an election.
 url_preprint: "preprint_adj.pdf"
+url_pdf: "ventura_plosone_adjudication"
+url_code: "https://github.com/TiagoVentura/winning_plosone"
+
 title: "Winning! Election Returns and Engagement in Social Media"
 ---
