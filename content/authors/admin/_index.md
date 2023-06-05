@@ -19,7 +19,7 @@ interests:
 - Computational Social Science
 - Political Behavior
 organizations:
-- name: Incoming Assistant Professor, McCourt School, Georgetown (2023-)
+- name: Incoming Assistant Professor at Georgetown University’s McCourt School of Public Policy (2023-)
   url: ""
 role: Postdoc, Center for Social Media and Politics, NYU (2022-2023)
 social:

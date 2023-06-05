@@ -24,7 +24,7 @@ publication = "Conditionally Accepted at Comparative Political Studies"
 publication_short = "Conditionally Accepted at Comparative Political Studies"
 
 # Abstract and optional shortened version.
-abstract = "In this article, we examine the demand-and-supply dynamic of security policies. We argue there are two informational shortcuts through which voters process policy alternatives and choose among them: (1) their own personal experiences with violence and (2) candidates' profiles. We test our argument through an original survey experiment conducted in Mexico. We model voters' decisions to support candidates campaigning over a variety of security proposals. Our survey design takes advantage of recent developments in network models to better measure the effects of crime exposure on voters' preferences. We find that higher exposure to crime victimization is associated with an increased support for only some iron-fist policies, therefore highlighting the importance of unpacking security policies instead of generalizing the results of crime exposure.  We show null effects of partisan advantages and reveal the role of non-partisan heuristics, such as the candidate's professional experience, in preferences for security policies."
+abstract = "In this article, we examine the demand-and-supply dynamic of security policies. We argue there are two informational shortcuts through which voters process policy alternatives and choose among them: (1) their own personal experiences with violence and (2) candidates’ profiles. We test our argument through an original survey experiment conducted in Mexico. We model voters’ decisions to support candidates campaigning over a variety of security proposals. Our survey design takes advantage of recent developments in network models to better measure the effects of crime exposure on voters’ preferences. We find that higher exposure to crime victimization is associated with increased support for only some iron-fist policies, therefore highlighting the importance of unpacking security policies instead of generalizing the results of crime exposure. We show null effects of partisan advantages and reveal the role of non-partisan heuristics, such as the candidate’s professional experience, in preferences for security policies."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -52,10 +52,10 @@ slides = ""
 tags = ["Violence", "Punitive Preferences", "Network Models", "Victimization"]
 
 # Links (optional).
-url_pdf= ""
+url_pdf= "https://journals.sagepub.com/doi/full/10.1177/00104140231169035"
 url_preprint="preprint.pdf"
 url_project= "https://osf.io/r7vah/"
-url_code = ""
+url_code = "https://github.com/TiagoVentura/law_and_order_mexico_CPS"
 url_dataset = ""
 url_slides = ""
 url_video = ""
