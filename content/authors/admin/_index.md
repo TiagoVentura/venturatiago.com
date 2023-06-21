@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/_tiagoventura
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=UH6VJsIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=lG2qlIoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/TiagoVentura
