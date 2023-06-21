@@ -20,8 +20,8 @@ authors = ["Tiago Ventura", "Sandra Ley", "Francisco Cantu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditionally Accepted at Comparative Political Studies"
-publication_short = "Conditionally Accepted at Comparative Political Studies"
+publication = "Comparative Political Studies"
+publication_short = "Comparative Political Studies"
 
 # Abstract and optional shortened version.
 abstract = "In this article, we examine the demand-and-supply dynamic of security policies. We argue there are two informational shortcuts through which voters process policy alternatives and choose among them: (1) their own personal experiences with violence and (2) candidates’ profiles. We test our argument through an original survey experiment conducted in Mexico. We model voters’ decisions to support candidates campaigning over a variety of security proposals. Our survey design takes advantage of recent developments in network models to better measure the effects of crime exposure on voters’ preferences. We find that higher exposure to crime victimization is associated with increased support for only some iron-fist policies, therefore highlighting the importance of unpacking security policies instead of generalizing the results of crime exposure. We show null effects of partisan advantages and reveal the role of non-partisan heuristics, such as the candidate’s professional experience, in preferences for security policies."

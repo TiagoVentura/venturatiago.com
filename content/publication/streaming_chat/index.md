@@ -20,7 +20,7 @@ authors = ["Victoria Asbury", "Keng Chi-Change","Katherine McCabe", "Kevin Munge
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Communication, 2021"
+publication = "Journal of Communication"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -17,10 +17,10 @@ authors = ["Tiago Ventura", "Kevin Munger", "Katherine McCabe", "Keng Chi-Chang"
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Quantitative Description, Digital Media, 2021"
+publication = "Journal of Quantitative Description, Digital Media"
 publication_short = ""
 
 # Abstract and optional shortened version.

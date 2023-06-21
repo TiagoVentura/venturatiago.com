@@ -20,8 +20,8 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Communication, 2022"
-publication_short = "Journal of Communication, 2022"
+publication = "Journal of Communication"
+publication_short = "Journal of Communication"
 
 # Abstract and optional shortened version.
 abstract = "Our paper describes how the sharing behavior of interconnected users alters the frequencies of content observed by social media peers.  Changes in the frequency of distinct frame elements, in different regions of a social network, shape how individuals interpret, classify, and define situations and events. We label this process Network Activated Frames (NAF). We test the mechanisms behind NAF with an original image-based conjoint design that replicates network activation in three surveys. Results show that partisans share more content than non-partisans and that their preferences become over-represented. Our findings show that a network of peers with cross-cutting ideological preferences will still amplify disproportionate numbers of partisan frames. Beginning with fully randomized probabilities, the output from our experiments is more extreme than the preference of the median users, as partisans activate more frame elements than non-partisans. We implement the survey experiments in Argentina, Brazil, and Mexico."

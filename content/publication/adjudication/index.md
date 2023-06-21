@@ -13,8 +13,8 @@ image:
   caption: ""
   focal_point: "center"
   preview_only: true
-publication: "Accepted at PLOS One"
-publication_short: Accepted at PLOS One
+publication: "PLOS One"
+publication_short: "PLOS One"
 publication_types:
 - "2"
 summary: This article analyzes social media engagement when elections are adjudicated to one of the contending parties. We extend existing models of political dialogue to explain differences in social media engagement (i.e. time-to-retweet) when users support the winner or losers of an election.

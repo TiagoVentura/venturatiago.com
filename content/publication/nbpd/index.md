@@ -20,7 +20,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Tiago Ventura"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "International Journal of Press/Politics, 2021"
+publication = "International Journal of Press/Politics"
 publication_short = ""
 
 # Abstract and optional shortened version.
