@@ -19,9 +19,9 @@ interests:
 - Computational Social Science
 - Political Behavior
 organizations:
-- name: Assistant Professor at Georgetown University’s McCourt School of Public Policy
+- name: McCourt School of Public Policy, Georgetown University
   url: ""
-role: Postdoc, Center for Social Media and Politics, NYU (2022-2023)
+role: Assistant Professor in Computational Social Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,11 +51,11 @@ user_groups:
 
 <br>
 
-I am an Assistant Professor in Computational Social Science. Previouslt I was a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at New York University, a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/), and a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
+I am an Assistant Professor in Computational Social Science. Previously,  I was a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at New York University, a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/), and a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
-As a computational social scientist, I have worked on substantive issues in political communication, social media, and political behavior, with a focus on studies on content activation and propagation, misinformation, and polarization in Latin American countries.  Methodologically, I am interested in causal inference problems, online field and survey experiments, network models to deal with large volumes of data, and applications of natural language processing to social science problems. 
+My research deals with substantive issues on politics and social media, focusing on topics such as content activation and propagation, misinformation, and polarization on social media platforms. I am mostly interested in pursuing a comparative approach to these issues, paying special attention to Global South countries.  Methodologically, I am interested in causal inference problems, online field and survey experiments, network models to deal with large volumes of data, and applications of natural language processing to social science problems. 
 
-For my most recent research agenda, Tiago Ventura was awarded a large research grant from the Tech & Public Policy program at Georgetown’s McCourt School to conduct multi-country field experiments focusing on the effects of misinformation exposure through social media messaging apps (particularly WhatsApp) on beliefs for misinformation and political attitudes in the Global South.  In addition, I am working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*
+My recent work was awarded a large research grant from the Tech & Public Policy program at Georgetown’s McCourt School to conduct multi-country field experiments focusing on the effects of misinformation exposure through social media messaging apps (particularly WhatsApp) on beliefs for misinformation and political attitudes in the Global South.  In addition, I am working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*
 
 My research has been published at the _Journal of Communication, Comparative Political Studies, PLOS ONE, International Journal of Press/Politics, Digital Journalism, Electoral Studies_ among other influential academic journals. You can download my [CV here](https://venturatiago.com/files/cv.pdf), or visit the [research page](https://venturatiago.com/talk/) for drafts of working papers currently under review.
 
