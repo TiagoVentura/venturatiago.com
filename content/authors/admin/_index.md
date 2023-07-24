@@ -19,13 +19,13 @@ interests:
 - Computational Social Science
 - Political Behavior
 organizations:
-- name: Incoming Assistant Professor at Georgetown University’s McCourt School of Public Policy (2023-)
+- name: Assistant Professor at Georgetown University’s McCourt School of Public Policy
   url: ""
 role: Postdoc, Center for Social Media and Politics, NYU (2022-2023)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tav5082@nyu.edu
+  link: mailto:tv186@georgetown.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_tiagoventura
@@ -51,20 +51,22 @@ user_groups:
 
 <br>
 
-I am currently a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at NYU, and a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/). In Fall 2023, I will join the [McCourt School of Public Policy](https://mccourt.georgetown.edu/) at Georgetown University as an Assistant Professor in Computational Social Science. I worked previously as a Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
+I am an Assistant Professor in Computational Social Science. Previouslt I was a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at New York University, a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/), and a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
+As a computational social scientist, I have worked on substantive issues in political communication, social media, and political behavior, with a focus on studies on content activation and propagation, misinformation, and polarization in Latin American countries.  Methodologically, I am interested in causal inference problems, online field and survey experiments, network models to deal with large volumes of data, and applications of natural language processing to social science problems. 
 
-I am a computational social scientist exploring substantive issues on political communication and political behavior. My substantive work in political communication focuses on content activation, news sharing, misinformation, and polarization on social media. I explore these issues primarily in Latin American countries. Methodologically, I am interested in online field and survey experiments, network models to deal with big data, and applications of natural language processing to social science problems. My comparative political behavior work explores issues of criminal violence and inequality in Latin America. 
+For my most recent research agenda, Tiago Ventura was awarded a large research grant from the Tech & Public Policy program at Georgetown’s McCourt School to conduct multi-country field experiments focusing on the effects of misinformation exposure through social media messaging apps (particularly WhatsApp) on beliefs for misinformation and political attitudes in the Global South.  In addition, I am working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*
+
+My research has been published at the _Journal of Communication, Comparative Political Studies, PLOS ONE, International Journal of Press/Politics, Digital Journalism, Electoral Studies_ among other influential academic journals. You can download my [CV here](https://venturatiago.com/files/cv.pdf), or visit the [research page](https://venturatiago.com/talk/) for drafts of working papers currently under review.
+
+I am a proud native of the North of Brazil, born and raised in Belém, the largest city in the Brazilian Amazon Rainforest Region. Before moving to the United States, he lived for many years in Rio de Janeiro, Brazil, which is the most fun and beautiful city in the world. Like most Brazilians, Tiago is passionate about soccer, coffee, and samba. 
+
+<!--I am a computational social scientist exploring substantive issues on political communication and political behavior. My substantive work in political communication focuses on content activation, news sharing, misinformation, and polarization on social media. I explore these issues primarily in Latin American countries. Methodologically, I am interested in online field and survey experiments, network models to deal with big data, and applications of natural language processing to social science problems. My comparative political behavior work explores issues of criminal violence and inequality in Latin America.--> 
 
 <!-- I am currently working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*. Our work combines computational modeling with social media data, several survey digital experiments and qualitative analysis across four different countries, Brazil, Argentina, United States and Mexico. The book project is a follow-up from our article "[News by Popular Demand](https://journals.sagepub.com/doi/abs/10.1177/19401612211057068)" recently published at the International Journal of Press/Politics. 
 
 <!--Our book project develops a novel theoretical explanation for the intricate connection between perceptions of heightened polarization in social media discourses and the mixed empirical evidence of users' sorting in these plataforms. Instead of focusing on the formation of online echo-chambers (sorting), our theory discusses how social media bubbles may emerge from different propensities of partisan users' to share content on social media and its upstream effects on perceived polarization.
 My dissertation research focuses on criminal violence and political behavior in Latin America: how citizens make strategic decisions about security policies in violent democracies, how exposure to crime affects citizens'willingness to invest in security, and how these concerns ultimately enter into the electoral arena via support for candidates campaigning on tough-on-crime policies.-->
-
-My research has been published at the _Journal of Communication, PLOS ONE, International Journal of Press/Politics, Comparative Political Studies, Electoral Studies, Digital Journalism, Journal of Elections Public Opinion and Parties, Latin American Politics and Society, The Journal of Quantitative Description (Digital Media), and The SAGE Handbook of Research Methods in Political Science and International Relations_. You can download my [CV here](https://venturatiago.com/files/cv.pdf), or visit the [research page](https://venturatiago.com/talk/) for drafts of working papers currently under review.
-
-I am a proud native of the North of Brazil, born and raised in Belém. Before moving to the United States, I lived for many years in Rio de Janeiro, Brazil, which is probably the most fun city in the world.  
-
 
 <!-- I earned a Ph.D. in Political Science at the University of Maryland College Park (2022), a Master's and a Ph.D. degree in Political Science from the State University of Rio de Janeiro, Brazil. I am a proud native of the North of Brazil, from the city of Belém. But, before moving to the United States, I developed some affection for the beautiful city of Rio de Janeiro. 
 
