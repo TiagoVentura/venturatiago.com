@@ -51,7 +51,7 @@ user_groups:
 
 <br>
 
-I am an Assistant Professor in Computational Social Science. Previously,  I was a postdoctoral scholar at the [Center for Social Media and Politics](https://csmapnyu.org/) at New York University, a Research Fellow at the [Siegel Family Endowment](https://www.siegelendowment.org/insights/article/meet-our-2022-2023-siegel-research-fellows/), and a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
+I am an Assistant Professor in Computational Social Science at Georgetown University’s [McCourt School of Public Policy](https://mccourt.georgetown.edu/) and a faculty affiliated with the [Massive Data Institute](https://mdi.georgetown.edu/). Before joining Georgetown, I was a Postdoctoral Fellow at NYU’s [Center for Social Media and Politics](https://csmapnyu.org/), and now I am Faculty Research Affiliate collaborating in several ongoing projects with CSMaP-NYU. Previously, I received my Ph.D. in Political Science from the University of Maryland, College Park, and worked as a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
 My research deals with substantive issues on politics and social media, focusing on topics such as content activation and propagation, misinformation, and polarization on social media platforms. I am mostly interested in pursuing a comparative approach to these issues, paying special attention to Global South countries.  Methodologically, I am interested in causal inference problems, online field and survey experiments, network models to deal with large volumes of data, and applications of natural language processing to social science problems. 
 
