@@ -16,7 +16,7 @@ baseurl = "https://www.venturatiago.com/"
 copyright = "&copy; 2022 Tiago Ventura"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "G-C906HTQLD9"
+googleAnalytics = "G-NC4JB8T01M"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
