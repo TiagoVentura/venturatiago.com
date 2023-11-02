@@ -16,30 +16,31 @@ weight = 100
 +++
 
 
-## Computational Social Science
+## Seminars
 
 
-- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) (in portuguese, Semester Long Course at FGV-CPDOC)
-
-- [Summer Institute in Computational Social Science, Rio de Janeiro, 2021](https://sicss.io/2021/fgv-dapp-brazil/)
-
-- [Data Processing and Text Analysis in R](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop) (two-week long workshop at Flacso-Mexico, co-taught with Ernesto Calvo)
-
-- [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/) (students-led Workshop at UMD)
-
-- [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/) (in portuguese, Workshop at The Federal University of Para, Brazil)
-
-- [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) (students-led Workshop at UMD)
-
-- {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} (Students-led Workshops at UMD)
-
-- {{% staticref "files/crash_course_gvpt" %}} R Crash Course {{% /staticref %}} (GVPT 489: Tweeting Political Crisis)
+- [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203_fall_2023/) - Master Level Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2023
 
 
-## Undergraduate Seminars
+- [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) - Undergraduate Seminar at FGV-CPDOC, 2021
 
-- GVPT289: Politics in the Developing World
 
-- [GVPT282: Religion and Politics](https://github.com/TiagoVentura/Religion-and-Politics-GVPT-289-L)
+## Workshops
 
+
+
+- [Collecting and Analyzing Social Media Data](https://github.com/TiagoVentura/workshop_big_data_conference) - Big Data Conference at University of Pennsylvania, 2022
+
+- [Data Processing and Text Analysis / Scrapping and Big data](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop) - Two week workshop at IPSA-Flacso Summer School, 2021
+
+
+- [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/) -Student-led Workshop at UMD, 2020
+
+- [Collecting and Analyzing Social Media Data with R](https://tiagoventura.github.io/workshop_ufpa/)  - Workshop at The Federal University of Para, Brazil, 2019
+
+- [How to build a R package?](https://github.com/TiagoVentura/UMD_workshop_Rpackages) - Student-led Workshop at UMD, 2018
+
+- {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} - Student-led Workshops at UMD, 2018
+
+- {{% staticref "files/crash_course_gvpt" %}} R Crash Course {{% /staticref %}} - GVPT 489: Tweeting Political Crisis, 2018
 

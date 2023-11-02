@@ -1,11 +1,11 @@
 +++
-title = "Truth be told: Cognitive moderators of selective sharing of fact-checks on social media"
-date = 2021-12-12T15:35:10-04:00
+title = "Training Computational Social Science PhD Students for Academic and Non-Academic Careers"
+date = 2023-10-23T15:35:10-04:00
 draft = false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Natalia Aruguete", "Ernesto Calvo","Ingrid Bachman", "Sebastian Valenzuela","Tiago Ventura"]
+authors = ["Aniket Kesari","Jae Kim", "Sono Shah", "Taylor Brown", "Tina Law","Tiago Ventura"]
 
 # Publication type.
 # Legend:
@@ -20,15 +20,15 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Ingrid Bachman", "Sebastian Vale
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "R&R Information, Communication and Society"
+publication = "PS: Political Science & Politics"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "When do users share fact-checks with their peers? We describe a survey experiment (N = 2,041) conducted during the 2019 presidential election in Argentina measuring the propensity of voters to share corrections to political misinformation that randomly confirm or challenge their initial beliefs. In line with processes of motivated reasoning, we find evidence of selective sharing—the notion that individuals prefer to share pro-attitudinal rather than counter-attitudinal fact-checks. This directional effect, however, is regulated by the type of adjudication made by the fact-checking organization, such that sharing increases for attitude-consistent validations (i.e., ‘true’ ratings) but decreases for attitude-consistent refutations (i.e., ‘false’ ratings). Experimental results are partially confirmed with a regression discontinuity analysis of observational data of Twitter shares collected during a televised debate of the same election. Our findings suggest that fact-checking organizations could selectively increase exposure to their verifications on social media by validating correct information (e.g., ‘It is true that vaccines prevent COVID-19’) or reduce exposure to them by refuting incorrect claims (e.g., ‘It is false that vaccines do not prevent COVID’)."
+abstract = "Social scientists with data science skills increasingly are assuming positions as computational social scientists in academic and non-academic organizations. However, because computational social science (CSS) is still relatively new to the social sciences, it can feel like a hidden curriculum for many PhD students. To support social science PhD students, this article is an accessible guide to CSS training based on previous literature and our collective working experiences in academic, public-, and private-sector organizations. We contend that students should supplement their traditional social science training in research design and domain expertise with CSS training by focusing on three core areas: (1) learning data science skills, (2) building a portfolio that uses data science to answer social science questions, and (3) connecting with computational social scientists. We conclude with practical recommendations for departments and professional associations to better support PhD students."
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= false
+featured= true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -48,11 +48,11 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["misinformation",  "fact-checking", "motivated reasoning", "experiment" ]
+tags = ["computational social science",  "professional", "teaching" ]
 
 # Links (optional).
 
-url_pdf = "files/ABCVV_truth_be_told.pdf"
+url_pdf = "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/training-computational-social-science-phd-students-for-academic-and-nonacademic-careers/1455690939833B9FFCAC664D4E412057"
 url_project = ""
 url_code = ""
 url_dataset = ""

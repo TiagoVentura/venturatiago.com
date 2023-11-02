@@ -1,11 +1,11 @@
 +++
 title = "Truth be told: Cognitive moderators of selective sharing of fact-checks on social media"
-date = 2021-12-12T15:35:10-04:00
+date = 2023-06-06T15:35:10-04:00
 draft = false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Natalia Aruguete", "Ernesto Calvo","Ingrid Bachman", "Sebastian Valenzuela","Tiago Ventura"]
+authors = ["Natalia Aruguete", "Ingrid Bachman", "Ernesto Calvo","Sebastian Valenzuela","Tiago Ventura"]
 
 # Publication type.
 # Legend:
@@ -20,15 +20,15 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Ingrid Bachman", "Sebastian Vale
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "R&R Information, Communication and Society"
+publication = "New Media & Society"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "When do users share fact-checks with their peers? We describe a survey experiment (N = 2,041) conducted during the 2019 presidential election in Argentina measuring the propensity of voters to share corrections to political misinformation that randomly confirm or challenge their initial beliefs. In line with processes of motivated reasoning, we find evidence of selective sharing—the notion that individuals prefer to share pro-attitudinal rather than counter-attitudinal fact-checks. This directional effect, however, is regulated by the type of adjudication made by the fact-checking organization, such that sharing increases for attitude-consistent validations (i.e., ‘true’ ratings) but decreases for attitude-consistent refutations (i.e., ‘false’ ratings). Experimental results are partially confirmed with a regression discontinuity analysis of observational data of Twitter shares collected during a televised debate of the same election. Our findings suggest that fact-checking organizations could selectively increase exposure to their verifications on social media by validating correct information (e.g., ‘It is true that vaccines prevent COVID-19’) or reduce exposure to them by refuting incorrect claims (e.g., ‘It is false that vaccines do not prevent COVID’)."
+abstract = "When do users share fact-checks on social media? We describe a survey experiment conducted during the 2019 election in Argentina measuring the propensity of voters to share corrections to political misinformation that randomly confirm or challenge their initial beliefs. We find evidence of selective sharing—the notion that individuals prefer to share pro-attitudinal rather than counter-attitudinal fact-checks. This effect, however, is conditioned by the type of adjudication made by fact-checkers. More specifically, in line with motivated reasoning processes, respondents report a higher intent to share confirmations (i.e. messages fact-checked with a “true” rating) compared with refutations (i.e. messages fact-checked with a “false” rating). Experimental results are partially confirmed with a regression discontinuity analysis of observational data of Twitter and replicated with additional experiments. Our findings suggest that fact-checkers could increase exposure to their verifications on social media by framing their corrections as confirmations of factually correct information."
 
 # Is this a selected publication? (true/false)
 selected = true
-featured= false
+featured= true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -52,9 +52,9 @@ tags = ["misinformation",  "fact-checking", "motivated reasoning", "experiment" 
 
 # Links (optional).
 
-url_pdf = "files/ABCVV_truth_be_told.pdf"
+url_pdf = "https://journals.sagepub.com/doi/10.1177/14614448231193709"
 url_project = ""
-url_code = ""
+url_code = "https://github.com/TiagoVentura/truth_be_told_NMS"
 url_dataset = ""
 url_slides = ""
 url_video = ""
