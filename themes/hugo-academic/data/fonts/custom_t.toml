@@ -5,12 +5,12 @@ name = "Classic_t"
 google_fonts = "Lato:400,700|Merriweather|Roboto+Mono|Muli"
 
 # Font families
-heading_font = "Lato"
+heading_font = "Roboto Mono"
 body_font = "Muli"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
 
 # Font size
 font_size = "16"
-font_size_small = "16"
+font_size_small = "14"
 

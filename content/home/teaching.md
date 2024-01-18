@@ -16,7 +16,7 @@ weight = 100
 +++
 
 
-## Seminars
+## Courses
 
 
 - [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203_fall_2023/) - Master Level Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2023
@@ -26,7 +26,6 @@ weight = 100
 
 
 ## Workshops
-
 
 
 - [Collecting and Analyzing Social Media Data](https://github.com/TiagoVentura/workshop_big_data_conference) - Big Data Conference at University of Pennsylvania, 2022
