@@ -1,6 +1,6 @@
 +++
 title = "Voting for Law and Order: Evidence from a Survey Experiment in Mexico"
-date = 2023-01-22T15:35:10-04:00
+date = 2024-01-22T15:35:10-04:00
 draft = false
 
 
