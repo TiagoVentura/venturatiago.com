@@ -1,8 +1,8 @@
 +++
 title = "WhatsApp Increases Exposure to False Rumors but has Limited Effects on Beliefs and Polarization: Evidence from a Multimedia-Constrained Deactivation."
-date = 2023-05-15T15:35:10-04:00
-draft = false
-
+date = 2025-05-15T15:35:10-04:00
+draft = true
+active = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tiago Ventura", "Rajeshwari Majumdar", "Jonathan Nagler", "Joshua A. Tucker"]
