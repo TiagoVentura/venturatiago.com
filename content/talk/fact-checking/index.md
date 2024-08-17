@@ -51,8 +51,7 @@ slides = ""
 tags = ["Social Media"," Misinformation", "WhatsApp", "Elections", "Global South"]
 
 # Links (optional).
-url_preprint = ""
-url_pdf= "tl.pdf"
+url_preprint= "fct_timeline.pdf"
 url_project= ""
 url_code = ""
 url_dataset = ""

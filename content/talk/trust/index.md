@@ -51,7 +51,6 @@ slides = ""
 tags = ["Social Media", "Trust", "Anger", "Latin America"]
 
 # Links (optional).
-
 url_pdf = "trust.pdf"
 url_project = ""
 url_code = ""
