@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Tiago Ventura</copyright>
-    <lastBuildDate>Tue, 06 Feb 2024 15:35:10 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 15:35:10 -0400</lastBuildDate>
     
 	    <atom:link href="https://www.venturatiago.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -78,6 +78,15 @@ Natália Aruguete, Ernesto Calvo and Tiago Ventura.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Papers Under Review</title>
+      <link>https://www.venturatiago.com/talk/</link>
+      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://www.venturatiago.com/publication/</link>
       <pubDate>Tue, 06 Feb 2024 15:35:10 -0400</pubDate>
@@ -92,15 +101,6 @@ Natália Aruguete, Ernesto Calvo and Tiago Ventura.&lt;/p&gt;
       <pubDate>Fri, 15 Oct 2021 15:35:10 -0400</pubDate>
       
       <guid>https://www.venturatiago.com/publication_wp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers Under Review</title>
-      <link>https://www.venturatiago.com/talk/</link>
-      <pubDate>Fri, 15 Oct 2021 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/talk/</guid>
       <description></description>
     </item>
     
