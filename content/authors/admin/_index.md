@@ -1,18 +1,15 @@
 ---
 authors:
 - admin
-bio: My research interests include computational social science, political commmunication and political behavior in Latin America. 
+bio: My research interests include computational social science, political communication and political behavior in Latin America. 
 education:
   courses:
-  - course: Ph.D. and M.A. in Political Science, 2022
+  - course: Ph.D. and M.A. in Political Science
     institution: University of Maryland, College Park
-    Year: 2022
   - course: Ph.D. and M.A. in Political Science
     institution: State University of Rio de Janeiro, Brazil
-    year: 2018
   - course: Ba in Law
     institution: Federal University of Para, Brazil
-    year: 2010
 email: "venturat@umd.edu"
 interests:
 - Political Communication

@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -19,7 +19,9 @@ weight = 100
 ## Courses
 
 
-- [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203_fall_2023/) - Master Level Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2023
+- [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203/) - Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2023
+
+- [Text-As-Data: Computational Linguistics](https://tiagoventura.github.io/PPOL_6801_2024/) - Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2024
 
 
 - [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) - Undergraduate Seminar at FGV-CPDOC, 2021

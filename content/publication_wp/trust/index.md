@@ -17,7 +17,7 @@ authors = ["Natalia Aruguete", "Ernesto Calvo","Carlos Scarscitini", "Tiago Vent
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["2"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper, Under Review"

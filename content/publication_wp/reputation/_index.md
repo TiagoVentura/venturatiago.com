@@ -17,7 +17,7 @@ authors = ["Tiago Ventura","Ernesto Calvo", "Natalia Aruguete"]
 # 5 = Book
 # 6 = Book section
 # 7 = Working Papger
-publication_types = ["3"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "Under Review"
