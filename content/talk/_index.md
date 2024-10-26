@@ -2,6 +2,110 @@
 header:
   caption: ""
   image: ""
-title: Papers Under Review
-view: 5
+title: Work in Progress
+view: 10
 ---
+
+## Under Review
+
+### The Fact-Checking Dilemma: Corrections increase fact-checker's credibility but distort perceptions of ideological leaning 
+
+[Paper](https://www.venturatiago.com/talk/reputation/reputation.pdf)
+
+**Abstract:** This study examines how exposure to the counter- and pro-attitudinal fact-checking messages impacts the perceived quality and ideological leaning of the fact-checker. In a well-powered, pre-registered survey experiment conducted during the 2021 mid-term election in Argentina when COVID-19 was a polarizing issue, we exposed 5,757 respondents to real tweets reporting the number of COVID-19 cases in Argentina, followed by fact-checking corrections. Results show that pro-attitudinal messages increased the quality rating of the fact-checker, Chequeado, and made respondents perceive the organization ideologically closer to their own views. Counter-attitudinal fact-checking also increases the perceived quality but has no significant effect on the perceived ideology of the fact-checker. Corrections are reputation-improving and do not seem to backfire. However, these same corrections affect how voters perceive the ideological leaning of fact-checking organizations.
+
+*Joint work with Natalia Aruguete and Ernesto Calvo.* Revise and Resubmit at *Research & Politics*
+
+
+### Misinformation Exposure Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil.
+
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400)
+
+**Abstract:** In most advanced democracies, concerns about the spread of misinformation are typically associated with feed-based social media platforms like Twitter and Facebook. These platforms also account for the vast majority of research on the topic. However, in most of the world, particularly in Global South countries, misinformation often reaches citizens through social media messaging apps, particularly WhatsApp. To fill the resulting gap in the literature, we conducted a multimedia deactivation experiment to test the impact of reducing exposure to potential sources of misinformation on WhatsApp during the weeks leading up to the 2022 Presidential election in Brazil. We find that this intervention significantly reduced participants’ exposure to false rumors circulating widely during the election. However, consistent with theories of mass media minimal effects, a short-term reduction in exposure to misinformation ahead of the election did not lead to significant changes in belief accuracy, political polarization, or well-being.
+
+*Joint work with Rajeshwari Majumdar, Jonathan Nagler and Joshua Tucker*. 
+
+- *Winner of the 2024 Paul Lazarsfeld Best Paper Award, recognizing the best overall paper presented on the topic of Political Communication at the 2023 APSA meeting*
+- *Winner of the 2024 Information Technology and Politics Award recognizing the best overall paper presented on the topic at the 2023 APSA meeting*
+- *Winner of the 2024 Best Paper in Political Behavior Presented at the Brazilian Political Science Association Meeting*
+- *Winner of the 2024 Best Overall Paper Presented at the Brazilian Political Science Association Meeting*
+
+
+### Survey Professionalism: New Evidence from Browsing Data
+
+[Paper](https://osf.io/preprints/osf/jxdc8)
+
+**Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become ``survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7\% of respondents on Facebook, 7.9\% of respondents on YouGov, and 34.3\% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
+
+*Joint work with  Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*. 
+
+### Trustful Voters, Trustworthy Politicians: A Survey Experiment on the Influence of Social Media in Politics
+
+[Paper](https://www.venturatiago.com/talk/trust/trust.pdf)
+
+**Abstract:** This study measures the effect of partisan and polarizing social media messages on political trust and trustworthiness in Brazil and Mexico. We implemented two survey experiments with 2,400 respondents each, using a modified "trust game" to measure the effects of social media on two dimensions: trust (the belief that others will fulfill their pledges) and trustworthiness (fulfilling the pledges made to others). Our findings reveal a null social media effect on trustworthiness and a statistically significant decline in trust among users exposed to polarizing partisan messages. The decline in trust is larger if respondents actively like, share, or comment on the message. Results show that individuals are, on average, worthy of our trust, even if we do not trust them. These findings underscore the role of active engagement with social media content as a mediator in diminishing trust. The results also raise questions about the significant gap between trustworthiness and trust.
+
+
+*Joint work with Natalia Aruguete,  Ernesto Calvo, and Carlos Scartascini*
+
+### The Causal Effects of Exposure to Fact-checking Information on Social Media: Evidence from a Field Experiment on Twitter
+
+[Registered Report](https://www.venturatiago.com/talk/fact-checking/fct_timeline.pdf)
+
+**Abstract:** Social media companies and civic society rely heavily on fact-checking to counter misinformation. While numerous studies have shown the efficacy of single-shot corrective interventions, the effects of sustained exposure to fact-checking information in a realistic social media environment have yet to be tested. In this study, we conduct a one-month field intervention implemented on a widely used social media platform to analyze the causal effect of substantially increasing users’ exposure to fact-checking accounts and content on resilience to misinformation and attitudinal outcomes. In our design, Twitter users will be randomly assigned to an intervention group that will have a new timeline in their accounts composed of a pre-curated list of fact-checking organizations added to the top of their Twitter feeds, and a control group where nothing is added. Over a four-week period, participants’ compliance with the intervention will be consistently assessed, and two survey waves will measure outcomes of interest. 
+
+*Joint work with  Kevin Aslett,  Felicia Loecherbach, Joshua A. Tucker,  Solomon Messing*
+
+
+### Voting for Violence: Criminal Violence and the Election of Law and Order Politicians in Brazil
+
+[Paper](https://venturatiago.com/files/ventura_voting_for_violence_jmp.pdf)
+
+**Abstract:** This article discusses how criminal violence affects voting behavior and citizens’ demand for security policies in unequal and violent societies. I propose a theory considering both the micro-level dynamics and the supply of politicians framing the menu of security policies available to voters. I argue that rather than priming on valence considerations, security policies on unequal societies work as a wedge issue in which voters’ security preferences overlap with prior partisan identities and income status. Using Brazil as a case study, I apply a combination of fine-grained observational data and computational text analysis to test my argument. Results show that crime shocks increase law-and-order candidates’ vote share, especially in more conservative municipalities. More importantly, within each city, the largest share of the supporters of law and order candidates come from wealthier neighborhoods after crime shocks. Computational text analysis connects law-and-order candidates and expressive support for punitive penal policies.  
+
+- Winner of the Mario Fuks Awards 2022 - Best Paper in the Political Behavior Section of  the Brazilian Political Science Political Behavior.
+
+
+## In Progress (Papers available upon request)
+
+### The Effects of Partisan Geographical Segregation on Online Behavior on Twitter
+
+**Abstract:** Heightened levels of affective polarization have become a striking feature of contemporary politics. 
+The role of social media in facilitating ties between citizens who express similar political positions is often raised as the primary mechanism behind this.
+However, more recent evidence shows the discourse around online echo chambers has vastly overstated their prevalence in online environments.
+To understand these mixed findings, some have advanced an alternative causal mechanism whereby rather than isolating users in homogenous online communities, social media take users outside of their ``local bubbles'' and actually increase their exposure to content that they would hardly encounter in their offline networks. 
+Our article empirically assesses these conflicting views by linking a novel dataset of voters' offline partisan segregation extracted from publicly available voter files for 180 million US voters with their online network segregation on Twitter.
+We investigate the relationship between offline and online partisan segregation using measures of geographical and network exposure to outgroup voters.  
+Using a dataset connecting over 900 thousand voters with their Twitter profiles, we provide evidence for high levels of both online and offline ingroup and, most importantly, that levels of such offline isolation, if anything, are higher offline than online. 
+Our results inform the emerging literature on political communication and the homophily of online networks and provide novel evidence about partisan sorting online and offline. 
+
+*Joint work with Megan Brown, Tiago Ventura, Joshua A. Tucker, Jonathan Nagler.*
+
+- Presented at MPSA and APSA 2023
+      			
+  
+###   Testing the global causal impact of social media usage reduction on news knowledge, polarization, and subjective well-being.
+
+**Abstract:** Nearly five billion people around the globe are now active on social media. There is widespread debate about how social media may influencebe influencing intergroup conflict and well-being. However, many studies on the impact of social media are either correlational or focus primarily on United States or Western European samples. We plan to conduct a global field experiment that tests the causal impact of social media reduction across 30 countries in which half of the participants will be randomly assigned to reduce their social media usage for two weeks. We will then test a number of preregisteredpre-specified theory-driven hypotheses about how this social media usage reduction influences intergroup attitudes, well-being, and news knowledge. We will, and also test how the effects of this social media reduction differ across world regions. The results of this global experiment will inform important debates about the impact of social media in different cultural and political contexts. 
+
+*Joint work with Steven Rathje, Nejla Asimovic, Claire E. Robertson, Tiago Ventura, Joshua Tucker, and Jay J. Van Bavel*
+
+
+### The Effects of WhatsApp on Politics: Evidence from a Multimedia Deactivation Experiment
+
+**Abstract:** Recent scholarly work has investigated how social media platforms increase users' exposure to misinformation and harmful content, contributing to contemporary democratic ills such as increased levels of polarization, intergroup prejudice, and offline violence. This paper presents two distinct interventions to identify the causal effects of the most heavily used social media messaging app in the world---WhatsApp---on exposure to online misinformation and its downstream effects on political attitudes. We deploy simultaneous field experiments in India and South Africa, incentivizing participants to either (1) reduce exposure to multimedia on WhatsApp or (2) limit overall WhatsApp usage to up to 10 minutes per day for four weeks ahead of their 2024 general elections. Our intervention significantly reduced participants’ exposure to false rumors circulating widely during the election and to overall political news. These changes in the informational environment, however, did not significantly change belief accuracy. We also detected a significant reduction in ethnic-based prejudice in India when participants reduced their overall WhatsApp usage, but estimated precise nulls for polarization outcomes in South Africa.  
+
+*Joint Work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Joshua Tucker* 
+
+- Presented at APSA 2024
+
+
+### Partisan Motivated Reasoning Trumps Even Illusory Truth
+
+**Abstract:** Does prior exposure to false news online trump partisan-motivated beliefs for political misinformation? In this paper, we revisit this debate by situating both frameworks within a unified model of belief formation and designing survey experiments to assess the competing empirical implications of our model. We find that partisan motivated reasoning is significantly more predictive of beliefs about misinformation than the direct effects of prior exposure. More importantly, prior exposure effects are significantly moderated by the ideological congruence of the signal. We also show that prior exposure effects disappear after one day, and warning labels consistently mitigate the effects. The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. These results contribute to a deeper understanding of cognitive biases in political information processing and mitigate alarmist narratives about the effects of exposure to online misinformation on belief formation. 
+
+
+*Joint Work with Jim Bisbee, Sarah Graham,  and Joshua Tucker* 
+
+- Presented at APSA 2024
+

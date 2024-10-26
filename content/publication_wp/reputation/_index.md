@@ -2,7 +2,7 @@
 title = "Doubt the Messenger: The reputation cost of fact-checking"
 date = 2025-05-15T15:35:10-04:00
 draft = true
-active = true
+active = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tiago Ventura","Ernesto Calvo", "Natalia Aruguete"]

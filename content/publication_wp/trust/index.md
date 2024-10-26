@@ -2,6 +2,7 @@
 title = "Trustful Voters, Trustworthy Politicians: A Survey Experiment on the Influence of Social Mediain Politics"
 date = 2020-11-29T15:35:10-04:00
 draft = false
+active= false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

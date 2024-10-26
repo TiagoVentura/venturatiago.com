@@ -1,5 +1,5 @@
 +++
-title = "WMisinformation Exposure Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil."
+title = "Misinformation Exposure Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil."
 date = 2025-05-15T15:35:10-04:00
 draft = true
 active = false

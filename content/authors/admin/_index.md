@@ -45,6 +45,15 @@ user_groups:
 
 
 ### Welcome!
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NC4JB8T01M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NC4JB8T01M');
+</script>
 
 I am an Assistant Professor in Computational Social Science at Georgetown University’s [McCourt School of Public Policy](https://mccourt.georgetown.edu/) and a faculty affiliated with the [Massive Data Institute](https://mdi.georgetown.edu/). Before joining Georgetown, I was a Postdoctoral Fellow at NYU’s [Center for Social Media and Politics](https://csmapnyu.org/). Previously, I received my Ph.D. in Political Science from the University of Maryland, College Park, where I am still a faculty affiliated with the [iLCSS](https://ilcss.umd.edu/) and worked as a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
