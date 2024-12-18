@@ -7,79 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Tiago Ventura</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 15:35:10 -0400</lastBuildDate><atom:link href="https://www.venturatiago.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Elections</title>
-      <link>https://www.venturatiago.com/tags/elections/</link>
-      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/elections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global South</title>
-      <link>https://www.venturatiago.com/tags/global-south/</link>
-      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/global-south/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misinformation</title>
-      <link>https://www.venturatiago.com/tags/misinformation/</link>
-      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/misinformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Media</title>
-      <link>https://www.venturatiago.com/tags/social-media/</link>
-      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WhatsApp</title>
-      <link>https://www.venturatiago.com/tags/whatsapp/</link>
-      <pubDate>Mon, 15 Jul 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/whatsapp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anger</title>
-      <link>https://www.venturatiago.com/tags/anger/</link>
-      <pubDate>Sat, 29 Jun 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/anger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latin America</title>
-      <link>https://www.venturatiago.com/tags/latin-america/</link>
-      <pubDate>Sat, 29 Jun 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/latin-america/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trust</title>
-      <link>https://www.venturatiago.com/tags/trust/</link>
-      <pubDate>Sat, 29 Jun 2024 15:35:10 -0400</pubDate>
-      
-      <guid>https://www.venturatiago.com/tags/trust/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 06 Feb 2024 15:35:10 -0400</lastBuildDate><atom:link href="https://www.venturatiago.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>experiment</title>
       <link>https://www.venturatiago.com/tags/experiment/</link>
@@ -95,6 +23,15 @@
       <pubDate>Tue, 06 Feb 2024 15:35:10 -0400</pubDate>
       
       <guid>https://www.venturatiago.com/tags/fact-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>https://www.venturatiago.com/tags/misinformation/</link>
+      <pubDate>Tue, 06 Feb 2024 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/tags/misinformation/</guid>
       <description></description>
     </item>
     
@@ -198,6 +135,15 @@
     </item>
     
     <item>
+      <title>Social Media</title>
+      <link>https://www.venturatiago.com/tags/social-media/</link>
+      <pubDate>Fri, 12 Aug 2022 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Data</title>
       <link>https://www.venturatiago.com/tags/big-data/</link>
       <pubDate>Fri, 15 Oct 2021 15:35:10 -0400</pubDate>
@@ -248,6 +194,33 @@
       <pubDate>Tue, 12 Oct 2021 13:51:56 -0400</pubDate>
       
       <guid>https://www.venturatiago.com/tags/news-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anger</title>
+      <link>https://www.venturatiago.com/tags/anger/</link>
+      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/tags/anger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin America</title>
+      <link>https://www.venturatiago.com/tags/latin-america/</link>
+      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/tags/latin-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust</title>
+      <link>https://www.venturatiago.com/tags/trust/</link>
+      <pubDate>Sun, 14 Mar 2021 15:35:10 -0400</pubDate>
+      
+      <guid>https://www.venturatiago.com/tags/trust/</guid>
       <description></description>
     </item>
     
