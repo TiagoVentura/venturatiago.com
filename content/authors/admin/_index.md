@@ -34,7 +34,7 @@ social:
   link: https://github.com/TiagoVentura
 - icon: cv
   icon_pack: ai
-  link: "./files/cv.pdf"
+  link: "./files/cv2.pdf"
 superuser: true
 user_groups:
 - Researchers

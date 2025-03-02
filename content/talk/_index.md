@@ -8,16 +8,7 @@ view: 10
 
 ## Under Review
 
-### The Fact-Checking Dilemma: Corrections increase fact-checker's credibility but distort perceptions of ideological leaning 
-
-[Paper](https://www.venturatiago.com/talk/reputation/reputation.pdf)
-
-**Abstract:** This study examines how exposure to the counter- and pro-attitudinal fact-checking messages impacts the perceived quality and ideological leaning of the fact-checker. In a well-powered, pre-registered survey experiment conducted during the 2021 mid-term election in Argentina when COVID-19 was a polarizing issue, we exposed 5,757 respondents to real tweets reporting the number of COVID-19 cases in Argentina, followed by fact-checking corrections. Results show that pro-attitudinal messages increased the quality rating of the fact-checker, Chequeado, and made respondents perceive the organization ideologically closer to their own views. Counter-attitudinal fact-checking also increases the perceived quality but has no significant effect on the perceived ideology of the fact-checker. Corrections are reputation-improving and do not seem to backfire. However, these same corrections affect how voters perceive the ideological leaning of fact-checking organizations.
-
-*Joint work with Natalia Aruguete and Ernesto Calvo.* Revise and Resubmit at *Research & Politics*
-
-
-### Misinformation Exposure Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil.
+### Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil.
 
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400)
 
