@@ -5,15 +5,8 @@ header:
 title: Papers Under Review
 ---
 
-## The Fact-Checking Dilemma: Corrections increase fact-checker's credibility but distort perceptions of ideological leaning
-
-[Paper](https://www.venturatiago.com/talk/reputation/reputation.pdf)
-
-**Abstract**: This study examines how exposure to the counter- and pro-attitudinal fact-checking messages impacts the perceived quality and ideological leaning of the fact-checker. In a well-powered, pre-registered survey experiment conducted during the 2021 mid-term election in Argentina when COVID-19 was a polarizing issue, we exposed 5,757 respondents to real tweets reporting the number of COVID-19 cases in Argentina, followed by fact-checking corrections. Results show that pro-attitudinal messages increased the quality rating of the fact-checker, \textit{Chequeado}, and made respondents perceive the organization ideologically closer to their own views. Counter-attitudinal fact-checking also increases the perceived quality but has no significant effect on the perceived ideology of the fact-checker. Corrections are reputation-improving and do not seem to backfire. However, these same corrections affect how voters perceive the ideological leaning of fact-checking organizations.
-
-*Joint work with Natalia Aruguete and Ernesto Calvo.*, **Revise and Resubmit at Research & Politics**
-
-## Misinformation Exposure Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil.
+## Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil. 
+*R&R at The Journal of Politics*
 
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400)
 
@@ -28,13 +21,18 @@ title: Papers Under Review
 
 ## Survey Professionalism: New Evidence from Browsing Data
 
+*R&R at Political Analysis*
+
 [Paper](https://osf.io/preprints/osf/jxdc8)
 
 **Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
 
 *Joint work with Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*.
 
-## Trustful Voters, Trustworthy Politicians: A Survey Experiment on the Influence of Social Media in Politics
+
+## Keep your promises, even when your peers do not: A Survey Experiment on the Influence of Social Media on Trust
+
+*R&R at The Journal of Information and Politics*
 
 [Paper](https://www.venturatiago.com/talk/trust/trust.pdf)
 
@@ -42,7 +40,33 @@ title: Papers Under Review
 
 *Joint work with Natalia Aruguete, Ernesto Calvo, and Carlos Scartascini*
 
-## The Causal Effects of Exposure to Fact-checking Information on Social Media: Evidence from a Field Experiment on Twitte3
+## Testing the Causal Impact of Social Media Reduction Around the Globe
+
+*Invited to Submit at Nature*
+
+[Project Webpage](https://globalsocialmediastudy.com/)
+
+**Abstract:** More than half of the world’s population now uses social media. There is widespread debate among the general public, politicians, and academics about social media’s impact on important variables, such as intergroup conflict and well-being. However, many studies on the impact of social media are either correlational or focus primarily on samples from the United States and Western Europe. We plan to conduct a global field experiment to measure the causal impact of incentivizing people to substantially reduce their social media usage across 23 countries (projected n > 8,000) for two weeks. We will then test hypotheses on how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across different world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democracy. This large-scale, high-powered global field experiment, and the global dataset resulting from it, will provide much-needed evidence to inform ongoing debates about the impact of social media usage across diverse cultural and political contexts.
+
+*Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Coauthors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel. *
+
+## Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing
+
+*Under Review*
+
+[Paper](https://www.venturatiago.com/talk/ite/ite/pdf)
+
+**Abstract:** Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. 
+Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. 
+In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. 
+We find that both partisan motivated reasoning and prior exposure (`illusory truth effects') manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. 
+However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases.  
+% The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. 
+These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
+
+*Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker**
+
+## The Causal Effects of Exposure to Fact-checking Information on Social Media: Evidence from a Field Experiment on Twitter
 
 [Registered Report](https://www.venturatiago.com/talk/fact-checking/fct_timeline.pdf)
 
@@ -52,8 +76,12 @@ title: Papers Under Review
 
 ## Voting for Violence: Criminal Violence and the Election of Law and Order Politicians in Brazil
 
+*R&R at Comparative Politics*
+
 [Paper](https://venturatiago.com/files/ventura_voting_for_violence_jmp.pdf)
 
 **Abstract:** This article discusses how criminal violence affects voting behavior and citizens' demand for security policies in unequal and violent societies. I propose a theory considering both the micro-level dynamics and the supply of politicians framing the menu of security policies available to voters. I argue that rather than priming on valence considerations, security policies on unequal societies work as a wedge issue in which voters' security preferences overlap with prior partisan identities and income status. Using Brazil as a case study, I apply a combination of fine-grained observational data and computational text analysis to test my argument. Results show that crime shocks increase law-and-order candidates' vote share, especially in more conservative municipalities. More importantly, within each city, the largest share of the supporters of law and order candidates come from wealthier neighborhoods after crime shocks. Computational text analysis connects law-and-order candidates and expressive support for punitive penal policies.
 
 -   Winner of the Mario Fuks Awards 2022 - Best Paper in the Political Behavior Section of the Brazilian Political Science Political Behavior.
+
+
