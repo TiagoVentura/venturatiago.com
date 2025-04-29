@@ -6,20 +6,6 @@ title: Work in Progress
 view: 10
 ---
 
-## Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil. 
-*R&R at The Journal of Politics*
-
-[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400)
-
-**Abstract:** In most advanced democracies, concerns about the spread of misinformation are typically associated with feed-based social media platforms like Twitter and Facebook. These platforms also account for the vast majority of research on the topic. However, in most of the world, particularly in Global South countries, misinformation often reaches citizens through social media messaging apps, particularly WhatsApp. To fill the resulting gap in the literature, we conducted a multimedia deactivation experiment to test the impact of reducing exposure to potential sources of misinformation on WhatsApp during the weeks leading up to the 2022 Presidential election in Brazil. We find that this intervention significantly reduced participants' exposure to false rumors circulating widely during the election. However, consistent with theories of mass media minimal effects, a short-term reduction in exposure to misinformation ahead of the election did not lead to significant changes in belief accuracy, political polarization, or well-being.
-
-*Joint work with Rajeshwari Majumdar, Jonathan Nagler and Joshua Tucker*.
-
--   *Winner of the 2024 Paul Lazarsfeld Best Paper Award, recognizing the best overall paper presented on the topic of Political Communication at the 2023 APSA meeting*
--   *Winner of the 2024 Information Technology and Politics Award recognizing the best overall paper presented on the topic at the 2023 APSA meeting*
--   *Winner of the 2024 Best Paper in Political Behavior Presented at the Brazilian Political Science Association Meeting*
--   *Winner of the 2024 Best Overall Paper Presented at the Brazilian Political Science Association Meeting*
-
 ## Survey Professionalism: New Evidence from Browsing Data
 
 *R&R at Political Analysis*
@@ -29,17 +15,6 @@ view: 10
 **Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
 
 *Joint work with Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*.
-
-
-## Keep your promises, even when your peers do not: A Survey Experiment on the Influence of Social Media on Trust
-
-*R&R at The Journal of Information and Politics*
-
-[Paper](https://www.venturatiago.com/talk/trust/trust.pdf)
-
-**Abstract:** This study measures the effect of partisan and polarizing social media messages on political trust and trustworthiness in Brazil and Mexico. We implemented two survey experiments with 2,400 respondents each, using a modified "trust game" to measure the effects of social media on two dimensions: trust (the belief that others will fulfill their pledges) and trustworthiness (fulfilling the pledges made to others). Our findings reveal a null social media effect on trustworthiness and a statistically significant decline in trust among users exposed to polarizing partisan messages. The decline in trust is larger if respondents actively like, share, or comment on the message. Results show that individuals are, on average, worthy of our trust, even if we do not trust them. These findings underscore the role of active engagement with social media content as a mediator in diminishing trust. The results also raise questions about the significant gap between trustworthiness and trust.
-
-*Joint work with Natalia Aruguete, Ernesto Calvo, and Carlos Scartascini*
 
 ## Testing the Causal Impact of Social Media Reduction Around the Globe
 
@@ -67,13 +42,6 @@ These results contribute to a deeper understanding of cognitive biases in politi
 
 *Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker**
 
-## The Causal Effects of Exposure to Fact-checking Information on Social Media: Evidence from a Field Experiment on Twitter
-
-[Registered Report](https://www.venturatiago.com/talk/fact-checking/fct_timeline.pdf)
-
-**Abstract:** Social media companies and civic society rely heavily on fact-checking to counter misinformation. While numerous studies have shown the efficacy of single-shot corrective interventions, the effects of sustained exposure to fact-checking information in a realistic social media environment have yet to be tested. In this study, we conduct a one-month field intervention implemented on a widely used social media platform to analyze the causal effect of substantially increasing users' exposure to fact-checking accounts and content on resilience to misinformation and attitudinal outcomes. In our design, Twitter users will be randomly assigned to an intervention group that will have a new timeline in their accounts composed of a pre-curated list of fact-checking organizations added to the top of their Twitter feeds, and a control group where nothing is added. Over a four-week period, participants' compliance with the intervention will be consistently assessed, and two survey waves will measure outcomes of interest.
-
-*Joint work with Kevin Aslett, Felicia Loecherbach, Joshua A. Tucker, Solomon Messing*
 
 ## Voting for Violence: Criminal Violence and the Election of Law and Order Politicians in Brazil
 
@@ -103,9 +71,9 @@ Our results inform the emerging literature on political communication and the ho
 - Presented at MPSA and APSA 2023
       	
 
-### The Effects of WhatsApp on Politics: Evidence from a Multimedia Deactivation Experiment
+### Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
 
-**Abstract:** Recent scholarly work has investigated how social media platforms increase users' exposure to misinformation and harmful content, contributing to contemporary democratic ills such as increased levels of polarization, intergroup prejudice, and offline violence. This paper presents two distinct interventions to identify the causal effects of the most heavily used social media messaging app in the world---WhatsApp---on exposure to online misinformation and its downstream effects on political attitudes. We deploy simultaneous field experiments in India and South Africa, incentivizing participants to either (1) reduce exposure to multimedia on WhatsApp or (2) limit overall WhatsApp usage to up to 10 minutes per day for four weeks ahead of their 2024 general elections. Our intervention significantly reduced participants’ exposure to false rumors circulating widely during the election and to overall political news. These changes in the informational environment, however, did not significantly change belief accuracy. We also detected a significant reduction in ethnic-based prejudice in India when participants reduced their overall WhatsApp usage, but estimated precise nulls for polarization outcomes in South Africa.  
+**Abstract:**  Recent research has investigated how social media platforms may spread misinformation and encourage harmful political discourse, which fuels political polarization, prejudice, and offline violence. We deploy online field experiments in Brazil, India, and South Africa to examine how restricting the use of WhatsApp, the world's most widely used messaging app, affects information exposure, political attitudes, and individual well-being. We incentivize participants to either (1) stop consuming multimedia content on WhatsApp or (2) limit overall WhatsApp usage to 10 minutes per day for four weeks ahead of each country's elections. We find that our interventions significantly reduced participants’ exposure to misinformation, online toxicity, and uncivil discussions about politics---but at the expense of keeping up with true political news. Using a wide range of measures, we  detected no changes to political attitudes, but uncovered substantial gains to individual well-being as treated participants substituted WhatsApp usage for other activities. Results highlight the complex trade-offs associated with the effects of social media use on information consumption and its downstream effects. 
 
 *Joint Work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Joshua Tucker* 
 
