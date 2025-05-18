@@ -18,7 +18,7 @@ view: 10
 
 ## Testing the Causal Impact of Social Media Reduction Around the Globe
 
-*Invited to Submit at Nature*
+*Under Review at Nature*
 
 [Project Webpage](https://globalsocialmediastudy.com/)
 
@@ -37,21 +37,10 @@ Yet, there is little research that integrates these processes, despite each poin
 In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. 
 We find that both partisan motivated reasoning and prior exposure (`illusory truth effects') manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. 
 However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases.  
-% The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. 
+The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. 
 These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
 
 *Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker**
-
-
-## Voting for Violence: Criminal Violence and the Election of Law and Order Politicians in Brazil
-
-*R&R at Comparative Politics*
-
-[Paper](https://venturatiago.com/files/ventura_voting_for_violence_jmp.pdf)
-
-**Abstract:** This article discusses how criminal violence affects voting behavior and citizens' demand for security policies in unequal and violent societies. I propose a theory considering both the micro-level dynamics and the supply of politicians framing the menu of security policies available to voters. I argue that rather than priming on valence considerations, security policies on unequal societies work as a wedge issue in which voters' security preferences overlap with prior partisan identities and income status. Using Brazil as a case study, I apply a combination of fine-grained observational data and computational text analysis to test my argument. Results show that crime shocks increase law-and-order candidates' vote share, especially in more conservative municipalities. More importantly, within each city, the largest share of the supporters of law and order candidates come from wealthier neighborhoods after crime shocks. Computational text analysis connects law-and-order candidates and expressive support for punitive penal policies.
-
--   Winner of the Mario Fuks Awards 2022 - Best Paper in the Political Behavior Section of the Brazilian Political Science Political Behavior.
 
 ## In Progress (Papers available upon request)
 

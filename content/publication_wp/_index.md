@@ -15,18 +15,6 @@ title: Papers Under Review
 
 *Joint work with Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*.
 
-
-
-## Voting for Violence: Criminal Violence and the Election of Law and Order Politicians in Brazil
-
-*R&R at Comparative Politics*
-
-[Paper](https://venturatiago.com/files/ventura_voting_for_violence_jmp.pdf)
-
-**Abstract:** This article discusses how criminal violence affects voting behavior and citizens' demand for security policies in unequal and violent societies. I propose a theory considering both the micro-level dynamics and the supply of politicians framing the menu of security policies available to voters. I argue that rather than priming on valence considerations, security policies on unequal societies work as a wedge issue in which voters' security preferences overlap with prior partisan identities and income status. Using Brazil as a case study, I apply a combination of fine-grained observational data and computational text analysis to test my argument. Results show that crime shocks increase law-and-order candidates' vote share, especially in more conservative municipalities. More importantly, within each city, the largest share of the supporters of law and order candidates come from wealthier neighborhoods after crime shocks. Computational text analysis connects law-and-order candidates and expressive support for punitive penal policies.
-
--   Winner of the Mario Fuks Awards 2022 - Best Paper in the Political Behavior Section of the Brazilian Political Science Political Behavior.
-
 ## Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
 
 *In Preparation. Draft available upon request*
@@ -37,7 +25,7 @@ title: Papers Under Review
 
 ## Testing the Causal Impact of Social Media Reduction Around the Globe
 
-*Invited to Submit at Nature*
+*Under Review at Nature*
 
 [Project Webpage](https://globalsocialmediastudy.com/)
 
