@@ -1,12 +1,12 @@
 +++
-title = "Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil"
-date = 2025-05-15T15:35:10-04:00
+title = "Survey Professionalism: New Evidence from Web Browsing Data"
+date = 2025-06-19T15:35:10-04:00
 draft = true
 active = false
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tiago Ventura", "Rajeshwari Majumdar", "Jonathan Nagler", "Joshua A. Tucker"]
+authors = ["Bernhard Clemm von Hohenberg", "Tiago Ventura", "Jonathan Nagler", "Ericka Menchen-Trevino", "Magdalena Wojcieszak"]
 
 # Publication type.
 # Legend:
@@ -21,11 +21,11 @@ authors = ["Tiago Ventura", "Rajeshwari Majumdar", "Jonathan Nagler", "Joshua A.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Journal of Politics"
-publication_short = "The Journal of Politics"
+publication = "Conditional Accepted at Political Analysis"
+publication_short = "Political Analysis"
 
 # Abstract and optional shortened version.
-abstract = "In most advanced democracies, concerns about the spread of misinformation are typically associated with feed-based social media platforms like Twitter and Facebook. These platforms also account for the vast majority of research on the topic. However, in most of the world, particularly in Global South countries, misinformation often reaches citizens through social media messaging apps, particularly WhatsApp. To fill the resulting gap in the literature, we conducted a _multimedia deactivation_ experiment to test the impact of reducing exposure to potential sources of misinformation on WhatsApp during the weeks leading up to the 2022 Presidential election in Brazil. We find that this intervention significantly reduced participants’ recall of false rumors circulating widely during the election. However, consistent with theories of mass media minimal effects, a short-term change in the information environment did not lead to significant changes in belief accuracy, political polarization, or well-being"
+abstract = "Online panels have become an important resource for research in political science, but the compensation offered to panelists incentivizes them to become ``survey professionals,'' raising concerns about data quality. We provide evidence on survey professionalism  exploring three U.S. samples of subjects who donated their browsing data,  recruited via Lucid, YouGov, and Facebook (total n = 3,886). Survey professionalism is common, but varies across samples: by our most conservative estimate, we find 1.7% of respondents on Facebook, 7.9% on YouGov, and 34.3% on Lucid to be  professionals (under the assumption that professionals are as likely as non-professionals to donate data after conditioning on observable demographics available from all online survey takers). However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability. They are, however, somewhat more likely to speed, straightline, and attempt to take questionnaires repeatedly. To address potential selection issues in donating of browsing data, we present sensitivity analyses with lower bounds for survey professionalism. While concerns about professionalism are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -53,9 +53,9 @@ slides = ""
 tags = ["Social Media"," Misinformation", "WhatsApp", "Elections", "Global South"]
 
 # Links (optional).
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400"
+url_preprint = "https://osf.io/preprints/osf/jxdc8_v1"
 url_pdf= ""
-url_project= "https://osf.io/qxk9b"
+url_project= ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
