@@ -9,7 +9,7 @@ title: Papers Under Review
 
 *Forthcoming at Political Analysis*
 
-[Paper](https://osf.io/preprints/osf/jxdc8)
+[Paper]()
 
 **Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
 
@@ -37,7 +37,7 @@ title: Papers Under Review
 
 *Under Review*
 
-[Paper](https://www.venturatiago.com/talk/ite/ite/pdf)
+[Paper](https://www.venturatiago.com/talk/ite/ite.pdf)
 
 **Abstract:** Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. 
 Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. 

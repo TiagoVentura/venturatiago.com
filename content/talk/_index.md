@@ -10,7 +10,7 @@ view: 10
 
 *Conditionally Accepted at Political Analysis*
 
-[Paper](https://osf.io/preprints/osf/jxdc8)
+[Paper](https://www.venturatiago.com/talk/professionals/prof.pdf)
 
 **Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total n = 3,886). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
 
@@ -26,11 +26,11 @@ view: 10
 
 *Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Co-authors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel.**
 
-## Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing
+### Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing
 
 *Under Review*
 
-[Paper](https://www.venturatiago.com/talk/ite/ite/pdf)
+[Paper](https://www.venturatiago.com/talk/ite/ite.pdf)
 
 **Abstract:** Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. 
 We find that both partisan motivated reasoning and prior exposure (`illusory truth effects') manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. 
@@ -38,6 +38,18 @@ However, we also find that the duration of these biases attenuates sharply over 
 These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
 
 *Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker*
+
+
+### Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
+
+[Paper](https://www.venturatiago.com/talk/vmtn_whatsapp/MVLTT_multicountry.pdf)
+
+**Abstract:**  Recent research has investigated how social media platforms may spread misinformation and encourage harmful political discourse, which fuels political polarization, prejudice, and offline violence. We deploy online field experiments in Brazil, India, and South Africa to examine how restricting the use of WhatsApp, the world's most widely used messaging app, affects information exposure, political attitudes, and individual well-being. We incentivize participants to either (1) stop consuming multimedia content on WhatsApp or (2) limit overall WhatsApp usage to 10 minutes per day for four weeks ahead of each country's elections. We find that our interventions significantly reduced participants’ exposure to misinformation, online toxicity, and uncivil discussions about politics---but at the expense of keeping up with true political news. Using a wide range of measures, we  detected no changes to political attitudes, but uncovered substantial gains to individual well-being as treated participants substituted WhatsApp usage for other activities. Results highlight the complex trade-offs associated with the effects of social media use on information consumption and its downstream effects. 
+
+*Joint Work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Joshua Tucker* 
+
+- Presented at APSA 2024
+
 
 ### Comparing the Humanness of Machine-Generated and Human-Authored Text
 
@@ -47,7 +59,6 @@ These results contribute to a deeper understanding of cognitive biases in politi
 
 *Under Review at ACM Computing Surveys*
 
-## In Progress (Papers available upon request)
 
 ### The Effects of Partisan Geographical Segregation on Online Behavior on Twitter
 
@@ -64,14 +75,6 @@ Our results inform the emerging literature on political communication and the ho
 
 - Presented at MPSA and APSA 2023
       	
-
-### Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
-
-**Abstract:**  Recent research has investigated how social media platforms may spread misinformation and encourage harmful political discourse, which fuels political polarization, prejudice, and offline violence. We deploy online field experiments in Brazil, India, and South Africa to examine how restricting the use of WhatsApp, the world's most widely used messaging app, affects information exposure, political attitudes, and individual well-being. We incentivize participants to either (1) stop consuming multimedia content on WhatsApp or (2) limit overall WhatsApp usage to 10 minutes per day for four weeks ahead of each country's elections. We find that our interventions significantly reduced participants’ exposure to misinformation, online toxicity, and uncivil discussions about politics---but at the expense of keeping up with true political news. Using a wide range of measures, we  detected no changes to political attitudes, but uncovered substantial gains to individual well-being as treated participants substituted WhatsApp usage for other activities. Results highlight the complex trade-offs associated with the effects of social media use on information consumption and its downstream effects. 
-
-*Joint Work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanco, and Joshua Tucker* 
-
-- Presented at APSA 2024
 
 
 
