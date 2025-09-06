@@ -8,23 +8,23 @@ view: 10
 
 ## Survey Professionalism: New Evidence from Browsing Data
 
-*R&R at Political Analysis*
+*Conditionally Accepted at Political Analysis*
 
 [Paper](https://osf.io/preprints/osf/jxdc8)
 
-**Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
+**Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total n = 3,886). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
 
 *Joint work with Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*.
 
 ## Testing the Causal Impact of Social Media Reduction Around the Globe
 
-*Under Review at Nature*
+*Revise & Resubmit at Nature*
 
 [Project Webpage](https://globalsocialmediastudy.com/)
 
 **Abstract:** More than half of the world’s population now uses social media. There is widespread debate among the general public, politicians, and academics about social media’s impact on important variables, such as intergroup conflict and well-being. However, many studies on the impact of social media are either correlational or focus primarily on samples from the United States and Western Europe. We plan to conduct a global field experiment to measure the causal impact of incentivizing people to substantially reduce their social media usage across 23 countries (projected n > 8,000) for two weeks. We will then test hypotheses on how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across different world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democracy. This large-scale, high-powered global field experiment, and the global dataset resulting from it, will provide much-needed evidence to inform ongoing debates about the impact of social media usage across diverse cultural and political contexts.
 
-*Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Coauthors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel. *
+*Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Co-authors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel.**
 
 ## Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing
 
@@ -32,15 +32,20 @@ view: 10
 
 [Paper](https://www.venturatiago.com/talk/ite/ite/pdf)
 
-**Abstract:** Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. 
-Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. 
-In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. 
+**Abstract:** Partisan motivations and repeated exposure are two dominant explanations for how individuals form beliefs about political misinformation. Yet, there is little research that integrates these processes, despite each pointing to different interventions to combat the spread of false information, especially in online information environments. In this paper, we situate both frameworks within a unified Bayesian model of belief formation and design survey experiments to explore several implications of this theoretical framework. 
 We find that both partisan motivated reasoning and prior exposure (`illusory truth effects') manifest in our data, and that they exacerbate each other, painting a bleak picture of how the steady drumbeat of partisan-flavored misinformation online influences public beliefs. 
-However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases.  
-The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. 
+However, we also find that the duration of these biases attenuates sharply over time and that attaching warning labels to false information mitigates the manifestation of both cognitive biases.  The findings suggest that partisan motivations dominate belief formation in political settings, with prior exposure to misinformation playing a secondary role. 
 These results contribute to a deeper understanding of cognitive biases in political information processing and provide a structured way of thinking about how best to understand the phenomenon of online misinformation, shifting the focus from the role of mass-level beliefs for falsehoods to the role of political elites and partisan media spreading rumors.
 
-*Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker**
+*Joint work with Jim Bisbbe, Sarah Graham and Joshua A. Tucker*
+
+### Comparing the Humanness of Machine-Generated and Human-Authored Text
+
+**Abstract:** As chatbots have become more commonplace writing tools, a need exists to understand the breadth of research about the humanness of machine-generated text via techniques that extend beyond the traditional Turing Test, in both dialogue (e.g., conversing with a chatbot) and non-dialogue (e.g., reading a news article) scenarios. To fill this gap and support future work, we synthesize current literature that examines and identifies humanness features of written communication generated with the state-of-the-art generative pre-trained transformer language models, provide a working definition of humanness, propose a text-based humanness taxonomy based on linguistic properties, and identify current research gaps.
+
+*Led by: Autumn Toney-Wails. Co-authors: Leticia Bode, Tiago Ventura, Ethan Wilcox, and Lisa Singh*
+
+*Under Review at ACM Computing Surveys*
 
 ## In Progress (Papers available upon request)
 

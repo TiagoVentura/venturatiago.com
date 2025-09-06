@@ -7,7 +7,7 @@ title: Papers Under Review
 
 ## Survey Professionalism: New Evidence from Browsing Data
 
-*R&R at Political Analysis*
+*Forthcoming at Political Analysis*
 
 [Paper](https://osf.io/preprints/osf/jxdc8)
 
@@ -25,7 +25,7 @@ title: Papers Under Review
 
 ## Testing the Causal Impact of Social Media Reduction Around the Globe
 
-*Under Review at Nature*
+*R&R at Nature*
 
 [Project Webpage](https://globalsocialmediastudy.com/)
 
