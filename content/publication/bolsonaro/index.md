@@ -53,7 +53,6 @@ tags = ["Social Media", "News Sharing", "Gatekeeping", "Brazil"]
 
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/abs/10.1080/21670811.2020.1852094"
-url_preprint = "files/Sharing_News_in__Bolsonaro_2020.pdf"
 url_code = ""
 url_dataset = ""
 url_slides = ""

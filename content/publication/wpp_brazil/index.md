@@ -53,8 +53,7 @@ slides = ""
 tags = ["Social Media"," Misinformation", "WhatsApp", "Elections", "Global South"]
 
 # Links (optional).
-url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4457400"
-url_pdf= ""
+url_pdf= "https://www.journals.uchicago.edu/doi/10.1086/737172"
 url_project= "https://osf.io/qxk9b"
 url_code = ""
 url_dataset = ""

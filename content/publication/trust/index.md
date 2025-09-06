@@ -53,7 +53,6 @@ tags = ["Trust", "Trustworthiness", "Social media", "Political polarization"]
 # Links (optional).
 
 url_pdf = "https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2502503"
-url_preprint ="ACSV_trust.pdf"
 url_project = "https://osf.io/24khj/"
 url_dataset = ""
 url_slides = ""

@@ -15,7 +15,6 @@ publication_short: "*Electoral Studies*"
 publication_types:
 - "2"
 title: "Do Mayors Matter? Reverse Coattails on Congresional Elections in Brazil"
-url_preprint: files/ventura_do_mayors_matter.pdf
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0261379420301219?dgcid=author
 url_code: https://github.com/TiagoVentura/ventura_jels_2021
 ---

@@ -53,7 +53,6 @@ tags = ["Social Media", "News Sharing", "Gatekeeping"]
 
 # Links (optional).
 url_pdf = "https://journals.sagepub.com/doi/metrics/10.1177/19401612211057068"
-url_preprint = "files/nbpd_final.pdf"
 url_code = "https://github.com/TiagoVentura/News_by_popular_demand_IJPP"
 url_dataset = ""
 url_project = ""

@@ -53,7 +53,6 @@ tags = ["Violence", "Punitive Preferences", "Network Models", "Victimization"]
 
 # Links (optional).
 url_pdf= "https://journals.sagepub.com/doi/full/10.1177/00104140231169035"
-url_preprint="preprint.pdf"
 url_project= "https://osf.io/r7vah/"
 url_code = "https://github.com/TiagoVentura/law_and_order_mexico_CPS"
 url_dataset = ""

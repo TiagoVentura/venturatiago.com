@@ -53,7 +53,6 @@ tags = ["Social Media", "Streaming Chats", "Experiments"]
 
 # Links (optional).
 url_pdf= "https://academic.oup.com/joc/article/71/6/947/6415947?searchresult=1"
-url_preprint= "files/ACMMV_the_effect_of_streaming_chat_on_perceptions_of_debates.pdf"
 url_project= "https://osf.io/hc9fz/"
 url_code = ""
 url_dataset = ""
