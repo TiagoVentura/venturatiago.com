@@ -2,7 +2,7 @@
 title = "Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil"
 date = 2025-05-15T15:35:10-04:00
 draft = true
-active = false
+active = true
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -54,8 +54,8 @@ tags = ["Social Media"," Misinformation", "WhatsApp", "Elections", "Global South
 
 # Links (optional).
 url_pdf= "https://www.journals.uchicago.edu/doi/10.1086/737172"
-url_project= "https://osf.io/qxk9b"
-url_code = ""
+url_pre_registration= "https://osf.io/qxk9b"
+url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FWHDPY"
 url_dataset = ""
 url_slides = ""
 url_video = ""

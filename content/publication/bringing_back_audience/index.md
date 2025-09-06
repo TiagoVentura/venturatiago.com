@@ -53,7 +53,6 @@ tags = ["Social Media", "Streaming Chats", "Experiments"]
 
 # Links (optional).
 url_pdf= "https://journalqd.org/article/view/2573/1820"
-url_preprint = "ventura_etal_jqd.pdf"
 url_project= ""
 url_code = ""
 url_dataset = ""

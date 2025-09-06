@@ -2,7 +2,7 @@
 title = "The fact-checking dilemma: Fact-checking increases the reputation of the fact-checker but creates perceptions of ideological bias"
 date = 2025-03-01T15:35:10-04:00
 draft = true
-active = false
+active = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tiago Ventura","Ernesto Calvo", "Natalia Aruguete"]
