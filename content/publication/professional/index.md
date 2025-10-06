@@ -1,6 +1,6 @@
 +++
 title = "Survey Professionalism: New Evidence from Web Browsing Data"
-date = 2025-06-19T15:35:10-04:00
+date = 2025-09-19T15:35:10-04:00
 draft = true
 active = true
 
@@ -21,7 +21,7 @@ authors = ["Bernhard Clemm von Hohenberg", "Tiago Ventura", "Jonathan Nagler", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditional Accepted at Political Analysis"
+publication = "Political Analysis"
 publication_short = "Political Analysis"
 
 # Abstract and optional shortened version.
@@ -54,9 +54,9 @@ tags = ["Social Media"," Misinformation", "WhatsApp", "Elections", "Global South
 
 # Links (optional).
 url_preprint = "https://osf.io/preprints/osf/jxdc8_v1"
-url_pdf= ""
+url_pdf= "https://www.cambridge.org/core/journals/political-analysis/article/survey-professionalism-new-evidence-from-web-browsing-data/552625B9C6C5F32BA1DD69435043C184#article"
 url_project= ""
-url_code = ""
+url_code = "https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/PY8COU"
 url_dataset = ""
 url_slides = ""
 url_video = ""

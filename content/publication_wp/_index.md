@@ -5,15 +5,6 @@ header:
 title: Papers Under Review
 ---
 
-## Survey Professionalism: New Evidence from Browsing Data
-
-*Forthcoming at Political Analysis*
-
-[Paper]()
-
-**Abstract:** Online panels have become an important resource for research in political science, but the financial compensation offered to panelists incentivizes them to become \`\`survey professionals,'' which raises concerns about data quality. We provide evidence on survey professionalism using behavioral web browsing data from three U.S. samples, recruited via Lucid, YouGov, and Facebook (total $n = 3,886$). Survey professionalism is common but varies across samples: By our most conservative measure, we identify 1.7% of respondents on Facebook, 7.9% of respondents on YouGov, and 34.3% of respondents on Lucid as survey professionals. However, evidence that professionals lower data quality is limited: they do not systematically differ demographically or politically from non-professionals and do not exhibit more response instability, although they are somewhat more likely to speed, straightline, and take questionnaires repeatedly. While concerns are warranted, we conclude that survey professionals do not, by and large, distort inferences of research based on online panels
-
-*Joint work with Bernhard Clemm von Hohenberg, Tiago Ventura, Magdalena Wojcieszak, Jonathan Nagler and Ericka Menchen-Trevino*.
 
 ## Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
 
