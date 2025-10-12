@@ -23,7 +23,6 @@ weight = 100
 
 - [Text-As-Data: Computational Linguistics](https://tiagoventura.github.io/PPOL_6801_2024/) - Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2024
 
-
 - [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) - Undergraduate Seminar at FGV-CPDOC, 2021
 
 
@@ -33,7 +32,6 @@ weight = 100
 - [Collecting and Analyzing Social Media Data](https://github.com/TiagoVentura/workshop_big_data_conference) - Big Data Conference at University of Pennsylvania, 2022
 
 - [Data Processing and Text Analysis / Scrapping and Big data](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop) - Two week workshop at IPSA-Flacso Summer School, 2021
-
 
 - [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/) -Student-led Workshop at UMD, 2020
 

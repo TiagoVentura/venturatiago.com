@@ -16,23 +16,22 @@ weight = 100
 +++
 
 
-## Seminars
+## Courses
 
 
-- [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203_fall_2023/) - Master Level Course at Data Science and Public Policy Program, McCourt School, Georgetown University, 2023
+- [Data Science I: Foundations](https://tiagoventura.github.io/ppol5203/) - Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University -- Fall 2023, Fall 2024, Fall 2025
 
+- [Text-As-Data: Computational Linguistics](https://tiagoventura.github.io/PPOL_6801/) - Graduate Course at Data Science and Public Policy Program, McCourt School, Georgetown University -- Spring 2023, Fall 2025
 
 - [Introduction to Computational Social Science](https://fgvintrocss.netlify.app/) - Undergraduate Seminar at FGV-CPDOC, 2021
 
-
+<!--
 ## Workshops
-
 
 
 - [Collecting and Analyzing Social Media Data](https://github.com/TiagoVentura/workshop_big_data_conference) - Big Data Conference at University of Pennsylvania, 2022
 
 - [Data Processing and Text Analysis / Scrapping and Big data](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop) - Two week workshop at IPSA-Flacso Summer School, 2021
-
 
 - [Data Visualization (Tidying your model into a nice plot)](http://datavizgvpt.tiagoventura.rbind.io/) -Student-led Workshop at UMD, 2020
 
@@ -43,4 +42,4 @@ weight = 100
 - {{% staticref "files/gsa_tidyverse_workshop" %}} Introduction to Tidyverse {{% /staticref %}} - Student-led Workshops at UMD, 2018
 
 - {{% staticref "files/crash_course_gvpt" %}} R Crash Course {{% /staticref %}} - GVPT 489: Tweeting Political Crisis, 2018
-
+-->
