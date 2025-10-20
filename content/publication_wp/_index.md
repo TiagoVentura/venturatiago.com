@@ -5,6 +5,15 @@ header:
 title: Papers Under Review
 ---
 
+## Testing the Causal Impact of Social Media Reduction Around the Globe
+
+*Conditionally Accepted at Nature*
+
+[Project Webpage](https://globalsocialmediastudy.com/)
+
+**Abstract:** More than half of the world’s population now uses social media. There is widespread debate among the general public, politicians, and academics about social media’s impact on important variables, such as intergroup conflict and well-being. However, many studies on the impact of social media are either correlational or focus primarily on samples from the United States and Western Europe. We plan to conduct a global field experiment to measure the causal impact of incentivizing people to substantially reduce their social media usage across 23 countries (projected n > 8,000) for two weeks. We will then test hypotheses on how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across different world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democracy. This large-scale, high-powered global field experiment, and the global dataset resulting from it, will provide much-needed evidence to inform ongoing debates about the impact of social media usage across diverse cultural and political contexts.
+
+*Co-first authors: Steven Rathje, Nejla Asimovic and Tiago Ventura. Coauthors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel. *
 
 ## Reducing Social Media Usage During Elections: Evidence from a Multi-Country WhatsApp Deactivation Experiment
 
@@ -13,16 +22,6 @@ title: Papers Under Review
 **Abstract:**  Recent research has investigated how social media platforms may spread misinformation and encourage harmful political discourse, which fuels political polarization, prejudice, and offline violence. We deploy online field experiments in Brazil, India, and South Africa to examine how restricting the use of WhatsApp, the world's most widely used messaging app, affects information exposure, political attitudes, and individual well-being. We incentivize participants to either (1) stop consuming multimedia content on WhatsApp or (2) limit overall WhatsApp usage to 10 minutes per day for four weeks ahead of each country's elections. We find that our interventions significantly reduced participants’ exposure to misinformation, online toxicity, and uncivil discussions about politics---but at the expense of keeping up with true political news. Using a wide range of measures, we  detected no changes to political attitudes, but uncovered substantial gains to individual well-being as treated participants substituted WhatsApp usage for other activities. Results highlight the complex trade-offs associated with the effects of social media use on information consumption and its downstream effects. 
 
 *Joint work with Rajeshwari Majumdar, Shelley Liu, Carolina Torreblanca, and Joshua A. Tucker*
-
-## Testing the Causal Impact of Social Media Reduction Around the Globe
-
-*R&R at Nature*
-
-[Project Webpage](https://globalsocialmediastudy.com/)
-
-**Abstract:** More than half of the world’s population now uses social media. There is widespread debate among the general public, politicians, and academics about social media’s impact on important variables, such as intergroup conflict and well-being. However, many studies on the impact of social media are either correlational or focus primarily on samples from the United States and Western Europe. We plan to conduct a global field experiment to measure the causal impact of incentivizing people to substantially reduce their social media usage across 23 countries (projected n > 8,000) for two weeks. We will then test hypotheses on how social media reduction influences four main outcomes: news knowledge, exposure to online hostility, intergroup attitudes, and well-being. We will also explore how the effects of social media reduction vary across different world regions, focusing on three theoretically-informed country-level moderators: income level, inequality, and democracy. This large-scale, high-powered global field experiment, and the global dataset resulting from it, will provide much-needed evidence to inform ongoing debates about the impact of social media usage across diverse cultural and political contexts.
-
-*Led by Steven Rathje, Nejla Asimovic and Tiago Ventura. Coauthors: Sarah Mughal, Claire E. Robertson, Christopher Barrie, ....,  Joshua A. Tucker,  Jay J. Van Bavel. *
 
 ## Understanding Beliefs in Misinformation: Repetition, Partisan Signals and Bayesian Processing
 
