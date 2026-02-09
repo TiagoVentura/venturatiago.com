@@ -55,13 +55,40 @@ user_groups:
   gtag('config', 'G-NC4JB8T01M');
 </script>
 
-I am an Assistant Professor in Computational Social Science at Georgetown University’s [McCourt School of Public Policy](https://mccourt.georgetown.edu/). Before joining Georgetown, I was a Postdoctoral Fellow at NYU’s [Center for Social Media and Politics](https://csmapnyu.org/). I received my Ph.D. in Political Science from the University of Maryland, College Park, where I am still a faculty affiliated with the [iLCSS](https://ilcss.umd.edu/). After completing my PhD, I had experience in the industry as a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
+I am an Assistant Professor in Computational Social Science at Georgetown University’s [McCourt School of Public Policy](https://mccourt.georgetown.edu/). 
+Before joining Georgetown, I was a Postdoctoral Fellow at NYU’s [Center for Social Media and Politics](https://csmapnyu.org/). 
+I received my Ph.D. in Political Science from the University of Maryland, College Park, 
+where I am still a faculty affiliated with the [iLCSS](https://ilcss.umd.edu/). 
+After completing my PhD, I had experience in the industry as a Misinformation Researcher at  [@Twitter](https://twitter.com/TwitterResearch). 
 
-My scholarship lies in the intersection between social media usage and politics and in developing new methods to use social media data to study politics. My research spans topics such as online content activation and propagation, measuring the causal effects of social media usage on exposure to misinformation and political behavior, and testing interventions to counter beliefs for misinformation. I primarily pursue a comparative approach to these issues, paying particular attention to Global South countries and using multi-country large-scale designs to study the intersection of social media and politics. Methodologically, I am interested in survey research in the digital space, large-scale digital experimentation, and the use of large language models in applied social science research.
 
-My research has been published or forthcoming at leading journals in Political Science ( _The Journal of Politics, Comparative Political Studies, Electoral Studies_), Communications ( _Journal of Communication (x2),  New Media & Society, International Journal of Press/Politics_), and general interest journals ( _Nature, Nature Scientific Reports, PLOS ONE_),  among other outlets. I have been awarded with grants from Project Liberty Institute, Tech & Public Policy Initiative at Georgetown, and EGAP. My paper "Misinformation Beyond Traditional Feeds: Evidence from a WhatsApp Deactivation Experiment in Brazil" was recognized with the 2024 APSA's Paul Lazarsfeld Best Paper Award, Best Paper Award in Internet, Technology and Politics, the Best Paper in Political Behavior and best overall paper in the 2024 Brazilian Political Science Association Conference. 
+My scholarship lies at the intersection between social media usage, online misinformation, and political behavior. 
+My research spans topics such as online content activation and propagation, 
+measuring the causal effects of social media usage on exposure to misinformation and political behavior, 
+and testing interventions to counter beliefs for misinformation. 
+I primarily pursue a comparative approach to these issues, 
+paying particular attention to Global South countries and using multi-country 
+large-scale designs to study the intersection of social media and politics. 
+Methodologically, I am interested in survey research in the digital space,  large-scale digital experimentation, and the use of large language models in applied social science research.
 
-Some of my ongoing projects are a large-scale collaborative global feed-based social media deactivation study; a multicountry deactivation experiment on WhatsApp in Brazil , South Africa, and India; developing a large-scale panel connecting US voter files with their Twitter accounts; developing a data donation pipeline for WhatsApp data;  and a field experiment increasing users' exposure to fact-checking accounts on Twitter. I am also working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*. Please, reach out if you are interested in any of those!
+My research is interdisciplinary and has appeared in general science outlets (Accepted in Principle at Nature, Nature Scientific Reports, and
+PLOS ONE), leading journals across Political
+Science (*The Journal of Politics, Political Analysis, Comparative Political Studies, among others*),
+and Communications (*Journal of Communication (x2), New Media & Society, International Journal of Press/Politics, among others*). 
+My research has received grants from the National Science Foundation (1.2M), Templeton
+Foundation, Project Liberty Institute, and EGAP, among others, and significant awards, such as 
+the 2025 MPSA Best Paper in Political Behavior, 2024 APSA
+Paul Lazarsfeld Best Paper Award, the 2024 APSA Best Paper Award in Internet, Technology, and Politics,
+the 2024 Best Overall Paper and the 2024 and 2022 Best Political Behavior Paper at 
+the Brazilian Political Science Annual Meeting
+
+
+<!-- Some of my ongoing projects are a large-scale collaborative global feed-based social media deactivation study; 
+a multicountry deactivation experiment on WhatsApp in Brazil, South Africa, and India; 
+developing a data donation pipeline for WhatsApp data;  
+and a set of experiments understanding how citizens form beliefs for misinformation. 
+I am also working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media*. 
+Please, reach out if you are interested in any of those!
 
 <!-- My recent work was awarded a large research grant from the Tech & Public Policy program at Georgetown’s McCourt School to conduct multi-country field experiments focusing on the effects of misinformation exposure through social media messaging apps on beliefs for misinformation and political attitudes in the Global South.  In addition, I am working on a book project with Natalia Aruguete and Ernesto Calvo titled *News Sharing, Content Activation and Perceptions of Polarization on Social Media  You can download my [CV here](https://venturatiago.com/files/cv.pdf), or visit the [research page](https://venturatiago.com/talk/) for drafts of working papers currently under review.. 
 
